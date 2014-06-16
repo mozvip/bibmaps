@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
+		<meta name="mobile-web-app-capable" content="yes">
+		<title>BibMaps</title>
+		
+		<!-- jQuery Mobile -->
+		<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jquerymobile/1.4.2/jquery.mobile.min.css">
+		<link rel="stylesheet" href="css/jqm-demos.css">
+		<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+		<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" href="css/typeahead.css">
+		<link rel="icon" sizes="196x196" href="images/bibmaps-196.png">
+		<link rel="icon" sizes="128x128" href="images/bibmaps-128.png">
+		<link rel="apple-touch-icon" sizes="128x128" href="images/bibmaps-128.png">
+	</head>
+	<body>
+		<div data-role="page" class="c" id="panel-fixed-page1" data-title="BibMaps">
+			<!-- Header -->
+			<div data-role="header" data-position="fixed">
+				<div id="searchbardiv">
+					<input type="search" name="search" id="searchbar" value="" placeholder="Search a building"/>
+				</div>
+				<a style="margin-top: 8px;" href="#nav-panel" data-icon="bars" data-iconpos="notext">Menu</a>
+				<a style="margin-top: 8px;" href="#add-form" data-icon="arrow-u" data-iconpos="notext" id="findmyposition" onclick="relocate();" data-textonly="false" data-textvisible="true" data-msgtext="Please wait..." data-inline="true">Position</a>
+			</div>
+			
+			<div id="splashScreen" style="top: 0px;">
+				<img id="loadingbibmapslogo" src="images/loading-logo.png" />
+				<span id="loadingtext" style="text-shadow: none;">Loading...</span>
+				<img id="loadingmichelinlogo" src="images/michelin-logo.png" />
+			</div>
+			
+			<img id="bibendum" src="images/bibendum.png" />
+			
+			<div id="map" class="ui-content jqm-content jqm-fullwidth"></div>
+			
+			<!-- Panel -->
+			<div data-role="panel" data-position-fixed="true" data-display="overlay" data-theme="b" id="nav-panel">
+				<ul data-role="listview">
+					<li data-icon="delete"><a href="#" data-rel="close" style="background-color: #008ae6;">MENU</a></li>
+					
+					<form>
+						<fieldset data-role="controlgroup" data-iconpos="right">
+							<input name="checkbox-v-2a" id="checkbox-v-2a" type="checkbox" checked="checked">
+							<label for="checkbox-v-2a">Buildings</label>
+							<input name="checkbox-v-2b" id="checkbox-v-2b" type="checkbox" checked="checked">
+							<label for="checkbox-v-2b">Parking lot</label>
+							<input name="checkbox-v-2c" id="checkbox-v-2c" type="checkbox" checked="checked">
+							<label for="checkbox-v-2c">Point of interest</label>
+							<input name="checkbox-v-2d" id="checkbox-v-2d" type="checkbox">
+							<label for="checkbox-v-2d">Building Entrance</label>
+							<input name="checkbox-v-2e" id="checkbox-v-2e" type="checkbox">
+							<label for="checkbox-v-2e">Site Entrance</label>
+						</fieldset>
+					</form>
+				</ul>
+			</div>
+			
+		</div>
+		
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquerymobile/1.4.2/jquery.mobile.min.js"></script>
+		<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=true"></script>
+		<script type="text/javascript" src="js/geoxml3.js"></script>
+		<script type="text/javascript" src="js/handlebars.js"></script>
+		<script type="text/javascript" src="js/typeahead.bundle.min.js"></script>
+		<script type="text/javascript" src="js/maps.js"></script>
+		<script type="text/javascript" src="js/nyan.js"></script>
+	</body>
+</html>

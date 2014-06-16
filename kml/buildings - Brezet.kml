@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>buildings</name>
+		<Placemark>
+			<styleUrl>#poly-DB4436-1-76</styleUrl>
+			<name>DCF1</name>
+			<ExtendedData>
+				<Data name='site'>
+					<value>Brezet</value>
+				</Data>
+				<Data name='type'>
+					<value>Batiment</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[DCF1
+
+site: Brezet
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>3.12386691570282,45.783697560711246,0.0 3.124585747718811,45.78359281319667,0.0 3.124639391899109,45.783809789972736,0.0 3.123915195465088,45.78389957321926,0.0 3.12386691570282,45.783697560711246,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#poly-DB4436-1-76</styleUrl>
+			<name>DCF2</name>
+			<ExtendedData>
+				<Data name='site'>
+					<value>Brezet</value>
+				</Data>
+				<Data name='type'>
+					<value>Batiment</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[DCF2
+
+site: Brezet
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>3.1237247586250305,45.78390892563246,0.0 3.1236952543258667,45.78379295559792,0.0 3.1237301230430603,45.783787344138496,0.0 3.123582601547241,45.78317569167743,0.0 3.1238561868667603,45.783147634064115,0.0 3.1239259243011475,45.7834095045726,0.0 3.123807907104492,45.78342446856451,0.0 3.123915195465088,45.78389957321926,0.0 3.1237247586250305,45.78390892563246,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#poly-DB4436-1-76</styleUrl>
+			<name>DCF3</name>
+			<ExtendedData>
+				<Data name='site'>
+					<value>Brezet</value>
+				</Data>
+				<Data name='type'>
+					<value>Batiment</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[DCF3
+
+site: Brezet
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>3.123582601547241,45.78317569167743,0.0 3.123416304588318,45.78250791664926,0.0 3.1242960691452026,45.78239942583334,0.0 3.124462366104126,45.78307655471382,0.0 3.123582601547241,45.78317569167743,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#poly-DB4436-1-76</styleUrl>
+			<name>Brézet 3
+</name>
+			<ExtendedData>
+				<Data name='site'>
+					<value>Brézet</value>
+				</Data>
+				<Data name='type'>
+					<value>Batiment</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Brézet 3
+
+site: Brézet
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>3.132197856903076,45.78409036213802,0.0 3.1325948238372803,45.78364144599577,0.0 3.1339681148529053,45.784210072498794,0.0 3.133474588394165,45.784711356842486,0.0 3.132197856903076,45.78409036213802,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#poly-DB4436-1-76</styleUrl>
+			<name>Brézet 2
+</name>
+			<ExtendedData>
+				<Data name='site'>
+					<value>Brézet</value>
+				</Data>
+				<Data name='type'>
+					<value>Batiment</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Brézet 2
+
+site: Brézet
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>3.1337106227874756,45.78470387501975,0.0 3.1343865394592285,45.78395568767492,0.0 3.1350302696228027,45.784247481933804,0.0 3.134375810623169,45.784950774639974,0.0 3.1337106227874756,45.78470387501975,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#poly-DB4436-1-76</styleUrl>
+			<name>Brézet 1
+</name>
+			<ExtendedData>
+				<Data name='site'>
+					<value>Brézet</value>
+				</Data>
+				<Data name='type'>
+					<value>Batiment</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Brézet 1
+
+site: Brézet
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>3.134504556655884,45.78492084747153,0.0 3.135019540786743,45.78430733697761,0.0 3.1353628635406494,45.78448690172349,0.0 3.135277032852173,45.784621574903326,0.0 3.1355130672454834,45.784711356842486,0.0 3.135073184967041,45.78521263667865,0.0 3.134504556655884,45.78492084747153,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Style id='poly-DB4436-1-76'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C3644DB</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+	</Document>
+</kml>

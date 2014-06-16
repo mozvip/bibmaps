@@ -1,0 +1,344 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>BibMaps</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>buildings</name>
+		</Folder>
+		<Folder>
+			<name>parkings</name>
+		</Folder>
+		<Folder>
+			<name>POI</name>
+			<Placemark>
+				<styleUrl>#icon-accueil</styleUrl>
+				<name>Accueil Visiteur
+</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>site</displayName>
+						<value>Carmes</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Type</displayName>
+						<value>POI</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[accueil visiteur
+
+site: Carmes
+Type: POI]]></description>
+				<Point>
+					<coordinates>3.0926728248441577,45.78320749022103,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-infirmerie</styleUrl>
+				<name>Infirmerie Carmes</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>site</displayName>
+						<value>Carmes</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Type</displayName>
+						<value>POI</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Infirmerie Carmes
+
+site: Carmes
+Type: POI]]></description>
+				<Point>
+					<coordinates>3.0934399366378784,45.784268057112364,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-cantine</styleUrl>
+				<name>Cantine</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>site</displayName>
+						<value>Carmes</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Type</displayName>
+						<value>POI</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Cantine
+
+site: Carmes
+Type: POI]]></description>
+				<Point>
+					<coordinates>3.0913370847702026,45.782605184097804,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-relais-voiture</styleUrl>
+				<name>Relais Voiture Electrique</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>site</displayName>
+						<value>Carmes</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Type</displayName>
+						<value>POI</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Relais Voiture Electrique
+
+site: Carmes
+Type: POI]]></description>
+				<Point>
+					<coordinates>3.0910058319568634,45.78470481024765,0.0</coordinates>
+				</Point>
+			</Placemark>	
+			<Placemark>
+				<styleUrl>#icon-accueil</styleUrl>
+				<name>Accueil visiteur
+</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>site</displayName>
+						<value>Cataroux</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Type</displayName>
+						<value>POI</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Accueil visiteur
+
+site: Cataroux
+Type: POI]]></description>
+				<Point>
+					<coordinates>3.1054186820983887,45.7922674851477,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-infirmerie</styleUrl>
+				<name>Infirmerie</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>site</displayName>
+						<value>Cataroux</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Type</displayName>
+						<value>POI</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Cataroux
+
+site: Cataroux
+Type: POI]]></description>
+				<Point>
+					<coordinates>3.1037932634353638,45.79184294767276,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-relais-voiture</styleUrl>
+				<name>Relais voiture électrique
+</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>site</displayName>
+						<value>Cataroux</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Type</displayName>
+						<value>POI</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Relais voiture électrique
+
+site: Cataroux
+Type: POI]]></description>
+				<Point>
+					<coordinates>3.1041768193244934,45.79095832835967,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-accueil</styleUrl>
+				<name>Accueil visiteur
+</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>site</displayName>
+						<value>Chantemerle</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Type</displayName>
+						<value>POI</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Accueil visiteur
+
+site: Chantemerle
+Type: POI]]></description>
+				<Point>
+					<coordinates>3.139925,45.807074,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-accueil</styleUrl>
+				<name>Accueil visiteur
+</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>site</displayName>
+						<value>Combaude</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Type</displayName>
+						<value>POI</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Accueil visiteur
+
+site: Combaude
+Type: POI]]></description>
+				<Point>
+					<coordinates>3.123183,45.801373,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-accueil</styleUrl>
+				<name>Accueil visiteur
+</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>site</displayName>
+						<value>Brézet</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Type</displayName>
+						<value>POI</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Accueil visiteur
+
+site: Brézet
+Type: POI]]></description>
+				<Point>
+					<coordinates>3.123588,45.783766,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='poly-DB4436-4-76'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C3644DB</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='icon-503-FFDD5E'>
+			<IconStyle>
+				<color>ff5EDDFF</color>
+				<scale>1.1</scale>
+			</IconStyle>
+		</Style>
+		<Style id='poly-4186F0-4-76'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4CF08641</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-000000-4-76'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C000000</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-DB4436-3-76'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C3644DB</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='icon-503-FF8277'>
+			<IconStyle>
+				<color>ff7782FF</color>
+				<scale>1.1</scale>
+			</IconStyle>
+		</Style>
+		<Style id='icon-infirmerie'>
+			<IconStyle>
+				<color>ff7782FF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/infirmerie.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-relais-voiture'>
+			<IconStyle>
+				<color>ff7782FF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/relais-voiture.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-accueil'>
+			<IconStyle>
+				<color>ff7782FF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/accueil.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-cantine'>
+			<IconStyle>
+				<color>ff7782FF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/cantine.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>		
+	</Document>
+</kml>
