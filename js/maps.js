@@ -7,7 +7,7 @@ var buildingMap = null;
 
 var finishedLoaded = false;
 
-var loadDelay = 0;//25;
+var loadDelay = 25;
 
 $(window).load(function(){
 	window.setTimeout(hideSplashScreen, loadDelay * 100);
