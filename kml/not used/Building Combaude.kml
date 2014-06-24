@@ -1,0 +1,473 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Building Combaude</name>
+		<Placemark>
+			<styleUrl>#poly-DB4436-1-76</styleUrl>
+			<name>T53</name>
+			<ExtendedData>
+				<Data name='Site'>
+					<value>Combaude</value>
+				</Data>
+				<Data name='type'>
+					<value>Batiment</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[T53
+
+Site: Combaude
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>3.1245052814483643,45.802365661040085,0.0 3.124183416366577,45.801774781158265,0.0 3.1263720989227295,45.80121381344636,0.0 3.1269514560699463,45.80225346913945,0.0 3.1269192695617676,45.802432976072055,0.0 3.126833438873291,45.80246289383791,0.0 3.1269729137420654,45.802732153007774,0.0 3.1253206729888916,45.80314351867118,0.0 3.1250202655792236,45.802590044163615,0.0 3.1260180473327637,45.802350702133076,0.0 3.1258034706115723,45.80199168715931,0.0 3.1245052814483643,45.802365661040085,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#poly-DB4436-1-76</styleUrl>
+			<name>D3</name>
+			<ExtendedData>
+				<Data name='Site'>
+					<value>Combaude</value>
+				</Data>
+				<Data name='type'>
+					<value>Batiment</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[D3
+
+Site: Combaude
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>3.1250202655792236,45.802590044163615,0.0 3.1253206729888916,45.80314351867118,0.0 3.1251704692840576,45.803218312101826,0.0 3.124837875366211,45.80259752358552,0.0 3.1250202655792236,45.802590044163615,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#poly-DB4436-1-76</styleUrl>
+			<name>DL2</name>
+			<ExtendedData>
+				<Data name='Site'>
+					<value>Combaude</value>
+				</Data>
+				<Data name='type'>
+					<value>Batiment</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[DL2
+
+Site: Combaude
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>3.1259429454803467,45.80300141087633,0.0 3.1267154216766357,45.804437430863906,0.0 3.126039505004883,45.804624409909444,0.0 3.1252670288085938,45.80320335342374,0.0 3.1259429454803467,45.80300141087633,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#poly-DB4436-1-76</styleUrl>
+			<name>DL1</name>
+			<ExtendedData>
+				<Data name='Site'>
+					<value>Combaude</value>
+				</Data>
+				<Data name='type'>
+					<value>Batiment</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[DL1
+
+Site: Combaude
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>3.1259429454803467,45.80300141087633,0.0 3.126484751701355,45.80284808363847,0.0 3.1272411346435547,45.804314024350035,0.0 3.1267154216766357,45.804437430863906,0.0 3.1259429454803467,45.80300141087633,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#poly-DB4436-1-76</styleUrl>
+			<name>DL3</name>
+			<ExtendedData>
+				<Data name='Site'>
+					<value>Combaude</value>
+				</Data>
+				<Data name='type'>
+					<value>Batiment</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[DL3
+
+Site: Combaude
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>3.1272411346435547,45.804314024350035,0.0 3.126484751701355,45.80284808363847,0.0 3.1270909309387207,45.80269475597868,0.0 3.1278473138809204,45.804156961118835,0.0 3.1272411346435547,45.804314024350035,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#poly-DB4436-1-76</styleUrl>
+			<name>TV36</name>
+			<ExtendedData>
+				<Data name='Site'>
+					<value>Combaude</value>
+				</Data>
+				<Data name='type'>
+					<value>Batiment</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[TV36
+
+Site: Combaude
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>3.1276756525039673,45.80540223600343,0.0 3.127562999725342,45.805192822354186,0.0 3.1266939640045166,45.80541345456956,0.0 3.1265008449554443,45.80505445933264,0.0 3.1263989210128784,45.805091854777736,0.0 3.126162886619568,45.804590753727574,0.0 3.1278902292251587,45.80414574229969,0.0 3.1284427642822266,45.80520404096251,0.0 3.1276756525039673,45.80540223600343,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#poly-DB4436-1-76</styleUrl>
+			<name>J60</name>
+			<ExtendedData>
+				<Data name='Site'>
+					<value>Combaude</value>
+				</Data>
+				<Data name='type'>
+					<value>Batiment</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[J60
+
+Site: Combaude
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>3.1247305870056152,45.80518160374363,0.0 3.1248754262924194,45.804923575077005,0.0 3.1259697675704956,45.805241436307206,0.0 3.1257927417755127,45.805506942532844,0.0 3.1247305870056152,45.80518160374363,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#poly-DB4436-1-76</styleUrl>
+			<name>J62</name>
+			<ExtendedData>
+				<Data name='Site'>
+					<value>Combaude</value>
+				</Data>
+				<Data name='type'>
+					<value>Batiment</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[J62
+
+Site: Combaude
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>3.1247305870056152,45.80518160374363,0.0 3.1218498945236206,45.804347680699095,0.0 3.121989369392395,45.80410460661004,0.0 3.1222039461135864,45.80416817993575,0.0 3.122343420982361,45.80391388619765,0.0 3.1250256299972534,45.80469172221221,0.0 3.1247305870056152,45.80518160374363,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#poly-DB4436-1-76</styleUrl>
+			<name>J57</name>
+			<ExtendedData>
+				<Data name='Site'>
+					<value>Combaude</value>
+				</Data>
+				<Data name='type'>
+					<value>Batiment</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[J57
+
+Site: Combaude
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>3.122289776802063,45.80377551999959,0.0 3.122410476207733,45.80357357952615,0.0 3.122340738773346,45.80355488129713,0.0 3.1225526332855225,45.80320335342374,0.0 3.124634027481079,45.80378860870869,0.0 3.1242799758911133,45.80435515988503,0.0 3.122289776802063,45.80377551999959,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#poly-DB4436-1-76</styleUrl>
+			<name>J63</name>
+			<ExtendedData>
+				<Data name='Site'>
+					<value>Combaude</value>
+				</Data>
+				<Data name='type'>
+					<value>Batiment</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[J63
+
+Site: Combaude
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>3.1243202090263367,45.80430841495655,0.0 3.1245937943458557,45.80383348425951,0.0 3.1247547268867493,45.803880229586504,0.0 3.1246957182884216,45.803973720122805,0.0 3.125030994415283,45.804063470890064,0.0 3.1248030066490173,45.80444677983107,0.0 3.1243202090263367,45.80430841495655,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#poly-DB4436-1-76</styleUrl>
+			<name>S60</name>
+			<ExtendedData>
+				<Data name='Site'>
+					<value>Combaude</value>
+				</Data>
+				<Data name='type'>
+					<value>Batiment</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[S60
+
+Site: Combaude
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>3.1241029500961304,45.80340155558254,0.0 3.1242236495018005,45.803201483588694,0.0 3.1244972348213196,45.80327814677406,0.0 3.124384582042694,45.80347821849259,0.0 3.1241029500961304,45.80340155558254,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#poly-DB4436-1-76</styleUrl>
+			<name>V23</name>
+			<ExtendedData>
+				<Data name='Site'>
+					<value>Combaude</value>
+				</Data>
+				<Data name='type'>
+					<value>Batiment</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[V23
+
+Site: Combaude
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>3.1226518750190735,45.8030388076996,0.0 3.122834265232086,45.802717194199154,0.0 3.1237274408340454,45.802977102927755,0.0 3.123542368412018,45.80328936576794,0.0 3.1226518750190735,45.8030388076996,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#poly-DB4436-1-76</styleUrl>
+			<name>B123</name>
+			<ExtendedData>
+				<Data name='Site'>
+					<value>Combaude</value>
+				</Data>
+				<Data name='type'>
+					<value>Batiment</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[B123
+
+Site: Combaude
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>3.123789131641388,45.80316782654716,0.0 3.1238695979118347,45.80304067754009,0.0 3.123791813850403,45.80301449976731,0.0 3.123840093612671,45.802928486998745,0.0 3.124009072780609,45.802973363242394,0.0 3.1238722801208496,45.803192134412534,0.0 3.123789131641388,45.80316782654716,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#poly-DB4436-1-76</styleUrl>
+			<name>B112</name>
+			<ExtendedData>
+				<Data name='Site'>
+					<value>Combaude</value>
+				</Data>
+				<Data name='type'>
+					<value>Batiment</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[B112
+
+Site: Combaude
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>3.1233224272727966,45.80277141986132,0.0 3.123459219932556,45.80252646903705,0.0 3.12398761510849,45.802677927307386,0.0 3.123917877674103,45.80279385805093,0.0 3.124017119407654,45.802820035927375,0.0 3.123966157436371,45.80291913777678,0.0 3.1235021352767944,45.80278450880635,0.0 3.1234806776046753,45.802818166079454,0.0 3.1233224272727966,45.80277141986132,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#poly-DB4436-1-76</styleUrl>
+			<name>Y7</name>
+			<ExtendedData>
+				<Data name='Site'>
+					<value>Combaude</value>
+				</Data>
+				<Data name='type'>
+					<value>Batiment</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Y7
+
+Site: Combaude
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>3.1216996908187866,45.80290791870833,0.0 3.122515082359314,45.80152795606088,0.0 3.1231212615966797,45.80170746533106,0.0 3.122316598892212,45.80307994417619,0.0 3.1216996908187866,45.80290791870833,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#poly-DB4436-1-76</styleUrl>
+			<name>Y6</name>
+			<ExtendedData>
+				<Data name='Site'>
+					<value>Combaude</value>
+				</Data>
+				<Data name='type'>
+					<value>Batiment</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Y6
+
+Site: Combaude
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>3.1204283237457275,45.80253020875238,0.0 3.120718002319336,45.801961769140405,0.0 3.1218284368515015,45.8022796472698,0.0 3.1215065717697144,45.80283686455574,0.0 3.1204283237457275,45.80253020875238,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#poly-DB4436-1-76</styleUrl>
+			<name>Z24</name>
+			<ExtendedData>
+				<Data name='Site'>
+					<value>Combaude</value>
+				</Data>
+				<Data name='type'>
+					<value>Batiment</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Z24
+
+Site: Combaude
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>3.12036395072937,45.80265361921767,0.0 3.121844530105591,45.8030874235323,0.0 3.12161922454834,45.80343521248288,0.0 3.1214261054992676,45.803397815925706,0.0 3.12136709690094,45.80347260901494,0.0 3.1219571828842163,45.80363715345785,0.0 3.121785521507263,45.803955022028106,0.0 3.119913339614868,45.80340529523914,0.0 3.12036395072937,45.80265361921767,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#poly-DB4436-1-76</styleUrl>
+			<name>W5</name>
+			<ExtendedData>
+				<Data name='Site'>
+					<value>Combaude</value>
+				</Data>
+				<Data name='type'>
+					<value>Batiment</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[W5
+
+Site: Combaude
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>3.1209325790405273,45.8040260747546,0.0 3.121013045310974,45.80391014657519,0.0 3.121635317802429,45.80408590855928,0.0 3.121538758277893,45.80421679478294,0.0 3.1209325790405273,45.8040260747546,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#poly-DB4436-1-76</styleUrl>
+			<name>B103</name>
+			<ExtendedData>
+				<Data name='Site'>
+					<value>Combaude</value>
+				</Data>
+				<Data name='type'>
+					<value>Batiment</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[B103
+
+Site: Combaude
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>3.120186924934387,45.80382413518941,0.0 3.1202566623687744,45.803708206589754,0.0 3.120712637901306,45.80383535407334,0.0 3.120637536048889,45.803958761647536,0.0 3.120186924934387,45.80382413518941,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Style id='poly-DB4436-1-76'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C3644DB</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+	</Document>
+</kml>

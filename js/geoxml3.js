@@ -404,8 +404,9 @@ var coordListA = [];
 			name:  geoXML3.nodeValue(node.getElementsByTagName('name')[0]),
 			description: geoXML3.nodeValue(node.getElementsByTagName('description')[0]),
 			styleUrl: geoXML3.nodeValue(node.getElementsByTagName('styleUrl')[0]),
-			site: geoXML3.nodeValue(node.getElementsByTagName('ExtendedData')[0].getElementsByTagName('Data')[0].getElementsByTagName('value')[0]),
-			type: geoXML3.nodeValue(node.getElementsByTagName('ExtendedData')[1].getElementsByTagName('Data')[0].getElementsByTagName('value')[0]),
+			id: geoXML3.nodeValue(node.getElementsByTagName('ExtendedData')[0].getElementsByTagName('Data')[0].getElementsByTagName('value')[0]),
+			site: geoXML3.nodeValue(node.getElementsByTagName('ExtendedData')[1].getElementsByTagName('Data')[0].getElementsByTagName('value')[0]),
+			type: geoXML3.nodeValue(node.getElementsByTagName('ExtendedData')[2].getElementsByTagName('Data')[0].getElementsByTagName('value')[0]),
         };
         placemark.style = doc.styles[placemark.styleUrl] || clone(defaultStyle);
         // inline style overrides shared style

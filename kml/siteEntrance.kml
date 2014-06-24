@@ -1,262 +1,542 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<kml xmlns='http://www.opengis.net/kml/2.2'>
-	<Document>
-		<name>siteEntrance</name>
-		<Placemark>
-			<styleUrl>#icon-site-entrance</styleUrl>
-			<name>Entrée</name>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>site</displayName>
-					<value>XXXX</value>
-				</Data>
-			</ExtendedData>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>Type</displayName>
-					<value>siteEntrance</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>3.0919861793518066,45.784890920287005,0.0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<styleUrl>#icon-site-entrance</styleUrl>
-			<name>Entrée</name>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>site</displayName>
-					<value>XXXX</value>
-				</Data>
-			</ExtendedData>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>Type</displayName>
-					<value>siteEntrance</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>3.0903875827789307,45.78446445616189,0.0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<styleUrl>#icon-site-entrance</styleUrl>
-			<name>Entrée</name>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>site</displayName>
-					<value>XXXX</value>
-				</Data>
-			</ExtendedData>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>Type</displayName>
-					<value>siteEntrance</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>3.090733587741852,45.78659487377098,0.0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<styleUrl>#icon-site-entrance</styleUrl>
-			<name>Entrée</name>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>site</displayName>
-					<value>XXXX</value>
-				</Data>
-			</ExtendedData>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>Type</displayName>
-					<value>siteEntrance</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>3.089776039123535,45.78257899672451,0.0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<styleUrl>#icon-site-entrance</styleUrl>
-			<name>Entrée</name>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>site</displayName>
-					<value>XXXX</value>
-				</Data>
-			</ExtendedData>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>Type</displayName>
-					<value>siteEntrance</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>3.0926835536956787,45.783207490288625,0.0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<styleUrl>#icon-site-entrance</styleUrl>
-			<name>Entrée</name>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>site</displayName>
-					<value>XXXX</value>
-				</Data>
-			</ExtendedData>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>Type</displayName>
-					<value>siteEntrance</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>3.099313974380493,45.78972395236532,0.0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<styleUrl>#icon-site-entrance</styleUrl>
-			<name>Entrée</name>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>site</displayName>
-					<value>XXXX</value>
-				</Data>
-			</ExtendedData>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>Type</displayName>
-					<value>siteEntrance</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>3.105483055114746,45.792147792090034,0.0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<styleUrl>#icon-site-entrance</styleUrl>
-			<name>Entrée</name>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>site</displayName>
-					<value>XXXX</value>
-				</Data>
-			</ExtendedData>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>Type</displayName>
-					<value>siteEntrance</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>3.104710578918457,45.79017281952624,0.0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<styleUrl>#icon-site-entrance</styleUrl>
-			<name>Entrée</name>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>site</displayName>
-					<value>XXXX</value>
-				</Data>
-			</ExtendedData>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>Type</displayName>
-					<value>siteEntrance</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>3.1031280756232036,45.78960425386282,0.0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<styleUrl>#icon-site-entrance</styleUrl>
-			<name>Entrée</name>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>site</displayName>
-					<value>XXXX</value>
-				</Data>
-			</ExtendedData>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>Type</displayName>
-					<value>siteEntrance</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>3.1075671315193176,45.795080198003,0.0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<styleUrl>#icon-site-entrance</styleUrl>
-			<name>Entrée</name>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>site</displayName>
-					<value>XXXX</value>
-				</Data>
-			</ExtendedData>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>Type</displayName>
-					<value>siteEntrance</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>3.139925,45.807074,0.0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<styleUrl>#icon-site-entrance</styleUrl>
-			<name>Entrée</name>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>site</displayName>
-					<value>XXXX</value>
-				</Data>
-			</ExtendedData>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>Type</displayName>
-					<value>siteEntrance</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>3.13863,45.811598,0.0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<styleUrl>#icon-site-entrance</styleUrl>
-			<name>Entrée</name>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>site</displayName>
-					<value>XXXX</value>
-				</Data>
-			</ExtendedData>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>Type</displayName>
-					<value>siteEntrance</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>3.123183,45.801373,0.0</coordinates>
-			</Point>
-		</Placemark>
-		<Style id='icon-site-entrance'>
-			<IconStyle>
-				<color>ff7782FF</color>
-				<scale>1.1</scale>
-				<Icon>
-					<href>images/site-entrance.png</href>
-				</Icon>
-			</IconStyle>
-		</Style>
-	</Document>
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>siteEntrance</name>
+    <Folder>
+      <Placemark>
+        <styleUrl>#icon-site-entrance</styleUrl>
+        <name>Entrée</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>50001</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>XXXX</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>siteEntrance</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>3.0919861793518066,45.784890920287005,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-site-entrance</styleUrl>
+        <name>Entrée</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>50002</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>XXXX</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>siteEntrance</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>3.0903875827789307,45.78446445616189,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-site-entrance</styleUrl>
+        <name>Entrée</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>50003</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>XXXX</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>siteEntrance</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>3.090733587741852,45.78659487377098,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-site-entrance</styleUrl>
+        <name>Entrée</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>50004</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>XXXX</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>siteEntrance</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>3.089776039123535,45.78257899672451,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-site-entrance</styleUrl>
+        <name>Entrée</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>50005</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>XXXX</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>siteEntrance</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>3.0926835536956787,45.783207490288625,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-site-entrance</styleUrl>
+        <name>Entrée</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>50006</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>XXXX</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>siteEntrance</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>3.099313974380493,45.78972395236532,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-site-entrance</styleUrl>
+        <name>Entrée</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>50007</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>XXXX</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>siteEntrance</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>3.105483055114746,45.792147792090034,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-site-entrance</styleUrl>
+        <name>Entrée</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>50008</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>XXXX</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>siteEntrance</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>3.104710578918457,45.79017281952624,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-site-entrance</styleUrl>
+        <name>Entrée</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>50009</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>XXXX</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>siteEntrance</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>3.1031280756232036,45.78960425386282,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-site-entrance</styleUrl>
+        <name>Entrée</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>50010</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>XXXX</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>siteEntrance</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>3.1075671315193176,45.795080198003,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-site-entrance</styleUrl>
+        <name>Entrée</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>50011</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>XXXX</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>siteEntrance</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>3.139925,45.807074,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-site-entrance</styleUrl>
+        <name>Entrée</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>50012</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>XXXX</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>siteEntrance</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>3.13863,45.811598,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-site-entrance</styleUrl>
+        <name>Entrée</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>50013</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>XXXX</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>siteEntrance</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>3.123183,45.801373,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-site-entrance</styleUrl>
+        <name>Entrée</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>50014</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>XXXX</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>siteEntrance</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>3.125127,45.84517,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-site-entrance</styleUrl>
+        <name>Entrée</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>50015</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>XXXX</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>siteEntrance</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>3.128778,45.841372,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-site-entrance</styleUrl>
+        <name>Entrée</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>50016</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>XXXX</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>siteEntrance</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>3.129531,45.839755,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-site-entrance</styleUrl>
+        <name>Entrée</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>50017</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>XXXX</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>siteEntrance</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>3.124513,45.8413,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-site-entrance</styleUrl>
+        <name>Entrée</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>50018</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>XXXX</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>siteEntrance</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>3.120375,45.838114,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-site-entrance</styleUrl>
+        <name>Entrée</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>50019</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>XXXX</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>siteEntrance</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>3.123073,45.842662,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-site-entrance</styleUrl>
+        <name>Entrée</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>50020</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>XXXX</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>siteEntrance</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>3.122051,45.842651,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-site-entrance</styleUrl>
+        <name>Entrée</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>50021</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>XXXX</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>siteEntrance</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>3.126218,45.844246,0.0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Style id="icon-site-entrance">
+      <IconStyle>
+        <color>ff7782FF</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>images/site-entrance.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+  </Document>
 </kml>

@@ -1,344 +1,777 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<kml xmlns='http://www.opengis.net/kml/2.2'>
-	<Document>
-		<name>BibMaps</name>
-		<description><![CDATA[]]></description>
-		<Folder>
-			<name>buildings</name>
-		</Folder>
-		<Folder>
-			<name>parkings</name>
-		</Folder>
-		<Folder>
-			<name>POI</name>
-			<Placemark>
-				<styleUrl>#icon-accueil</styleUrl>
-				<name>Accueil Visiteur
-</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>site</displayName>
-						<value>Carmes</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>Type</displayName>
-						<value>POI</value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[accueil visiteur
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>BibMaps</name>
+    <Folder>
+      <name>POI</name>
+      <Placemark>
+        <styleUrl>#icon-accueil</styleUrl>
+        <name>Accueil Visiteur</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30001</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Carmes</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[accueil visiteurs
 
 site: Carmes
 Type: POI]]></description>
-				<Point>
-					<coordinates>3.0926728248441577,45.78320749022103,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<styleUrl>#icon-infirmerie</styleUrl>
-				<name>Infirmerie Carmes</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>site</displayName>
-						<value>Carmes</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>Type</displayName>
-						<value>POI</value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[Infirmerie Carmes
+        <Point>
+          <coordinates>3.0926728248441577,45.78320749022103,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-infirmerie</styleUrl>
+        <name>Infirmerie Carmes</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30002</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Carmes</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Infirmerie Carmes
 
 site: Carmes
 Type: POI]]></description>
-				<Point>
-					<coordinates>3.0934399366378784,45.784268057112364,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<styleUrl>#icon-cantine</styleUrl>
-				<name>Cantine</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>site</displayName>
-						<value>Carmes</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>Type</displayName>
-						<value>POI</value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[Cantine
+        <Point>
+          <coordinates>3.0934399366378784,45.784268057112364,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-cantine</styleUrl>
+        <name>Cantine</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30003</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Carmes</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Cantine
 
 site: Carmes
 Type: POI]]></description>
-				<Point>
-					<coordinates>3.0913370847702026,45.782605184097804,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<styleUrl>#icon-relais-voiture</styleUrl>
-				<name>Relais Voiture Electrique</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>site</displayName>
-						<value>Carmes</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>Type</displayName>
-						<value>POI</value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[Relais Voiture Electrique
+        <Point>
+          <coordinates>3.0913370847702026,45.782605184097804,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-relais-voiture</styleUrl>
+        <name>Relais Voiture Electrique</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30004</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Carmes</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Relais Voiture Electrique
 
 site: Carmes
 Type: POI]]></description>
-				<Point>
-					<coordinates>3.0910058319568634,45.78470481024765,0.0</coordinates>
-				</Point>
-			</Placemark>	
-			<Placemark>
-				<styleUrl>#icon-accueil</styleUrl>
-				<name>Accueil visiteur
-</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>site</displayName>
-						<value>Cataroux</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>Type</displayName>
-						<value>POI</value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[Accueil visiteur
+        <Point>
+          <coordinates>3.0910058319568634,45.78470481024765,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-accueil</styleUrl>
+        <name>Accueil visiteurs</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30005</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Cataroux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Accueil visiteurs
 
 site: Cataroux
 Type: POI]]></description>
-				<Point>
-					<coordinates>3.1054186820983887,45.7922674851477,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<styleUrl>#icon-infirmerie</styleUrl>
-				<name>Infirmerie</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>site</displayName>
-						<value>Cataroux</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>Type</displayName>
-						<value>POI</value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[Cataroux
+        <Point>
+          <coordinates>3.1054186820983887,45.7922674851477,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-infirmerie</styleUrl>
+        <name>Infirmerie</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30006</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Cataroux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Cataroux
 
 site: Cataroux
 Type: POI]]></description>
-				<Point>
-					<coordinates>3.1037932634353638,45.79184294767276,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<styleUrl>#icon-relais-voiture</styleUrl>
-				<name>Relais voiture électrique
-</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>site</displayName>
-						<value>Cataroux</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>Type</displayName>
-						<value>POI</value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[Relais voiture électrique
+        <Point>
+          <coordinates>3.1037932634353638,45.79184294767276,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-relais-voiture</styleUrl>
+        <name>Relais voiture électrique</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30007</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Cataroux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Relais voiture électrique
 
 site: Cataroux
 Type: POI]]></description>
-				<Point>
-					<coordinates>3.1041768193244934,45.79095832835967,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<styleUrl>#icon-accueil</styleUrl>
-				<name>Accueil visiteur
-</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>site</displayName>
-						<value>Chantemerle</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>Type</displayName>
-						<value>POI</value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[Accueil visiteur
+        <Point>
+          <coordinates>3.1041768193244934,45.79095832835967,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-cantine</styleUrl>
+        <name>Cantine</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30008</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Cataroux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Cantine
+
+site: Cataroux
+Type: POI]]></description>
+        <Point>
+          <coordinates>3.104011,45.789043,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-accueil</styleUrl>
+        <name>Accueil visiteurs</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30009</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Chantemerle</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Accueil visiteurs
 
 site: Chantemerle
 Type: POI]]></description>
-				<Point>
-					<coordinates>3.139925,45.807074,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<styleUrl>#icon-accueil</styleUrl>
-				<name>Accueil visiteur
-</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>site</displayName>
-						<value>Combaude</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>Type</displayName>
-						<value>POI</value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[Accueil visiteur
+        <Point>
+          <coordinates>3.139925,45.807074,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-accueil</styleUrl>
+        <name>Accueil visiteurs</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30010</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Combaude</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Accueil visiteurs
 
 site: Combaude
 Type: POI]]></description>
-				<Point>
-					<coordinates>3.123183,45.801373,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<styleUrl>#icon-accueil</styleUrl>
-				<name>Accueil visiteur
-</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>site</displayName>
-						<value>Brézet</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>Type</displayName>
-						<value>POI</value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[Accueil visiteur
+        <Point>
+          <coordinates>3.123183,45.801373,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-infirmerie</styleUrl>
+        <name>Infirmerie</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30011</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Combaude</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Infirmerie
+
+site: Combaude
+Type: POI]]></description>
+        <Point>
+          <coordinates>3.124922,45.80265,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-relais-voiture</styleUrl>
+        <name>Relais voiture électrique</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30012</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Combaude</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Relais voiture électrique
+
+site: Combaude
+Type: POI]]></description>
+        <Point>
+          <coordinates>3.122777,45.801522,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-accueil</styleUrl>
+        <name>Accueil visiteurs</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30013</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Brézet</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Accueil visiteurs
 
 site: Brézet
 Type: POI]]></description>
-				<Point>
-					<coordinates>3.123588,45.783766,0.0</coordinates>
-				</Point>
-			</Placemark>
-		</Folder>
-		<Style id='poly-DB4436-4-76'>
-			<LineStyle>
-				<color>ff3644DB</color>
-				<width>4</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>4C3644DB</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-		</Style>
-		<Style id='icon-503-FFDD5E'>
-			<IconStyle>
-				<color>ff5EDDFF</color>
-				<scale>1.1</scale>
-			</IconStyle>
-		</Style>
-		<Style id='poly-4186F0-4-76'>
-			<LineStyle>
-				<color>ffF08641</color>
-				<width>4</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>4CF08641</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-		</Style>
-		<Style id='poly-000000-4-76'>
-			<LineStyle>
-				<color>ff000000</color>
-				<width>4</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>4C000000</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-		</Style>
-		<Style id='poly-DB4436-3-76'>
-			<LineStyle>
-				<color>ff3644DB</color>
-				<width>3</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>4C3644DB</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-		</Style>
-		<Style id='icon-503-FF8277'>
-			<IconStyle>
-				<color>ff7782FF</color>
-				<scale>1.1</scale>
-			</IconStyle>
-		</Style>
-		<Style id='icon-infirmerie'>
-			<IconStyle>
-				<color>ff7782FF</color>
-				<scale>1.1</scale>
-				<Icon>
-					<href>images/infirmerie.png</href>
-				</Icon>
-			</IconStyle>
-		</Style>
-		<Style id='icon-relais-voiture'>
-			<IconStyle>
-				<color>ff7782FF</color>
-				<scale>1.1</scale>
-				<Icon>
-					<href>images/relais-voiture.png</href>
-				</Icon>
-			</IconStyle>
-		</Style>
-		<Style id='icon-accueil'>
-			<IconStyle>
-				<color>ff7782FF</color>
-				<scale>1.1</scale>
-				<Icon>
-					<href>images/accueil.png</href>
-				</Icon>
-			</IconStyle>
-		</Style>
-		<Style id='icon-cantine'>
-			<IconStyle>
-				<color>ff7782FF</color>
-				<scale>1.1</scale>
-				<Icon>
-					<href>images/cantine.png</href>
-				</Icon>
-			</IconStyle>
-		</Style>		
-	</Document>
+        <Point>
+          <coordinates>3.123588,45.783766,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-infirmerie</styleUrl>
+        <name>Infirmerie</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30014</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Brézet</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Infirmerie
+
+site: Brézet
+Type: POI]]></description>
+        <Point>
+          <coordinates>3.124204,45.782478,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-relais-voiture</styleUrl>
+        <name>Relais voiture électrique</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30015</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Brézet</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Relais voiture électrique
+
+site: Brézet
+Type: POI]]></description>
+        <Point>
+          <coordinates>3.124633,45.78388,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-accueil</styleUrl>
+        <name>Accueil visiteurs</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30016</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Ladoux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Accueil visiteurs
+
+site: Ladoux
+Type: POI]]></description>
+        <Point>
+          <coordinates>3.124902,45.845178,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-accueil</styleUrl>
+        <name>Accueil entreprises</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30017</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Ladoux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Accueil entreprises
+
+site: Ladoux
+Type: POI]]></description>
+        <Point>
+          <coordinates>3.128595,45.840838,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-cantine</styleUrl>
+        <name>Cantine 1</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30018</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Ladoux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Cantine 1
+
+site: Ladoux
+Type: POI]]></description>
+        <Point>
+          <coordinates>3.125883,45.845366,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-cantine</styleUrl>
+        <name>Cantine 2</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30019</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Ladoux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Cantine 2
+
+site: Ladoux
+Type: POI]]></description>
+        <Point>
+          <coordinates>3.117863,45.837782,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-infirmerie</styleUrl>
+        <name>Infirmerie</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30020</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Ladoux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Infirmerie
+
+site: Ladoux
+Type: POI]]></description>
+        <Point>
+          <coordinates>3.125685,45.84485,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-plane</styleUrl>
+        <name>Michelin Air Services</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30021</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>MAS</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Michelin Air Service
+
+site: MAS
+Type: POI]]></description>
+        <Point>
+          <coordinates>3.155087,45.79098,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-relais-voiture</styleUrl>
+        <name>Relais voiture électrique</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30022</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Ladoux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Relais voiture électrique
+
+site: Ladoux
+Type: POI]]></description>
+        <Point>
+          <coordinates>3.123467,45.841585,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-relais-voiture</styleUrl>
+        <name>Relais voiture électrique</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30023</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Ladoux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Relais voiture électrique
+
+site: Ladoux
+Type: POI]]></description>
+        <Point>
+          <coordinates>3.130175,45.845118,0.0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Style id="poly-DB4436-4-76">
+      <LineStyle>
+        <color>ff3644DB</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4C3644DB</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="icon-503-FFDD5E">
+      <IconStyle>
+        <color>ff5EDDFF</color>
+        <scale>1.1</scale>
+      </IconStyle>
+    </Style>
+    <Style id="poly-4186F0-4-76">
+      <LineStyle>
+        <color>ffF08641</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4CF08641</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-000000-4-76">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4C000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-DB4436-3-76">
+      <LineStyle>
+        <color>ff3644DB</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4C3644DB</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="icon-503-FF8277">
+      <IconStyle>
+        <color>ff7782FF</color>
+        <scale>1.1</scale>
+      </IconStyle>
+    </Style>
+    <Style id="icon-infirmerie">
+      <IconStyle>
+        <color>ff7782FF</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>images/infirmerie.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-relais-voiture">
+      <IconStyle>
+        <color>ff7782FF</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>images/relais-voiture.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-accueil">
+      <IconStyle>
+        <color>ff7782FF</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>images/accueil.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-cantine">
+      <IconStyle>
+        <color>ff7782FF</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>images/cantine.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-plane">
+      <IconStyle>
+        <color>ff7782FF</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>images/plane-area.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+  </Document>
 </kml>

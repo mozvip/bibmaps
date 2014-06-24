@@ -7,8 +7,10 @@ var buildingMap = null;
 
 var finishedLoaded = false;
 
+var loadDelay = 0;//25;
+
 $(window).load(function(){
-	window.setTimeout(hideSplashScreen, 2500);
+	window.setTimeout(hideSplashScreen, loadDelay * 100);
 	
 	$("#checkbox-v-2a").click(function(){
 		if(finishedLoaded){
@@ -66,6 +68,8 @@ function hideSplashScreen(){
 	$("#splashScreen").fadeOut();
 }
 
+var labels = [];
+
 function initializeMap(){
 	var mapCanvas = document.getElementById('map');
     var mapOptions = {
@@ -89,7 +93,15 @@ function initializeMap(){
 	});
 	geoXml.parse(['kml/buildings.kml', 'kml/parkings.kml', 'kml/POI.kml', 'kml/buildingEntrance.kml', 'kml/siteEntrance.kml']);
 	google.maps.event.addListener(geoXml, 'parsed', fetchPolygons);
-	
+	google.maps.event.addListener(map, "zoom_changed", function() {
+		var hide = (map.getZoom() < 16);
+		for(var i = 0; i < labels.length; i++) {
+			if(hide)
+				labels[i].setMap(null);
+			else
+				labels[i].setMap(map);
+		}
+	});
 	// var kmlLayer = new google.maps.KmlLayer({
 		// url: 'http://mapsengine.google.com/map/kml?mid=zrYJFEl6K60k.kzHCyx8rtdfY',
 		// preserveViewport: true
@@ -100,7 +112,6 @@ function initializeMap(){
 		navigator.geolocation.watchPosition(displayPosition);
 	}
 	
-	addOverlay();
 	
 	map.setZoom(16);
 }
@@ -111,7 +122,30 @@ function fetchPolygons(){
 	placemarks = placemarks.concat(geoXml.docs[2].placemarks);
 	buildingMap = {};
 	for(var i = 0; i < placemarks.length;i++)
-		buildingMap[placemarks[i].name] = placemarks[i];
+		buildingMap[placemarks[i].id] = placemarks[i];
+		
+		
+	placemarks = geoXml.docs[0].placemarks;
+	placemarks = placemarks.concat(geoXml.docs[1].placemarks);
+	for(var i = 0; i < placemarks.length;i++){
+		var pl = placemarks[i];
+		var infoBox = new InfoBox({
+			content: pl.name, 
+			boxStyle: {
+				textAlign: "center",
+				fontSize: "8pt",
+				width: "50px"
+			},
+			disableAutoPan: true,
+			pixelOffset: new google.maps.Size(-25, -10),
+			position: pl.polygon.bounds.getCenter(),
+			closeBoxURL: "",
+			isHidden: false,
+			enableEventPropagation: true
+		});
+		labels.push(infoBox);
+		infoBox.open(map);
+	}
 		
 	geoXml.hideDocument(geoXml.docs[3]);
 	geoXml.hideDocument(geoXml.docs[4]);
@@ -210,84 +244,6 @@ function displayPosition(position){
 				circle.setCenter(pos);
 			}
 }
-
-var overlay;
-ImageOverlay.prototype = new google.maps.OverlayView();
-
-// Initialize the map and the custom overlay.
-
-function addOverlay() {
-  var swBound = new google.maps.LatLng(45.78145162312724,3.083603252050807);
-  var neBound = new google.maps.LatLng(45.78790843933599,3.09990035402529);
-  var bounds = new google.maps.LatLngBounds(swBound, neBound);
-
-  var srcImage = 'images/overlay-carmes.png';
-  overlay = new ImageOverlay(bounds, srcImage, map);
-}
-
-/** @constructor */
-function ImageOverlay(bounds, image, map) {
-
-  // Initialize all properties.
-  this.bounds_ = bounds;
-  this.image_ = image;
-  this.map_ = map;
-
-  // Define a property to hold the image's div. We'll
-  // actually create this div upon receipt of the onAdd()
-  // method so we'll leave it null for now.
-  this.div_ = null;
-
-  // Explicitly call setMap on this overlay.
-  this.setMap(map);
-}
-
-/**
- * onAdd is called when the map's panes are ready and the overlay has been
- * added to the map.
- */
-ImageOverlay.prototype.onAdd = function() {
-
-  var div = document.createElement('div');
-  div.style.borderStyle = 'none';
-  div.style.borderWidth = '0px';
-  div.style.position = 'absolute';
-
-  // Create the img element and attach it to the div.
-  var img = document.createElement('img');
-  img.src = this.image_;
-  img.style.width = '100%';
-  img.style.height = '100%';
-  img.style.position = 'absolute';
-  div.appendChild(img);
-
-  this.div_ = div;
-
-  // Add the element to the "overlayLayer" pane.
-  var panes = this.getPanes();
-  panes.overlayLayer.appendChild(div);
-};
-
-ImageOverlay.prototype.draw = function() {
-
-  // We use the south-west and north-east
-  // coordinates of the overlay to peg it to the correct position and size.
-  // To do this, we need to retrieve the projection from the overlay.
-  var overlayProjection = this.getProjection();
-
-  // Retrieve the south-west and north-east coordinates of this overlay
-  // in LatLngs and convert them to pixel coordinates.
-  // We'll use these coordinates to resize the div.
-  var sw = overlayProjection.fromLatLngToDivPixel(this.bounds_.getSouthWest());
-  var ne = overlayProjection.fromLatLngToDivPixel(this.bounds_.getNorthEast());
-
-  // Resize the image's div to fit the indicated dimensions.
-  var div = this.div_;
-  div.style.left = sw.x + 'px';
-  div.style.top = ne.y + 'px';
-  div.style.width = (ne.x - sw.x) + 'px';
-  div.style.height = (sw.y - ne.y) + 'px';
-};
 
 function relocate() {
 	if (navigator.geolocation) {

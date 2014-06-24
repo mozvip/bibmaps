@@ -1,577 +1,763 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<kml xmlns='http://www.opengis.net/kml/2.2'>
-	<Document>
-		<name>BibMaps</name>
-		<description><![CDATA[]]></description>
-		<Folder>
-			<name>buildings</name>	
-		</Folder>
-		<Folder>
-			<name>parkings</name>
-			<Placemark>
-				<styleUrl>#poly-4186F0-4-76</styleUrl>
-				<name>Parking 1</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>site</displayName>
-						<value>Carmes</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>Type</displayName>
-						<value>Parking</value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[
-				<br/>
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>BibMaps</name>
+    <description />
+    <Folder>
+      <name>parkings</name>
+      <Placemark>
+        <styleUrl>#poly-4186F0-4-76</styleUrl>
+        <name>Parking 1</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20001</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Carmes</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Parking</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[<br/>
 					<button onclick="window.location='https://maps.google.fr/maps?q=45.785705,3.089534&num=1&t=h&z=19';">Navigate to this point</button>
-				<br/>
-				]]></description>
-				<Polygon>
-					<outerBoundaryIs>
-						<LinearRing>
-							<tessellate>0</tessellate>
-							<coordinates>3.0896687507629395,45.78672393069457,0.0 3.0894917249679565,45.785536221641564,0.0 3.090604841709137,45.785474497487265,0.0 3.090733587741852,45.78659487377098,0.0 3.0896687507629395,45.78672393069457,0.0</coordinates>
-						</LinearRing>
-					</outerBoundaryIs>
-				</Polygon>
-			</Placemark>
-			<Placemark>
-				<styleUrl>#poly-4186F0-4-76</styleUrl>
-				<name>Parking 2
-</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>site</displayName>
-						<value>Carmes</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>Type</displayName>
-						<value>Parking</value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[
-				<br/>
+				<br/>]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.0896687507629395,45.78672393069457,0.0 3.0894917249679565,45.785536221641564,0.0 3.090604841709137,45.785474497487265,0.0 3.090733587741852,45.78659487377098,0.0 3.0896687507629395,45.78672393069457,0.0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#poly-4186F0-4-76</styleUrl>
+        <name>Parking 2</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20002</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Carmes</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Parking</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[<br/>
 					<button onclick="window.location='https://maps.google.fr/maps?q=45.784868,3.089481&num=1&t=h&z=19';">Navigate to this point</button>
-				<br/>
-				]]></description>
-				<Polygon>
-					<outerBoundaryIs>
-						<LinearRing>
-							<tessellate>0</tessellate>
-							<coordinates>3.089357614517212,45.784920847471504,0.0 3.0892395973205566,45.784262445700804,0.0 3.0902883410453796,45.78418762682572,0.0 3.0904734134674072,45.78455423835407,0.0 3.0903446674346924,45.784883438488365,0.0 3.089357614517212,45.784920847471504,0.0</coordinates>
-						</LinearRing>
-					</outerBoundaryIs>
-				</Polygon>
-			</Placemark>
-			<Placemark>
-				<styleUrl>#poly-4186F0-4-76</styleUrl>
-				<name>Parking 3</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>site</displayName>
-						<value>Carmes</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>Type</displayName>
-						<value>Parking</value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[
-				<br/>
+				<br/>]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.089357614517212,45.784920847471504,0.0 3.0892395973205566,45.784262445700804,0.0 3.0902883410453796,45.78418762682572,0.0 3.0904734134674072,45.78455423835407,0.0 3.0903446674346924,45.784883438488365,0.0 3.089357614517212,45.784920847471504,0.0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#poly-4186F0-4-76</styleUrl>
+        <name>Parking 3</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20003</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Carmes</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Parking</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[<br/>
 					<button onclick="window.location='https://maps.google.fr/maps?q=45.785636,3.092029&num=1&t=h&z=19';">Navigate to this point</button>
-				<br/>
-				]]></description>
-				<Polygon>
-					<outerBoundaryIs>
-						<LinearRing>
-							<tessellate>0</tessellate>
-							<coordinates>3.092581629753113,45.785695207784926,0.0 3.092206120491028,45.786009437887465,0.0 3.09190034866333,45.786177774713785,0.0 3.0912888050079346,45.78644711257853,0.0 3.0910956859588623,45.78621892363843,0.0 3.091025948524475,45.78551564693106,0.0 3.0915141105651855,45.785328603759915,0.0 3.0914175510406494,45.78489092028698,0.0 3.0919164419174194,45.78487595668873,0.0 3.092581629753113,45.785695207784926,0.0</coordinates>
-						</LinearRing>
-					</outerBoundaryIs>
-				</Polygon>
-			</Placemark>
-			<Placemark>
-				<styleUrl>#poly-4186F0-4-76</styleUrl>
-				<name>Parking Belle Ombre</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>site</displayName>
-						<value>Carmes</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>Type</displayName>
-						<value>Parking</value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[
-				<br/>
+				<br/>]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.092581629753113,45.785695207784926,0.0 3.092206120491028,45.786009437887465,0.0 3.09190034866333,45.786177774713785,0.0 3.0912888050079346,45.78644711257853,0.0 3.0910956859588623,45.78621892363843,0.0 3.091025948524475,45.78551564693106,0.0 3.0915141105651855,45.785328603759915,0.0 3.0914175510406494,45.78489092028698,0.0 3.0919164419174194,45.78487595668873,0.0 3.092581629753113,45.785695207784926,0.0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#poly-4186F0-4-76</styleUrl>
+        <name>Parking Belle Ombre</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20004</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Carmes</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Parking</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[<br/>
 					<button onclick="window.location='https://maps.google.fr/maps?q=45.785304,3.094429&num=1&t=h&z=20';">Navigate to this point</button>
-				<br/>
-]]></description>
-				<Polygon>
-					<outerBoundaryIs>
-						<LinearRing>
-							<tessellate>0</tessellate>
-							<coordinates>3.0935847759246826,45.78590843554768,0.0 3.093198537826538,45.785474497487265,0.0 3.093820810317993,45.784539274665434,0.0 3.095194101333618,45.78482358406308,0.0 3.0951297283172607,45.78536975331141,0.0 3.0951619148254395,45.78571391200728,0.0 3.0950117111206055,45.78594584384301,0.0 3.0938422679901123,45.78605806857839,0.0 3.0939388275146484,45.785728875380634,0.0 3.0935633182525635,45.785706430319095,0.0 3.0935847759246826,45.78590843554768,0.0</coordinates>
-						</LinearRing>
-					</outerBoundaryIs>
-				</Polygon>
-			</Placemark>
-			<Placemark>
-				<styleUrl>#poly-4186F0-4-76</styleUrl>
-				<name>Parking 5
-</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>site</displayName>
-						<value>Carmes</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>Type</displayName>
-						<value>Parking</value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[
-				<br/>
+				<br/>]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.0935847759246826,45.78590843554768,0.0 3.093198537826538,45.785474497487265,0.0 3.093820810317993,45.784539274665434,0.0 3.095194101333618,45.78482358406308,0.0 3.0951297283172607,45.78536975331141,0.0 3.0951619148254395,45.78571391200728,0.0 3.0950117111206055,45.78594584384301,0.0 3.0938422679901123,45.78605806857839,0.0 3.0939388275146484,45.785728875380634,0.0 3.0935633182525635,45.785706430319095,0.0 3.0935847759246826,45.78590843554768,0.0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#poly-4186F0-4-76</styleUrl>
+        <name>Parking 5</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20005</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Carmes</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Parking</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[<br/>
 					<button onclick="window.location='https://maps.google.fr/maps?q=45.782546,3.088292&num=1&t=h&z=19';">Navigate to this point</button>
-				<br/>
-				]]></description>
-				<Polygon>
-					<outerBoundaryIs>
-						<LinearRing>
-							<tessellate>0</tessellate>
-							<coordinates>3.087555170059204,45.78267626404904,0.0 3.0875658988952637,45.78261640725401,0.0 3.0888694524765015,45.7825715146156,0.0 3.088858723640442,45.782855834048526,0.0 3.087812662124634,45.78278849536649,0.0 3.087555170059204,45.78267626404904,0.0</coordinates>
-						</LinearRing>
-					</outerBoundaryIs>
-				</Polygon>
-			</Placemark>
-			<Placemark>
-				<styleUrl>#poly-4186F0-4-76</styleUrl>
-				<name>Parking 6
-</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>site</displayName>
-						<value>Carmes</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>Type</displayName>
-						<value>Parking</value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[
-				<br/>
+				<br/>]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.087555170059204,45.78267626404904,0.0 3.0875658988952637,45.78261640725401,0.0 3.0888694524765015,45.7825715146156,0.0 3.088858723640442,45.782855834048526,0.0 3.087812662124634,45.78278849536649,0.0 3.087555170059204,45.78267626404904,0.0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#poly-4186F0-4-76</styleUrl>
+        <name>Parking 6</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20006</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Carmes</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Parking</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[<br/>
 					<button onclick="window.location='https://maps.google.fr/maps?q=45.783127,3.087273&num=1&t=h&z=19';">Navigate to this point</button>
-				<br/>
-				]]></description>
-				<Polygon>
-					<outerBoundaryIs>
-						<LinearRing>
-							<tessellate>0</tessellate>
-							<coordinates>3.087233304977417,45.78315885711111,0.0 3.087233304977417,45.78308403675498,0.0 3.0876463651657104,45.78315137508003,0.0 3.0876463651657104,45.78285209301276,0.0 3.089282512664795,45.78293065471093,0.0 3.0892986059188843,45.78317008015587,0.0 3.0884993076324463,45.783185044212054,0.0 3.0884885787963867,45.78331223852732,0.0 3.087635636329651,45.78333468455283,0.0 3.087233304977417,45.78315885711111,0.0</coordinates>
-						</LinearRing>
-					</outerBoundaryIs>
-				</Polygon>
-			</Placemark>
-			<Placemark>
-				<styleUrl>#poly-4186F0-4-76</styleUrl>
-				<name>Parking 1
-</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>site</displayName>
-						<value>Cataroux</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>Type</displayName>
-						<value>Parking</value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[
-				<br/>
+				<br/>]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.087233304977417,45.78315885711111,0.0 3.087233304977417,45.78308403675498,0.0 3.0876463651657104,45.78315137508003,0.0 3.0876463651657104,45.78285209301276,0.0 3.089282512664795,45.78293065471093,0.0 3.0892986059188843,45.78317008015587,0.0 3.0884993076324463,45.783185044212054,0.0 3.0884885787963867,45.78331223852732,0.0 3.087635636329651,45.78333468455283,0.0 3.087233304977417,45.78315885711111,0.0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#poly-4186F0-4-76</styleUrl>
+        <name>Parking 1</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20007</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Cataroux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Parking</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[<br/>
 					<button onclick="window.location='https://maps.google.fr/maps?q=45.79187,3.106367&num=1&t=h&z=18';">Navigate to this point</button>
-				<br/>
-				]]></description>
-				<Polygon>
-					<outerBoundaryIs>
-						<LinearRing>
-							<tessellate>0</tessellate>
-							<coordinates>3.105332851409912,45.791968252021576,0.0 3.105912208557129,45.79082367048876,0.0 3.10663104057312,45.79102565717314,0.0 3.1062018871307373,45.79187100090966,0.0 3.10638427734375,45.79191588605932,0.0 3.106255531311035,45.792185196198176,0.0 3.1060731410980225,45.792155272913675,0.0 3.105332851409912,45.791968252021576,0.0</coordinates>
-						</LinearRing>
-					</outerBoundaryIs>
-				</Polygon>
-			</Placemark>
-			<Placemark>
-				<styleUrl>#poly-4186F0-4-76</styleUrl>
-				<name>Parking 2
-</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>site</displayName>
-						<value>Cataroux</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>Type</displayName>
-						<value>Parking</value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[
-				<br/>
+				<br/>]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.105332851409912,45.791968252021576,0.0 3.105912208557129,45.79082367048876,0.0 3.10663104057312,45.79102565717314,0.0 3.1062018871307373,45.79187100090966,0.0 3.10638427734375,45.79191588605932,0.0 3.106255531311035,45.792185196198176,0.0 3.1060731410980225,45.792155272913675,0.0 3.105332851409912,45.791968252021576,0.0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#poly-4186F0-4-76</styleUrl>
+        <name>Parking 2</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20008</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Cataroux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Parking</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[<br/>
 					<button onclick="window.location='https://maps.google.fr/maps?q=45.790799,3.107633&num=1&t=h&z=18';">Navigate to this point</button>
-				<br/>
-				]]></description>
-				<Polygon>
-					<outerBoundaryIs>
-						<LinearRing>
-							<tessellate>0</tessellate>
-							<coordinates>3.1069421768188477,45.79110046687049,0.0 3.1070977449417114,45.79059549946478,0.0 3.107977509498596,45.79075260092571,0.0 3.1077897548675537,45.79124634549151,0.0 3.1069421768188477,45.79110046687049,0.0</coordinates>
-						</LinearRing>
-					</outerBoundaryIs>
-				</Polygon>
-			</Placemark>
-			<Placemark>
-				<styleUrl>#poly-4186F0-4-76</styleUrl>
-				<name>Parking 4</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>site</displayName>
-						<value>Cataroux</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>Type</displayName>
-						<value>Parking</value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[
-				<br/>
+				<br/>]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.1069421768188477,45.79110046687049,0.0 3.1070977449417114,45.79059549946478,0.0 3.107977509498596,45.79075260092571,0.0 3.1077897548675537,45.79124634549151,0.0 3.1069421768188477,45.79110046687049,0.0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#poly-4186F0-4-76</styleUrl>
+        <name>Parking 4</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20009</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Cataroux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Parking</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[<br/>
 					<button onclick="window.location='https://maps.google.fr/maps?q=45.78943,3.099259&num=1&t=h&z=18';">Navigate to this point</button>
-				<br/>
-				]]></description>
-				<Polygon>
-					<outerBoundaryIs>
-						<LinearRing>
-							<tessellate>0</tessellate>
-							<coordinates>3.099668025970459,45.789806244948764,0.0 3.099195957183838,45.78963417849935,0.0 3.099163770675659,45.78937233723104,0.0 3.0990350246429443,45.78911797596399,0.0 3.0997860431671143,45.78889353858793,0.0 3.0997860431671143,45.78880376338447,0.0 3.0993354320526123,45.7889085011078,0.0 3.099292516708374,45.788773838284506,0.0 3.1003010272979736,45.78858306539464,0.0 3.1004834175109863,45.78903568236437,0.0 3.100268840789795,45.78906560732376,0.0 3.099668025970459,45.789806244948764,0.0</coordinates>
-						</LinearRing>
-					</outerBoundaryIs>
-				</Polygon>
-			</Placemark>
-			<Placemark>
-				<styleUrl>#poly-4186F0-4-76</styleUrl>
-				<name>Parking 3
-</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>site</displayName>
-						<value>Cataroux</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>Type</displayName>
-						<value>Parking</value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[
-				<br/>
+				<br/>]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.099668025970459,45.789806244948764,0.0 3.099195957183838,45.78963417849935,0.0 3.099163770675659,45.78937233723104,0.0 3.0990350246429443,45.78911797596399,0.0 3.0997860431671143,45.78889353858793,0.0 3.0997860431671143,45.78880376338447,0.0 3.0993354320526123,45.7889085011078,0.0 3.099292516708374,45.788773838284506,0.0 3.1003010272979736,45.78858306539464,0.0 3.1004834175109863,45.78903568236437,0.0 3.100268840789795,45.78906560732376,0.0 3.099668025970459,45.789806244948764,0.0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#poly-4186F0-4-76</styleUrl>
+        <name>Parking 3</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20010</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Cataroux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Parking</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[<br/>
 					<button onclick="window.location='https://maps.google.fr/maps?q=45.789464,3.103471&num=1&t=h&z=18';">Navigate to this point</button>
-				<br/>
-				]]></description>
-				<Polygon>
-					<outerBoundaryIs>
-						<LinearRing>
-							<tessellate>0</tessellate>
-							<coordinates>3.103058338165283,45.78966410313742,0.0 3.1022536754608154,45.78934241243633,0.0 3.102618455886841,45.788915982366206,0.0 3.10339093208313,45.789260119168084,0.0 3.103058338165283,45.78966410313742,0.0</coordinates>
-						</LinearRing>
-					</outerBoundaryIs>
-				</Polygon>
-			</Placemark>
-			<Placemark>
-				<styleUrl>#poly-4186F0-4-76</styleUrl>
-				<name>Parking 5
-</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>site</displayName>
-						<value>Cataroux</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>Type</displayName>
-						<value>Parking</value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[
-				<br/>
+				<br/>]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.103058338165283,45.78966410313742,0.0 3.1022536754608154,45.78934241243633,0.0 3.102618455886841,45.788915982366206,0.0 3.10339093208313,45.789260119168084,0.0 3.103058338165283,45.78966410313742,0.0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#poly-4186F0-4-76</styleUrl>
+        <name>Parking 5</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20011</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Cataroux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Parking</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[<br/>
 					<button onclick="window.location='https://maps.google.fr/maps?q=45.789095,3.104345&num=1&t=h&z=18';">Navigate to this point</button>
-				<br/>
-				]]></description>
-				<Polygon>
-					<outerBoundaryIs>
-						<LinearRing>
-							<tessellate>0</tessellate>
-							<coordinates>3.1049466133117676,45.78974639580923,0.0 3.104109764099121,45.78936485603388,0.0 3.1051719188690186,45.7883249598573,0.0 3.10538649559021,45.78857184343962,0.0 3.105332851409912,45.788721469320954,0.0 3.105107545852661,45.78888605732649,0.0 3.1049251556396484,45.789095532267055,0.0 3.1048500537872314,45.789260119168084,0.0 3.104860782623291,45.78949951742928,0.0 3.1049466133117676,45.78974639580923,0.0</coordinates>
-						</LinearRing>
-					</outerBoundaryIs>
-				</Polygon>
-			</Placemark>
-			<Placemark>
-				<styleUrl>#poly-4186F0-4-76</styleUrl>
-				<name>Parking 6
-				</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>site</displayName>
-						<value>Cataroux</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>Type</displayName>
-						<value>Parking</value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[
-				<br/>
+				<br/>]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.1049466133117676,45.78974639580923,0.0 3.104109764099121,45.78936485603388,0.0 3.1051719188690186,45.7883249598573,0.0 3.10538649559021,45.78857184343962,0.0 3.105332851409912,45.788721469320954,0.0 3.105107545852661,45.78888605732649,0.0 3.1049251556396484,45.789095532267055,0.0 3.1048500537872314,45.789260119168084,0.0 3.104860782623291,45.78949951742928,0.0 3.1049466133117676,45.78974639580923,0.0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#poly-4186F0-4-76</styleUrl>
+        <name>Parking 6</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20012</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Cataroux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Parking</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[<br/>
 					<button onclick="window.location='https://maps.google.fr/maps?q=45.795617,3.108068&num=1&t=h&z=18';">Navigate to this point</button>
-				<br/>
-				]]></description>
-				<Polygon>
-					<outerBoundaryIs>
-						<LinearRing>
-							<tessellate>0</tessellate>
-							<coordinates>3.1069958209991455,45.79573847200095,0.0 3.1076180934906006,45.79502035452671,0.0 3.108208179473877,45.79525224763942,0.0 3.107961416244507,45.79554398276543,0.0 3.1081008911132812,45.79570107027761,0.0 3.1078219413757324,45.79602272427802,0.0 3.1069958209991455,45.79573847200095,0.0</coordinates>
-						</LinearRing>
-					</outerBoundaryIs>
-				</Polygon>
-			</Placemark>
-			<Placemark>
-				<styleUrl>#poly-4186F0-4-76</styleUrl>
-				<name>Parking 1
-</name>
-				<ExtendedData>
-					<Data name='string'>
-<displayName>site</displayName>
-						<value>Chantemerle</value>
-					</Data>
-					</ExtendedData>
-<ExtendedData>
-<Data name='string'>
-						<value>parking</value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[
-				<br/>
+				<br/>]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.1069958209991455,45.79573847200095,0.0 3.1076180934906006,45.79502035452671,0.0 3.108208179473877,45.79525224763942,0.0 3.107961416244507,45.79554398276543,0.0 3.1081008911132812,45.79570107027761,0.0 3.1078219413757324,45.79602272427802,0.0 3.1069958209991455,45.79573847200095,0.0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#poly-4186F0-4-76</styleUrl>
+        <name>Parking 1</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20013</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Chantemerle</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <value>parking</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[<br/>
 					<button onclick="window.location='https://maps.google.fr/maps?q=45.806895,3.13989&num=1&t=h&z=18';">Navigate to this point</button>
-				<br/>
-				]]></description>
-				<Polygon>
-					<outerBoundaryIs>
-						<LinearRing>
-							<tessellate>0</tessellate>
-							<coordinates>3.138817548751831,45.80727196583599,0.0 3.138742446899414,45.80688306719997,0.0 3.13984751701355,45.80679332097531,0.0 3.139890432357788,45.80721961425467,0.0 3.138817548751831,45.80727196583599,0.0</coordinates>
-						</LinearRing>
-					</outerBoundaryIs>
-				</Polygon>
-			</Placemark>
-			<Placemark>
-				<styleUrl>#poly-4186F0-4-76</styleUrl>
-				<name>Parking2</name>
-				<ExtendedData>
-					<Data name='string'>
-<displayName>site</displayName>
-						<value>Chantemerle</value>
-					</Data>
-					</ExtendedData>
-<ExtendedData>
-<Data name='string'>
-						<value>parking</value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[
-				<br/>
+				<br/>]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.138817548751831,45.80727196583599,0.0 3.138742446899414,45.80688306719997,0.0 3.13984751701355,45.80679332097531,0.0 3.139890432357788,45.80721961425467,0.0 3.138817548751831,45.80727196583599,0.0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#poly-4186F0-4-76</styleUrl>
+        <name>Parking2</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20014</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Chantemerle</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <value>parking</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[<br/>
 					<button onclick="window.location='https://maps.google.fr/maps?q=45.811906,3.138764&num=1&t=h&z=18';">Navigate to this point</button>
-				<br/>
-				]]></description>
-				<Polygon>
-					<outerBoundaryIs>
-						<LinearRing>
-							<tessellate>0</tessellate>
-							<coordinates>3.138372302055359,45.81203575377976,0.0 3.1383293867111206,45.81171045312196,0.0 3.1382006406784058,45.81172540951573,0.0 3.138173818588257,45.81156836718098,0.0 3.138898015022278,45.81151975874956,0.0 3.1388819217681885,45.811441237347616,0.0 3.1391555070877075,45.81143749823046,0.0 3.139166235923767,45.811904885927476,0.0 3.138715624809265,45.81204323193344,0.0 3.138372302055359,45.81203575377976,0.0</coordinates>
-						</LinearRing>
-					</outerBoundaryIs>
-				</Polygon>
-			</Placemark>
-			<Placemark>
-			<styleUrl>#poly-4186F0-4-76</styleUrl>
-			<name>Parking 1</name>
-			<ExtendedData>
-				<Data name='string'>
-<displayName>site</displayName>
-					<value>Combaude</value>
-				</Data>
-				</ExtendedData>
-<ExtendedData>
-<Data name='string'>
-					<value>Parking</value>
-				</Data>
-			</ExtendedData>
-			<description><![CDATA[
-				<br/>
+				<br/>]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.138372302055359,45.81203575377976,0.0 3.1383293867111206,45.81171045312196,0.0 3.1382006406784058,45.81172540951573,0.0 3.138173818588257,45.81156836718098,0.0 3.138898015022278,45.81151975874956,0.0 3.1388819217681885,45.811441237347616,0.0 3.1391555070877075,45.81143749823046,0.0 3.139166235923767,45.811904885927476,0.0 3.138715624809265,45.81204323193344,0.0 3.138372302055359,45.81203575377976,0.0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#poly-4186F0-4-76</styleUrl>
+        <name>Parking 1</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20015</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Combaude</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <value>Parking</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[<br/>
 					<button onclick="window.location='https://maps.google.fr/maps?q=45.801034,3.122987&num=1&t=h&z=18';">Navigate to this point</button>
-				<br/>
-				]]></description>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<tessellate>0</tessellate>
-						<coordinates>3.120766282081604,45.80156161409309,0.0 3.1212812662124634,45.80061170181766,0.0 3.1219464540481567,45.800794953871744,0.0 3.1221288442611694,45.800469587564855,0.0 3.1225794553756714,45.800585522903596,0.0 3.1224828958511353,45.800783734375536,0.0 3.1227242946624756,45.80109787941498,0.0 3.1224775314331055,45.801165195978705,0.0 3.1220215559005737,45.80191689208192,0.0 3.120766282081604,45.80156161409309,0.0</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark>
-			<styleUrl>#poly-4186F0-4-76</styleUrl>
-			<name>Parking 2
-</name>
-			<ExtendedData>
-				<Data name='string'>
-<displayName>site</displayName>
-					<value>Combaude</value>
-				</Data>
-				</ExtendedData>
-<ExtendedData>
-<Data name='string'>
-					<value>parking</value>
-				</Data>
-			</ExtendedData>
-			<description><![CDATA[
-				<br/>
+				<br/>]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.120766282081604,45.80156161409309,0.0 3.1212812662124634,45.80061170181766,0.0 3.1219464540481567,45.800794953871744,0.0 3.1221288442611694,45.800469587564855,0.0 3.1225794553756714,45.800585522903596,0.0 3.1224828958511353,45.800783734375536,0.0 3.1227242946624756,45.80109787941498,0.0 3.1224775314331055,45.801165195978705,0.0 3.1220215559005737,45.80191689208192,0.0 3.120766282081604,45.80156161409309,0.0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#poly-4186F0-4-76</styleUrl>
+        <name>Parking 2</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20016</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Combaude</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <value>parking</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[<br/>
 					<button onclick="window.location='https://maps.google.fr/maps?q=45.801034,3.122987&num=1&t=h&z=18';">Navigate to this point</button>
-				<br/>
-				]]></description>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<tessellate>0</tessellate>
-						<coordinates>3.123716711997986,45.80183461738083,0.0 3.1228208541870117,45.800604222129174,0.0 3.1230032444000244,45.800604222129174,0.0 3.1236308813095093,45.80133348703218,0.0 3.1239044666290283,45.801385844145145,0.0 3.124135136604309,45.80172616418011,0.0 3.123716711997986,45.80183461738083,0.0</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-				<Placemark>
-			<styleUrl>#poly-4186F0-4-76</styleUrl>
-			<name>Parking 1
-</name>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>site</displayName>
-					<value>Brezet</value>
-				</Data>
-				</ExtendedData>
-				<ExtendedData>
-				<Data name='string'>
-					<value>parking</value>
-				</Data>
-			</ExtendedData>
-			<description><![CDATA[
-				<br/>
+				<br/>]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.123716711997986,45.80183461738083,0.0 3.1228208541870117,45.800604222129174,0.0 3.1230032444000244,45.800604222129174,0.0 3.1236308813095093,45.80133348703218,0.0 3.1239044666290283,45.801385844145145,0.0 3.124135136604309,45.80172616418011,0.0 3.123716711997986,45.80183461738083,0.0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#poly-4186F0-4-76</styleUrl>
+        <name>Parking 1</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20017</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Brezet</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <value>parking</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[<br/>
 					<button onclick="window.location='https://maps.google.fr/maps?q=45.78388,3.123609&num=1&t=h&z=18';">Navigate to this point</button>
-				<br/>
-				]]></description>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<tessellate>0</tessellate>
-						<coordinates>3.123909831047058,45.78367885581235,0.0 3.1238561868667603,45.78342446856451,0.0 3.1239259243011475,45.7834095045726,0.0 3.1238937377929688,45.783166339141225,0.0 3.124483823776245,45.78310274185341,0.0 3.1242960691452026,45.78239942583334,0.0 3.1244677305221558,45.78238820263345,0.0 3.1247466802597046,45.78359655418272,0.0 3.123909831047058,45.78367885581235,0.0</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		</Folder>
-		<Folder>
-			<name>POI</name>
-		</Folder>
-		<Style id='poly-DB4436-4-76'>
-			<LineStyle>
-				<color>ff3644DB</color>
-				<width>4</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>4C3644DB</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-		</Style>
-		<Style id='icon-503-FFDD5E'>
-			<IconStyle>
-				<color>ff5EDDFF</color>
-				<scale>1.1</scale>
-				<Icon>
-					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-				</Icon>
-			</IconStyle>
-		</Style>
-		<Style id='poly-4186F0-4-76'>
-			<LineStyle>
-				<color>ffF08641</color>
-				<width>1</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>4CF08641</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-		</Style>
-		<Style id='poly-000000-4-76'>
-			<LineStyle>
-				<color>ff000000</color>
-				<width>4</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>4C000000</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-		</Style>
-		<Style id='poly-DB4436-3-76'>
-			<LineStyle>
-				<color>ff3644DB</color>
-				<width>3</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>4C3644DB</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-		</Style>
-		<Style id='icon-503-FF8277'>
-			<IconStyle>
-				<color>ff7782FF</color>
-				<scale>1.1</scale>
-				<Icon>
-					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-				</Icon>
-			</IconStyle>
-		</Style>
-	</Document>
+				<br/>]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.123909831047058,45.78367885581235,0.0 3.1238561868667603,45.78342446856451,0.0 3.1239259243011475,45.7834095045726,0.0 3.1238937377929688,45.783166339141225,0.0 3.124483823776245,45.78310274185341,0.0 3.1242960691452026,45.78239942583334,0.0 3.1244677305221558,45.78238820263345,0.0 3.1247466802597046,45.78359655418272,0.0 3.123909831047058,45.78367885581235,0.0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#poly-4186F0-4-76</styleUrl>
+        <name>Parking 1</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20018</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Ladoux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>parking</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[<br/>
+					<button onclick="window.location='https://maps.google.fr/maps?q=45.843211,3.120435&num=1&t=h&z=18';">Navigate to this point</button>
+				<br/>]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.1206214427948,45.843304351283265,0.0 3.1207984685897827,45.84257189891008,0.0 3.1217962503433228,45.84260179511407,0.0 3.1217265129089355,45.84339403866627,0.0 3.1233465671539307,45.84348746286983,0.0 3.123212456703186,45.84477296397914,0.0 3.1202352046966553,45.844645909959794,0.0 3.1206214427948,45.843304351283265,0.0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#poly-4186F0-4-76</styleUrl>
+        <name>Parking 2</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20019</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Ladoux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>parking</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[<br/>
+					<button onclick="window.location='https://maps.google.fr/maps?q=45.840894,3.124486&num=1&t=h&z=18';">Navigate to this point</button>
+				<br/>]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.1246769428253174,45.84144704256121,0.0 3.124666213989258,45.841245238683975,0.0 3.124880790710449,45.84123776445225,0.0 3.124891519546509,45.84106585684528,0.0 3.125181198120117,45.84089394870716,0.0 3.125588893890381,45.84064729697253,0.0 3.126661777496338,45.84066224559362,0.0 3.126629590988159,45.84149936196546,0.0 3.1246769428253174,45.84144704256121,0.0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#poly-4186F0-4-76</styleUrl>
+        <name>Parking 3</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20020</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Ladoux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>parking</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[<br/>
+					<button onclick="window.location='https://maps.google.fr/maps?q=45.840522,3.128614&num=1&t=h&z=18';">Navigate to this point</button>
+				<br/>]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.1272411346435547,45.84143209415097,0.0 3.1274235248565674,45.840707091432826,0.0 3.127659559249878,45.840535182186215,0.0 3.128485679626465,45.84050528487171,0.0 3.1284213066101074,45.8413050325017,0.0 3.1275522708892822,45.84126018714444,0.0 3.1272411346435547,45.84143209415097,0.0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#poly-4186F0-4-76</styleUrl>
+        <name>Parking 4</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20021</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Ladoux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>parking</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[<br/>
+					<button onclick="window.location='https://maps.google.fr/maps?q=45.840522,3.128614&num=1&t=h&z=18';">Navigate to this point</button>
+				<br/>]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.1278634071350098,45.84009419516821,0.0 3.1287968158721924,45.839436445324935,0.0 3.1294941902160645,45.839257057654585,0.0 3.129429817199707,45.84036327240843,0.0 3.1280243396759033,45.84026610577734,0.0 3.1278634071350098,45.84009419516821,0.0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>POI</name>
+    </Folder>
+    <Style id="poly-DB4436-4-76">
+      <LineStyle>
+        <color>ff3644DB</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4C3644DB</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="icon-503-FFDD5E">
+      <IconStyle>
+        <color>ff5EDDFF</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="poly-4186F0-4-76">
+      <LineStyle>
+        <color>ffF08641</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4CF08641</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-000000-4-76">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4C000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-DB4436-3-76">
+      <LineStyle>
+        <color>ff3644DB</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4C3644DB</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="icon-503-FF8277">
+      <IconStyle>
+        <color>ff7782FF</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+  </Document>
 </kml>

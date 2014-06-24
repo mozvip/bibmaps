@@ -1,167 +1,217 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<kml xmlns='http://www.opengis.net/kml/2.2'>
-	<Document>
-		<name>buildingEntrance</name>
-		<Placemark>
-			<styleUrl>#icon-building-door</styleUrl>
-			<name>R1 Entrance</name>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>site</displayName>
-					<value>XXXX</value>
-				</Data>
-			</ExtendedData>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>Type</displayName>
-					<value>buildingEntrance</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>3.10363233089447,45.792013137092894,0.0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<styleUrl>#icon-building-door</styleUrl>
-			<name>R1 Entrance</name>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>site</displayName>
-					<value>XXXX</value>
-				</Data>
-			</ExtendedData>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>Type</displayName>
-					<value>buildingEntrance</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>3.103208541870117,45.79252183204172,0.0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<styleUrl>#icon-building-door</styleUrl>
-			<name>B146 Entrance</name>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>site</displayName>
-					<value>XXXX</value>
-				</Data>
-			</ExtendedData>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>Type</displayName>
-					<value>buildingEntrance</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>3.1034982204437256,45.79139222373068,0.0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<styleUrl>#icon-building-door</styleUrl>
-			<name>A17 Entrance</name>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>site</displayName>
-					<value>XXXX</value>
-				</Data>
-			</ExtendedData>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>Type</displayName>
-					<value>buildingEntrance</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>3.0924689769744873,45.785016240264966,0.0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<styleUrl>#icon-building-door</styleUrl>
-			<name>T15 Entrance</name>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>site</displayName>
-					<value>XXXX</value>
-				</Data>
-			</ExtendedData>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>Type</displayName>
-					<value>buildingEntrance</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>3.0936598777770996,45.78406043450766,0.0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<styleUrl>#icon-building-door</styleUrl>
-			<name>SL Entrance</name>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>site</displayName>
-					<value>XXXX</value>
-				</Data>
-			</ExtendedData>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>Type</displayName>
-					<value>buildingEntrance</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>3.0937564373016357,45.78374619341895,0.0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<styleUrl>#icon-building-door</styleUrl>
-			<name>SL Entrance</name>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>site</displayName>
-					<value>XXXX</value>
-				</Data>
-			</ExtendedData>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>Type</displayName>
-					<value>buildingEntrance</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>3.0934667587280273,45.78370504266902,0.0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<styleUrl>#icon-building-door</styleUrl>
-			<name>A7 Entrance</name>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>site</displayName>
-					<value>XXXX</value>
-				</Data>
-			</ExtendedData>
-			<ExtendedData>
-				<Data name='string'>
-					<displayName>Type</displayName>
-					<value>buildingEntrance</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>3.092426061630249,45.783162598126296,0.0</coordinates>
-			</Point>
-		</Placemark>
-		<Style id='icon-building-door'>
-			<IconStyle>
-				<color>ff7782FF</color>
-				<scale>1.1</scale>
-				<Icon>
-					<href>images/building-door.png</href>
-				</Icon>
-			</IconStyle>
-		</Style>
-	</Document>
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>buildingEntrance</name>
+    <Folder>
+      <Placemark>
+        <styleUrl>#icon-building-door</styleUrl>
+        <name>R1 Entrance</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>40001</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>XXXX</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>buildingEntrance</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>3.10363233089447,45.792013137092894,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-building-door</styleUrl>
+        <name>R1 Entrance</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>40002</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>XXXX</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>buildingEntrance</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>3.103208541870117,45.79252183204172,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-building-door</styleUrl>
+        <name>B146 Entrance</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>40003</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>XXXX</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>buildingEntrance</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>3.1034982204437256,45.79139222373068,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-building-door</styleUrl>
+        <name>A17 Entrance</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>40004</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>XXXX</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>buildingEntrance</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>3.0924689769744873,45.785016240264966,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-building-door</styleUrl>
+        <name>T15 Entrance</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>40005</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>XXXX</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>buildingEntrance</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>3.0936598777770996,45.78406043450766,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-building-door</styleUrl>
+        <name>SL Entrance</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>40006</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>XXXX</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>buildingEntrance</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>3.0937564373016357,45.78374619341895,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-building-door</styleUrl>
+        <name>SL Entrance</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>40007</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>XXXX</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>buildingEntrance</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>3.0934667587280273,45.78370504266902,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-building-door</styleUrl>
+        <name>A7 Entrance</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>40008</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>XXXX</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>buildingEntrance</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>3.092426061630249,45.783162598126296,0.0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Style id="icon-building-door">
+      <IconStyle>
+        <color>ff7782FF</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>images/building-door.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+  </Document>
 </kml>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>parkings</name>
+		<Placemark>
+			<styleUrl>#poly-000000-1-76</styleUrl>
+			<name>Parking1</name>
+			<ExtendedData>
+				<Data name='site'>
+					<value>Brezet</value>
+				</Data>
+				<Data name='type'>
+					<value>parking</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Parking1
+
+site: Brezet
+type: parking]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>3.123909831047058,45.78367885581235,0.0 3.1238561868667603,45.78342446856451,0.0 3.1239259243011475,45.7834095045726,0.0 3.1238937377929688,45.783166339141225,0.0 3.124483823776245,45.78310274185341,0.0 3.1242960691452026,45.78239942583334,0.0 3.1244677305221558,45.78238820263345,0.0 3.1247466802597046,45.78359655418272,0.0 3.123909831047058,45.78367885581235,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Style id='poly-000000-1-76'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C000000</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+	</Document>
+</kml>
