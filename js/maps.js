@@ -157,11 +157,34 @@ function fetchPolygons(){
 	finishedLoaded = true;
 }
 
+var substringMatcher = function(strs) {
+	return function findMatches(q, cb) {
+		var matches, substringRegex;
+		 
+		// an array that will be populated with substring matches
+		matches = [];
+		 
+		// regex used to determine if a string contains the substring `q`
+		substrRegex = new RegExp(q, 'i');
+		 
+		// iterate through the pool of strings and for any string that
+		// contains the substring `q`, add it to the `matches` array
+		$.each(strs, function(i, str) {
+			if (substrRegex.test(str)) {
+				// the typeahead jQuery plugin expects suggestions to a
+				// JavaScript object, refer to typeahead docs for more info
+				matches.push({ value: str });
+			}
+		});
+		 
+		cb(matches);
+	};
+};
+
 function initializeSearchBar(){
 	var states = new Bloodhound({
 		datumTokenizer: Bloodhound.tokenizers.obj.whitespace('value'),
 		queryTokenizer: Bloodhound.tokenizers.whitespace,
-		// `states` is an array of state names defined in "The Basics"
 		local: $.map(buildingMap, function(building) { return { value: building.name, site: building.site, type: building.type, polygon: ('polygon' in  building) ? building.polygon : building.marker}; })
 	});
 
@@ -176,17 +199,15 @@ function initializeSearchBar(){
     {
 		name: 'states',
 		displayKey: 'value',
-		// `ttAdapter` wraps the suggestion engine in an adapter that
-		// is compatible with the typeahead jQuery plugin
-		source: states.ttAdapter(),
+		source: substringMatcher(states),
 		templates: {
-		empty: [
-		'<div class="empty-message">',
-		'Unable to find any location that match the current query',
-		'</div>'
-		].join('\n'),
-		suggestion: Handlebars.compile('<p><strong>{{value}}</strong> - {{site}}</p>')
-	}
+			empty: [
+			'<div class="empty-message">',
+			'Unable to find any location that match the current query',
+			'</div>'
+			].join('\n'),
+			suggestion: Handlebars.compile('<p><strong>{{value}}</strong> - {{site}}</p>')
+		}
     });
 	$('#searchbar').bind('typeahead:selected', function(obj, datum, name) {
 		var center = null;
