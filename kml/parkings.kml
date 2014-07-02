@@ -205,7 +205,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#poly-4186F0-4-76</styleUrl>
-        <name>Parking 1</name>
+        <name>Parking la Grolière</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -238,7 +238,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#poly-4186F0-4-76</styleUrl>
-        <name>Parking 2</name>
+        <name>Parking annexe Grolière</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -271,7 +271,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#poly-4186F0-4-76</styleUrl>
-        <name>Parking 4</name>
+        <name>Parking St Vincent</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -304,7 +304,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#poly-4186F0-4-76</styleUrl>
-        <name>Parking 3</name>
+        <name>Parking Clos Four</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -337,7 +337,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#poly-4186F0-4-76</styleUrl>
-        <name>Parking 5</name>
+        <name>Parking Solignat</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -370,7 +370,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#poly-4186F0-4-76</styleUrl>
-        <name>Parking 6</name>
+        <name>Parking St Sauves</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -695,7 +695,7 @@
       </Placemark>
 	  <Placemark>
         <styleUrl>#poly-4186F0-4-76</styleUrl>
-        <name>Parking d'Omersson 1</name>
+        <name>Omersson 1</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -728,7 +728,7 @@
       </Placemark>
 	  <Placemark>
         <styleUrl>#poly-4186F0-4-76</styleUrl>
-        <name>Parking d'Omersson 2</name>
+        <name>Omersson 2</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
