@@ -693,6 +693,72 @@
           </outerBoundaryIs>
         </Polygon>
       </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-4186F0-4-76</styleUrl>
+        <name>Parking d'Omersson 1</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20022</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Carmes</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>parking</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[<br/>
+					<button onclick="window.location='https://maps.google.fr/maps?q=45.782054,3.089776&num=1&t=h&z=18';">Navigate to this point</button>
+				<br/>]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.089480996131897,45.78244057754698,0.0 3.0895131826400757,45.78230215802583,0.0 3.0893200635910034,45.782287193732685,0.0 3.0893200635910034,45.78222733651994,0.0 3.0892181396484375,45.78222359544201,0.0 3.089277148246765,45.78192804949227,0.0 3.0894702672958374,45.781954237171334,0.0 3.0895614624023438,45.782002871399804,0.0 3.089556097984314,45.78204776449611,0.0 3.0897653102874756,45.782051505585855,0.0 3.0897492170333862,45.78244805967348,0.0 3.0896204710006714,45.78245180073635,0.0 3.089480996131897,45.78244057754698,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-4186F0-4-76</styleUrl>
+        <name>Parking d'Omersson 2</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20022</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Carmes</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>parking</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[<br/>
+					<button onclick="window.location='https://maps.google.fr/maps?q=45.782054,3.089776&num=1&t=h&z=18';">Navigate to this point</button>
+				<br/>]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.0898135900497437,45.78215999707879,0.0 3.089856505393982,45.781961719363096,0.0 3.0909347534179688,45.78192430839424,0.0 3.0909615755081177,45.78212632732771,0.0 3.09090793132782,45.78213755058033,0.0 3.0909132957458496,45.782320863386595,0.0 3.0899369716644287,45.7823545330202,0.0 3.0899155139923096,45.78215999707879,0.0 3.0898135900497437,45.78215999707879,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
     </Folder>
     <Folder>
       <name>POI</name>
