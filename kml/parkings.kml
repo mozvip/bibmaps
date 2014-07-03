@@ -531,7 +531,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#poly-4186F0-4-76</styleUrl>
-        <name>Parking 1</name>
+        <name>Parking client</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -550,14 +550,14 @@
           </Data>
         </ExtendedData>
         <description><![CDATA[<br/>
-					<button onclick="window.location='https://maps.google.fr/maps?q=45.78388,3.123609&num=1&t=h&z=18';">Navigate to this point</button>
+					<button onclick="window.location='https://maps.google.fr/maps?q=45.783956,3.123656&num=1&t=h&z=18';">Navigate to this point</button>
 				<br/>]]></description>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <tessellate>0</tessellate>
-              <coordinates>3.123909831047058,45.78367885581235,0.0 3.1238561868667603,45.78342446856451,0.0 3.1239259243011475,45.7834095045726,0.0 3.1238937377929688,45.783166339141225,0.0 3.124483823776245,45.78310274185341,0.0 3.1242960691452026,45.78239942583334,0.0 3.1244677305221558,45.78238820263345,0.0 3.1247466802597046,45.78359655418272,0.0 3.123909831047058,45.78367885581235,0.0</coordinates>
-            </LinearRing>
+              <coordinates>3.123738169670105,45.78398935632118,0.0 3.123738169670105,45.78391079611492,0.0 3.1246179342269897,45.78380230802898,0.0 3.1245750188827515,45.78360403615408,0.0 3.1238937377929688,45.78370130169027,0.0 3.1238186359405518,45.783428209561855,0.0 3.123915195465088,45.78341698656905,0.0 3.1238508224487305,45.783147634064115,0.0 3.124457001686096,45.78307655471382,0.0 3.124285340309143,45.78241813116149,0.0 3.124408721923828,45.78238446156631,0.0 3.1247788667678833,45.78385468161406,0.0 3.123738169670105,45.78398935632118,0.0</coordinates>
+			</LinearRing>
           </outerBoundaryIs>
         </Polygon>
       </Placemark>
@@ -854,6 +854,38 @@
             <LinearRing>
               <tessellate>0</tessellate>
               <coordinates>3.0898135900497437,45.78215999707879,0.0 3.089856505393982,45.781961719363096,0.0 3.0909347534179688,45.78192430839424,0.0 3.0909615755081177,45.78212632732771,0.0 3.09090793132782,45.78213755058033,0.0 3.0909132957458496,45.782320863386595,0.0 3.0899369716644287,45.7823545330202,0.0 3.0899155139923096,45.78215999707879,0.0 3.0898135900497437,45.78215999707879,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-4186F0-4-76</styleUrl>
+        <name>Parking Maison</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20027</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Brezet</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <value>parking</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[<br/>
+					<button onclick="window.location='https://maps.google.fr/maps?q=45.782362,3.12328&num=1&t=h&z=18';">Navigate to this point</button>
+				<br/>]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.1232446432113647,45.78250791664926,0.0 3.123185634613037,45.78202905904372,0.0 3.123314380645752,45.781935531687544,0.0 3.124408721923828,45.78238446156631,0.0 3.1232446432113647,45.78250791664926,0.0</coordinates>
 			</LinearRing>
           </outerBoundaryIs>
         </Polygon>

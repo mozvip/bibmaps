@@ -586,7 +586,7 @@ Type: POI]]></description>
       </Placemark>
       <Placemark>
         <styleUrl>#icon-plane</styleUrl>
-        <name>Michelin Air Services</name>
+        <name>Michelin Air Services MAS W12</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -605,7 +605,7 @@ Type: POI]]></description>
             <value>POI</value>
           </Data>
         </ExtendedData>
-        <description><![CDATA[Michelin Air Service
+        <description><![CDATA[Michelin Air Service W12
 
 site: MAS
 Type: POI]]></description>
@@ -756,6 +756,35 @@ site: Combaude
 Type: POI]]></description>
         <Point>
           <coordinates>3.124288,45.803477,0.0</coordinates>
+        </Point>
+      </Placemark>
+	        <Placemark>
+        <styleUrl>#icon-cantine</styleUrl>
+        <name>Restaurant</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30027</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Brézet</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Restaurant
+
+site: Brézet
+Type: POI]]></description>
+        <Point>
+          <coordinates>3.124171,45.783103,0.0</coordinates>
         </Point>
       </Placemark>
     </Folder>

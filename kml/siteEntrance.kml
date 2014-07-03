@@ -305,7 +305,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée</name>
+        <name>Entrée Combeaude</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -315,7 +315,7 @@
         <ExtendedData>
           <Data name="string">
             <displayName>site</displayName>
-            <value>XXXX</value>
+            <value>Combaude</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
@@ -501,6 +501,31 @@
         </ExtendedData>
         <Point>
           <coordinates>3.122051,45.842651,0.0</coordinates>
+        </Point>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#icon-site-entrance</styleUrl>
+        <name>Entrée Combeaude</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>50021</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Combaude</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>siteEntrance</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>3.122326,45.801461,0.0</coordinates>
         </Point>
       </Placemark>
     </Folder>
