@@ -2840,8 +2840,8 @@ Type: Batiment]]></description>
           <outerBoundaryIs>
             <LinearRing>
               <tessellate>0</tessellate>
-              <coordinates>3.134300708770752,45.808610653842884,0.0 3.1342148780822754,45.80804227627282,0.0 3.1363821029663086,45.80789270226412,0.0 3.1364786624908447,45.808468559994104,0.0 3.134300708770752,45.808610653842884,0.0</coordinates>
-            </LinearRing>
+              <coordinates>3.1343168020248413,45.808603175228306,0.0 3.1342577934265137,45.808046015617904,0.0 3.136070966720581,45.80791887774466,0.0 3.1360870599746704,45.808090887739176,0.0 3.136398196220398,45.808060972995655,0.0 3.1364357471466064,45.80845734204322,0.0 3.1343168020248413,45.808603175228306,0.0</coordinates>
+			</LinearRing>
           </outerBoundaryIs>
         </Polygon>
       </Placemark>
@@ -2913,7 +2913,7 @@ Type: Batiment]]></description>
       </Placemark>
       <Placemark>
         <styleUrl>#poly-DB4436-4-76</styleUrl>
-        <name>MI.1</name>
+        <name>TL11 bureaux</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -2931,7 +2931,7 @@ Type: Batiment]]></description>
             <value>Batiment</value>
           </Data>
         </ExtendedData>
-        <description><![CDATA[MI.1
+        <description><![CDATA[TL11 bureaux
 
 site: Chantemerle
 Type: Batiment]]></description>
@@ -2939,8 +2939,8 @@ Type: Batiment]]></description>
           <outerBoundaryIs>
             <LinearRing>
               <tessellate>0</tessellate>
-              <coordinates>3.1420791149139404,45.80799740411239,0.0 3.141993284225464,45.807436499056955,0.0 3.1427228450775146,45.80739162640853,0.0 3.142808675765991,45.80804227627282,0.0 3.1424331665039062,45.80807219102636,0.0 3.1424009799957275,45.80797496801861,0.0 3.1420791149139404,45.80799740411239,0.0</coordinates>
-            </LinearRing>
+              <coordinates>3.1363660097122192,45.80790018097411,0.0 3.136398196220398,45.808060972995655,0.0 3.1360870599746704,45.808090887739176,0.0 3.136070966720581,45.80791887774466,0.0 3.1363660097122192,45.80790018097411,0.0</coordinates>
+			</LinearRing>
           </outerBoundaryIs>
         </Polygon>
       </Placemark>

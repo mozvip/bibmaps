@@ -255,7 +255,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée</name>
+        <name>Entrée Talloires</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -265,7 +265,7 @@
         <ExtendedData>
           <Data name="string">
             <displayName>site</displayName>
-            <value>XXXX</value>
+            <value>Chantemerle</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
@@ -275,12 +275,12 @@
           </Data>
         </ExtendedData>
         <Point>
-          <coordinates>3.139925,45.807074,0.0</coordinates>
+          <coordinates>3.138869,45.807272,0.0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée</name>
+        <name>Entrée Tanninges</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -290,7 +290,7 @@
         <ExtendedData>
           <Data name="string">
             <displayName>site</displayName>
-            <value>XXXX</value>
+            <value>Chantemerle</value>
           </Data>
         </ExtendedData>
         <ExtendedData>

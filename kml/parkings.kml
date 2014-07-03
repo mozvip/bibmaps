@@ -403,7 +403,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#poly-4186F0-4-76</styleUrl>
-        <name>Parking 1</name>
+        <name>Parking Talloires</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -435,7 +435,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#poly-4186F0-4-76</styleUrl>
-        <name>Parking2</name>
+        <name>Parking Tanninges</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>

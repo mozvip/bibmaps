@@ -238,7 +238,7 @@ Type: POI]]></description>
       </Placemark>
       <Placemark>
         <styleUrl>#icon-accueil</styleUrl>
-        <name>Accueil visiteurs</name>
+        <name>Accueil visiteurs Talloires</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -257,7 +257,7 @@ Type: POI]]></description>
             <value>POI</value>
           </Data>
         </ExtendedData>
-        <description><![CDATA[Accueil visiteurs
+        <description><![CDATA[Accueil visiteurs Talloires
 
 site: Chantemerle
 Type: POI]]></description>
