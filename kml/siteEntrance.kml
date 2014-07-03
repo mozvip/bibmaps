@@ -130,7 +130,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée</name>
+        <name>Entrée St Vincent</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -140,7 +140,7 @@
         <ExtendedData>
           <Data name="string">
             <displayName>site</displayName>
-            <value>XXXX</value>
+            <value>Cataroux</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
@@ -325,12 +325,12 @@
           </Data>
         </ExtendedData>
         <Point>
-          <coordinates>3.123183,45.801373,0.0</coordinates>
+          <coordinates>3.123160,45.801307,0.0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée</name>
+        <name>Entrée Alger</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -340,7 +340,7 @@
         <ExtendedData>
           <Data name="string">
             <displayName>site</displayName>
-            <value>XXXX</value>
+            <value>Ladoux</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
@@ -355,7 +355,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée</name>
+        <name>Entrée Troyes</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -365,7 +365,7 @@
         <ExtendedData>
           <Data name="string">
             <displayName>site</displayName>
-            <value>XXXX</value>
+            <value>Ladoux</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
@@ -380,7 +380,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée</name>
+        <name>Entrée Anderson</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -390,7 +390,7 @@
         <ExtendedData>
           <Data name="string">
             <displayName>site</displayName>
-            <value>XXXX</value>
+            <value>Ladoux</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
@@ -405,7 +405,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée</name>
+        <name>Entrée Turin</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -415,7 +415,7 @@
         <ExtendedData>
           <Data name="string">
             <displayName>site</displayName>
-            <value>XXXX</value>
+            <value>Ladoux</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
@@ -430,7 +430,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée</name>
+        <name>Entrée Dijon</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -440,7 +440,7 @@
         <ExtendedData>
           <Data name="string">
             <displayName>site</displayName>
-            <value>XXXX</value>
+            <value>Ladoux</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
@@ -450,12 +450,12 @@
           </Data>
         </ExtendedData>
         <Point>
-          <coordinates>3.120375,45.838114,0.0</coordinates>
+          <coordinates>3.12046,45.838305,0.0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée</name>
+        <name>Entrée Karlsruhe</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -465,7 +465,7 @@
         <ExtendedData>
           <Data name="string">
             <displayName>site</displayName>
-            <value>XXXX</value>
+            <value>Ladoux</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
@@ -480,7 +480,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée</name>
+        <name>Entrée Laurens</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -490,7 +490,7 @@
         <ExtendedData>
           <Data name="string">
             <displayName>site</displayName>
-            <value>XXXX</value>
+            <value>Ladoux</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
@@ -501,31 +501,6 @@
         </ExtendedData>
         <Point>
           <coordinates>3.122051,45.842651,0.0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée</name>
-        <ExtendedData>
-          <Data name="string">
-            <displayName>id</displayName>
-            <value>50021</value>
-          </Data>
-        </ExtendedData>
-        <ExtendedData>
-          <Data name="string">
-            <displayName>site</displayName>
-            <value>XXXX</value>
-          </Data>
-        </ExtendedData>
-        <ExtendedData>
-          <Data name="string">
-            <displayName>Type</displayName>
-            <value>siteEntrance</value>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>3.126218,45.844246,0.0</coordinates>
         </Point>
       </Placemark>
     </Folder>

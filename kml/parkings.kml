@@ -563,7 +563,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#poly-4186F0-4-76</styleUrl>
-        <name>Parking 1</name>
+        <name>P5 P6 P7 P8 P9 P10</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -596,7 +596,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#poly-4186F0-4-76</styleUrl>
-        <name>Parking 2</name>
+        <name>Parking 4</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -662,7 +662,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#poly-4186F0-4-76</styleUrl>
-        <name>Parking 4</name>
+        <name>Parking 1</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -693,13 +693,112 @@
           </outerBoundaryIs>
         </Polygon>
       </Placemark>
+		<Placemark>
+        <styleUrl>#poly-4186F0-4-76</styleUrl>
+        <name>Parking 11</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20022</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Ladoux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>parking</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[<br/>
+					<button onclick="window.location='https://maps.google.fr/maps?q=45.842919,3.119225&num=1&t=h&z=18';">Navigate to this point</button>
+				<br/>]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.119269609451294,45.84203002742822,0.0 3.120642900466919,45.84216456153001,0.0 3.1203854084014893,45.84299418130239,0.0 3.1190282106399536,45.84285591219943,0.0 3.119269609451294,45.84203002742822,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-4186F0-4-76</styleUrl>
+        <name>Parking 2</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20023</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Ladoux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>parking</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[<br/>
+					<button onclick="window.location='https://maps.google.fr/maps?q=45.841021,3.128688&num=1&t=h&z=18';">Navigate to this point</button>
+				<br/>]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.1287753582000732,45.84053144502279,0.0 3.1294888257980347,45.840553867999624,0.0 3.129504919052124,45.84146572806837,0.0 3.128705620765686,45.84144330545902,0.0 3.1287753582000732,45.84053144502279,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-4186F0-4-76</styleUrl>
+        <name>Parking Dijon</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20024</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Ladoux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>parking</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[<br/>
+					<button onclick="window.location='https://maps.google.fr/maps?q=45.837949,3.120019&num=1&t=h&z=18';">Navigate to this point</button>
+				<br/>]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+			  <coordinates>3.119591474533081,45.83716415876688,0.0 3.1203585863113403,45.83705577435922,0.0 3.120567798614502,45.83794526773758,0.0 3.1197577714920044,45.83794153040019,0.0 3.119591474533081,45.83716415876688,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
 	  <Placemark>
         <styleUrl>#poly-4186F0-4-76</styleUrl>
         <name>Omersson 1</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
-            <value>20022</value>
+            <value>20025</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
@@ -732,7 +831,7 @@
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
-            <value>20022</value>
+            <value>20026</value>
           </Data>
         </ExtendedData>
         <ExtendedData>

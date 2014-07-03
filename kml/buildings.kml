@@ -4236,40 +4236,6 @@ type: Batiment]]></description>
       </Placemark>
       <Placemark>
         <styleUrl>#poly-DB4436-4-76</styleUrl>
-        <name>G38</name>
-        <ExtendedData>
-          <Data name="string">
-            <displayName>id</displayName>
-            <value>10131</value>
-          </Data>
-        </ExtendedData>
-        <ExtendedData>
-          <Data name="string">
-            <displayName>site</displayName>
-            <value>Ladoux</value>
-          </Data>
-        </ExtendedData>
-        <ExtendedData>
-          <Data name="string">
-            <displayName>Type</displayName>
-            <value>Batiment</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[G38
-
-Site: Ladoux
-type: Batiment]]></description>
-        <Polygon>
-          <outerBoundaryIs>
-            <LinearRing>
-              <tessellate>0</tessellate>
-              <coordinates>3.1224775314331055,45.842134665091045,0.0 3.1224989891052246,45.841805803202305,0.0 3.123185634613037,45.84185064811978,0.0 3.123164176940918,45.84214213920229,0.0 3.1224775314331055,45.842134665091045,0.0</coordinates>
-            </LinearRing>
-          </outerBoundaryIs>
-        </Polygon>
-      </Placemark>
-      <Placemark>
-        <styleUrl>#poly-DB4436-4-76</styleUrl>
         <name>E1</name>
         <ExtendedData>
           <Data name="string">
@@ -4501,7 +4467,7 @@ type: Batiment]]></description>
           <outerBoundaryIs>
             <LinearRing>
               <tessellate>0</tessellate>
-              <coordinates>3.126779794692993,45.84433948436637,0.0 3.1267905235290527,45.844182534018536,0.0 3.1272947788238525,45.84420495552392,0.0 3.1274020671844482,45.842799857059795,0.0 3.1278634071350098,45.84282227912244,0.0 3.127681016921997,45.84435443199547,0.0 3.126779794692993,45.84433948436637,0.0</coordinates>
+              <coordinates>3.1268012523651123,45.84433948436637,0.0 3.126811981201172,45.844175060181406,0.0 3.127187490463257,45.84419000785467,0.0 3.1272411346435547,45.84407790020732,0.0 3.12735915184021,45.84404800479653,0.0 3.12735915184021,45.84419000785467,0.0 3.1278204917907715,45.84420495552392,0.0 3.1277990341186523,45.84437685343154,0.0 3.1268012523651123,45.84433948436637,0.0</coordinates>
             </LinearRing>
           </outerBoundaryIs>
         </Polygon>
@@ -5120,7 +5086,7 @@ type: Batiment]]></description>
       </Placemark>
       <Placemark>
         <styleUrl>#poly-DB4436-4-76</styleUrl>
-        <name>F34</name>
+        <name>F43</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -5139,7 +5105,7 @@ type: Batiment]]></description>
             <value>Batiment</value>
           </Data>
         </ExtendedData>
-        <description><![CDATA[F34
+        <description><![CDATA[F43
 
 Site: Ladoux
 type: Batiment]]></description>
@@ -5290,11 +5256,419 @@ type: Batiment]]></description>
       </Placemark>
 	  <Placemark>
         <styleUrl>#poly-DB4436-4-76</styleUrl>
-        <name>A19</name>
+        <name>F35bis</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
             <value>10162</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Ladoux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[F35bis
+
+Site: Ladoux
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.12735915184021,45.84404800479653,0.0 3.1274664402008057,45.84282227912244,0.0 3.1277990341186523,45.84284470117602,0.0 3.1277239322662354,45.84407790020732,0.0 3.12735915184021,45.84404800479653,0.0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>Crèche</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10163</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Ladoux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Crèche
+
+Site: Ladoux
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.1189799308776855,45.84371168031827,0.0 3.1192374229431152,45.84324829659547,0.0 3.1196558475494385,45.843293140350234,0.0 3.1197041273117065,45.84351735858183,0.0 3.119489550590515,45.843775208431026,0.0 3.1189799308776855,45.84371168031827,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+	</Placemark>
+	<Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>B140</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10164</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Ladoux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[B140
+
+Site: Ladoux
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.1306368112564087,45.84194407491509,0.0 3.130400776863098,45.841970234389656,0.0 3.130400776863098,45.84187307056496,0.0 3.13010036945343,45.84184691104469,0.0 3.1301164627075195,45.84171985034277,0.0 3.1304168701171875,45.84172732450973,0.0 3.1304222345352173,45.84163016026083,0.0 3.1306475400924683,45.84163763443983,0.0 3.1306368112564087,45.84194407491509,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>E20</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10165</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Ladoux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[E20
+
+Site: Ladoux
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.130808472633362,45.843057710234476,0.0 3.13085675239563,45.842489684266255,0.0 3.1317955255508423,45.84250836942325,0.0 3.1320369243621826,45.842695220648025,0.0 3.1318706274032593,45.842792383036915,0.0 3.1317901611328125,45.84272511678575,0.0 3.1317687034606934,45.84306892121496,0.0 3.130808472633362,45.843057710234476,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>E26</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10166</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Ladoux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[E26
+
+Site: Ladoux
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.131752610206604,45.84110322810936,0.0 3.132471442222595,45.84112191373199,0.0 3.1324124336242676,45.84155168132051,0.0 3.1317204236984253,45.8415329958422,0.0 3.131752610206604,45.84110322810936,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>B138</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10167</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Ladoux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[B138
+
+Site: Ladoux
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.1235772371292114,45.841248975799466,0.0 3.123233914375305,45.8412527129147,0.0 3.1232446432113647,45.84107706822716,0.0 3.1236308813095093,45.84108080535392,0.0 3.1235772371292114,45.841248975799466,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>F28</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10168</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Ladoux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[F28
+
+Site: Ladoux
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.1243926286697388,45.84507938718485,0.0 3.1246501207351685,45.84509807147208,0.0 3.1246447563171387,45.845210177063606,0.0 3.1243443489074707,45.84519149281404,0.0 3.1243926286697388,45.84507938718485,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>G38</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10169</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Ladoux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[G38
+
+Site: Ladoux
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.12198668718338,45.84201881623838,0.0 3.1219974160194397,45.841822620050586,0.0 3.122088611125946,45.84182448858898,0.0 3.122091293334961,45.841777775110515,0.0 3.12248557806015,45.84178338073,0.0 3.1224748492240906,45.841835699817956,0.0 3.1231749057769775,45.841852516657205,0.0 3.123158812522888,45.84214027067458,0.0 3.122512400150299,45.84211597980856,0.0 3.122536540031433,45.84202442183357,0.0 3.12198668718338,45.84201881623838,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>G33</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10170</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Ladoux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[G33
+
+Site: Ladoux
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.12235951423645,45.84210663716495,0.0 3.1223729252815247,45.84202442183357,0.0 3.122539222240448,45.84202442183358,0.0 3.122536540031433,45.84211224275131,0.0 3.12235951423645,45.84210663716495,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>B125</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10171</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Ladoux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[B125
+
+Site: Ladoux
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.1239500641822815,45.84086965729696,0.0 3.1239742040634155,45.84077249155022,0.0 3.1241217255592346,45.840794914429935,0.0 3.124092221260071,45.840886474428245,0.0 3.1239500641822815,45.84086965729696,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>E6</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10172</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Ladoux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[E6
+
+Site: Ladoux
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.124057352542877,45.84117236488176,0.0 3.1241217255592346,45.84117610200214,0.0 3.1240975856781006,45.84123776445225,0.0 3.124035894870758,45.84123215877778,0.0 3.124057352542877,45.84117236488176,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>E25</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10173</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Ladoux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[25
+
+Site: Ladoux
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.1239259243011475,45.84155541841542,0.0 3.1240278482437134,45.84155915551007,0.0 3.124017119407654,45.84166753114586,0.0 3.123907148838043,45.841654451338954,0.0 3.1239259243011475,45.84155541841542,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>A19</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10174</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
@@ -5328,7 +5702,7 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
-            <value>10163</value>
+            <value>10175</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
@@ -5362,7 +5736,7 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
-            <value>10164</value>
+            <value>10176</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
@@ -5396,7 +5770,7 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
-            <value>10165</value>
+            <value>10177</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
@@ -5430,7 +5804,7 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
-            <value>10166</value>
+            <value>10178</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
@@ -5464,7 +5838,7 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
-            <value>10166</value>
+            <value>10179</value>
           </Data>
         </ExtendedData>
         <ExtendedData>

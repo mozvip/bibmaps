@@ -64,7 +64,7 @@ Type: POI]]></description>
       </Placemark>
       <Placemark>
         <styleUrl>#icon-cantine</styleUrl>
-        <name>Cantine</name>
+        <name>Restaurant</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -83,7 +83,7 @@ Type: POI]]></description>
             <value>POI</value>
           </Data>
         </ExtendedData>
-        <description><![CDATA[Cantine
+        <description><![CDATA[Restaurant
 
 site: Carmes
 Type: POI]]></description>
@@ -209,7 +209,7 @@ Type: POI]]></description>
       </Placemark>
       <Placemark>
         <styleUrl>#icon-cantine</styleUrl>
-        <name>Cantine</name>
+        <name>Restaurant</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -228,7 +228,7 @@ Type: POI]]></description>
             <value>POI</value>
           </Data>
         </ExtendedData>
-        <description><![CDATA[Cantine
+        <description><![CDATA[Restaurant
 
 site: Cataroux
 Type: POI]]></description>
@@ -441,7 +441,7 @@ Type: POI]]></description>
       </Placemark>
       <Placemark>
         <styleUrl>#icon-accueil</styleUrl>
-        <name>Accueil visiteurs</name>
+        <name>Accueil visiteurs E23</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -460,7 +460,7 @@ Type: POI]]></description>
             <value>POI</value>
           </Data>
         </ExtendedData>
-        <description><![CDATA[Accueil visiteurs
+        <description><![CDATA[Accueil visiteurs E23
 
 site: Ladoux
 Type: POI]]></description>
@@ -470,7 +470,7 @@ Type: POI]]></description>
       </Placemark>
       <Placemark>
         <styleUrl>#icon-accueil</styleUrl>
-        <name>Accueil entreprises</name>
+        <name>Accueil Troyes</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -489,7 +489,7 @@ Type: POI]]></description>
             <value>POI</value>
           </Data>
         </ExtendedData>
-        <description><![CDATA[Accueil entreprises
+        <description><![CDATA[Accueil Troyes
 
 site: Ladoux
 Type: POI]]></description>
@@ -499,7 +499,7 @@ Type: POI]]></description>
       </Placemark>
       <Placemark>
         <styleUrl>#icon-cantine</styleUrl>
-        <name>Cantine 1</name>
+        <name>Restaurant 1</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -518,7 +518,7 @@ Type: POI]]></description>
             <value>POI</value>
           </Data>
         </ExtendedData>
-        <description><![CDATA[Cantine 1
+        <description><![CDATA[Restaurant 1
 
 site: Ladoux
 Type: POI]]></description>
@@ -528,7 +528,7 @@ Type: POI]]></description>
       </Placemark>
       <Placemark>
         <styleUrl>#icon-cantine</styleUrl>
-        <name>Cantine 2</name>
+        <name>Restaurant 2</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -547,7 +547,7 @@ Type: POI]]></description>
             <value>POI</value>
           </Data>
         </ExtendedData>
-        <description><![CDATA[Cantine 2
+        <description><![CDATA[Restaurant 2
 
 site: Ladoux
 Type: POI]]></description>
@@ -581,7 +581,7 @@ Type: POI]]></description>
 site: Ladoux
 Type: POI]]></description>
         <Point>
-          <coordinates>3.125685,45.84485,0.0</coordinates>
+          <coordinates>3.12592,45.844848,0.0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -669,6 +669,93 @@ site: Ladoux
 Type: POI]]></description>
         <Point>
           <coordinates>3.130175,45.845118,0.0</coordinates>
+        </Point>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#icon-accueil</styleUrl>
+        <name>Accueil visiteurs Turin</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30024</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Ladoux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Accueil visiteurs Turin
+
+site: Ladoux
+Type: POI]]></description>
+        <Point>
+          <coordinates>3.124612,45.841034,0.0</coordinates>
+        </Point>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#icon-accueil</styleUrl>
+        <name>Accueil visiteurs Dijon</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30025</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Ladoux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Accueil visiteurs Dijon
+
+site: Ladoux
+Type: POI]]></description>
+        <Point>
+          <coordinates>3.120374,45.838089,0.0</coordinates>
+        </Point>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#icon-cantine</styleUrl>
+        <name>Restaurant</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30026</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Combaude</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Restaurant
+
+site: Combaude
+Type: POI]]></description>
+        <Point>
+          <coordinates>3.124288,45.803477,0.0</coordinates>
         </Point>
       </Placemark>
     </Folder>
