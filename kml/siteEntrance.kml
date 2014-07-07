@@ -5,7 +5,7 @@
     <Folder>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée A17</name>
+        <name>Porte A17</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -30,7 +30,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée Thevenot</name>
+        <name>Porte Thevenot</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -55,7 +55,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée Montaigut</name>
+        <name>Porte Montaigut</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -80,7 +80,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée Ormesson</name>
+        <name>Porte Ormesson</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -105,7 +105,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée Billom</name>
+        <name>Porte Billom</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -130,7 +130,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée St Vincent</name>
+        <name>Porte St Vincent</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -155,7 +155,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée Rodade</name>
+        <name>Porte Rodade</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -180,7 +180,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée Solignat</name>
+        <name>Porte Solignat</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -205,7 +205,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée Clos de Four</name>
+        <name>Porte Clos de Four</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -230,7 +230,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée de St Sauves</name>
+        <name>Porte de St Sauves</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -255,7 +255,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée Talloires</name>
+        <name>Porte Talloires</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -280,7 +280,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée Tanninges</name>
+        <name>Porte Tanninges</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -305,7 +305,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée Combeaude</name>
+        <name>Porte Combeaude</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -330,7 +330,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée Alger</name>
+        <name>Porte Alger</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -355,7 +355,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée Troyes</name>
+        <name>Porte Troyes</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -380,7 +380,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée Anderson</name>
+        <name>Porte Anderson</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -405,7 +405,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée Turin</name>
+        <name>Porte Turin</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -430,7 +430,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée Dijon</name>
+        <name>Porte Dijon</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -455,7 +455,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée Karlsruhe</name>
+        <name>Porte Karlsruhe</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -480,7 +480,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée Laurens</name>
+        <name>Porte Laurens</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -505,7 +505,7 @@
       </Placemark>
 	  <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée Combeaude</name>
+        <name>Porte Combeaude</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -530,7 +530,7 @@
       </Placemark>
 	  <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée Forum</name>
+        <name>Porte Forum</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -555,7 +555,7 @@
       </Placemark>
 	  <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée des Pistes</name>
+        <name>Porte des Pistes</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -580,7 +580,7 @@
       </Placemark>
 	  <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée rue Marchadier</name>
+        <name>Porte rue Marchadier</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
