@@ -902,7 +902,7 @@
         <ExtendedData>
           <Data name="string">
             <displayName>site</displayName>
-            <value>Brezet</value>
+            <value>Carmes</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
@@ -918,6 +918,38 @@
             <LinearRing>
               <tessellate>0</tessellate>
               <coordinates>3.094469904899597,45.78360029516851,0.0 3.095172643661499,45.78370504266902,0.0 3.094995617866516,45.78413525355345,0.0 3.0948400497436523,45.78410532594719,0.0 3.0947166681289673,45.784101584995256,0.0 3.094673752784729,45.78437093289127,0.0 3.0944913625717163,45.784374673825106,0.0 3.094228506088257,45.78434100541154,0.0 3.094325065612793,45.78409036213802,0.0 3.094169497489929,45.78404172973054,0.0 3.094469904899597,45.78360029516851,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-4186F0-4-76</styleUrl>
+        <name>Parking des pistes</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20029</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Cataroux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <value>parking</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[<br/>
+					<button onclick="window.location='https://maps.google.fr/maps?q=45.795531,3.109184&num=1&t=h&z=18';">Navigate to this point</button>
+				<br/>]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.110353946685791,45.795409335973964,0.0 3.110203742980957,45.79546169865374,0.0 3.1102412939071655,45.795506580911535,0.0 3.110099136829376,45.795568293956975,0.0 3.110155463218689,45.795618786397874,0.0 3.109560012817383,45.796002153438224,0.0 3.10950368642807,45.79600028336148,0.0 3.109230101108551,45.79580392495642,0.0 3.1091174483299255,45.79569358992991,0.0 3.1091120839118958,45.79557390423045,0.0 3.1098470091819763,45.79526533835087,0.0 3.1099918484687805,45.795250377537535,0.0 3.110104501247406,45.79527094865483,0.0 3.110353946685791,45.795409335973964,0.0</coordinates>
 			</LinearRing>
           </outerBoundaryIs>
         </Polygon>

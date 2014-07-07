@@ -553,6 +553,56 @@
           <coordinates>3.09087,45.782481,0.0</coordinates>
         </Point>
       </Placemark>
+	  <Placemark>
+        <styleUrl>#icon-site-entrance</styleUrl>
+        <name>Entrée des Pistes</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>50022</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Cataroux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>siteEntrance</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>3.109082,45.795764,0.0</coordinates>
+        </Point>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#icon-site-entrance</styleUrl>
+        <name>Entrée rue Marchadier</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>50023</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Cataroux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>siteEntrance</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>3.111689,45.796346,0.0</coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Style id="icon-site-entrance">
       <IconStyle>

@@ -5869,6 +5869,244 @@ type: Batiment]]></description>
           </outerBoundaryIs>
         </Polygon>
       </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>F5</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10183</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Cataroux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[F5
+
+Site: Cataroux
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.1076502799987793,45.79661366516087,0.0 3.107805848121643,45.7965351227464,0.0 3.1077146530151367,45.7964752808325,0.0 3.1078433990478516,45.7964042184763,0.0 3.107784390449524,45.79638177771339,0.0 3.1079721450805664,45.79614614915738,0.0 3.1080687046051025,45.79609378712072,0.0 3.108111619949341,45.79611996814519,0.0 3.1081706285476685,45.796105007561295,0.0 3.108229637145996,45.79616859001514,0.0 3.108181357383728,45.796179810440655,0.0 3.108310103416443,45.79627331389866,0.0 3.108428120613098,45.79619477100448,0.0 3.1088250875473022,45.796516422155214,0.0 3.1118398904800415,45.79881280782001,0.0 3.1111961603164673,45.799201762794716,0.0 3.1079506874084473,45.79675204914555,0.0 3.1081920862197876,45.796632365719404,0.0 3.108084797859192,45.79656878379472,0.0 3.1078219413757324,45.79675204914555,0.0 3.1076502799987793,45.79661366516087,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>F4</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10184</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Cataroux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[F4
+
+Site: Cataroux
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.1088143587112427,45.796138668869425,0.0 3.1090879440307617,45.7959703621254,0.0 3.109828233718872,45.79652016227394,0.0 3.1095492839813232,45.79669594757157,0.0 3.1088143587112427,45.796138668869425,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>F47</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10185</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Cataroux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[F47
+
+Site: Cataroux
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.1091469526290894,45.79649772155775,0.0 3.109227418899536,45.796464060466505,0.0 3.1095492839813232,45.79669594757157,0.0 3.109458088874817,45.796729608522746,0.0 3.1091469526290894,45.79649772155775,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>G12</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10186</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Cataroux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[G12
+
+Site: Cataroux
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.109978437423706,45.79715597881102,0.0 3.110225200653076,45.79698019496458,0.0 3.1103861331939697,45.79709613756384,0.0 3.1101608276367188,45.79727192104451,0.0 3.109978437423706,45.79715597881102,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>O26</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10187</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Cataroux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[O26
+
+Site: Cataroux
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.110804557800293,45.79700263548651,0.0 3.1119418144226074,45.797836668474424,0.0 3.1118935346603394,45.79788154881936,0.0 3.111947178840637,45.79793390917613,0.0 3.1118184328079224,45.79852482979136,0.0 3.1117111444473267,45.79857718954363,0.0 3.1101608276367188,45.79742526362798,0.0 3.110804557800293,45.79700263548651,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>V22</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10188</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Cataroux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[V22
+
+Site: Cataroux
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.1116199493408203,45.796467800588744,0.0 3.1123119592666626,45.79696149452276,0.0 3.1121617555618286,45.79706621691617,0.0 3.1122207641601562,45.79710735780259,0.0 3.1121671199798584,45.79723452035038,0.0 3.1119579076766968,45.79738786303677,0.0 3.112075924873352,45.79751502494445,0.0 3.111850619316101,45.79763470647482,0.0 3.110901117324829,45.79692783371166,0.0 3.1116199493408203,45.796467800588744,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>F14</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10189</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Cataroux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[F14
+
+Site: Cataroux
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.1095385551452637,45.79612744843565,0.0 3.1104183197021484,45.795558943499934,0.0 3.111507296562195,45.79636307707074,0.0 3.1106221675872803,45.79692783371166,0.0 3.1095385551452637,45.79612744843565,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
     </Folder>
     <Folder>
       <name>parkings</name>
