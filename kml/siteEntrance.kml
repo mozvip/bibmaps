@@ -155,7 +155,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée</name>
+        <name>Entrée Rodade</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -165,7 +165,7 @@
         <ExtendedData>
           <Data name="string">
             <displayName>site</displayName>
-            <value>XXXX</value>
+            <value>Cataroux</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
@@ -180,7 +180,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée</name>
+        <name>Entrée Solignat</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -190,7 +190,7 @@
         <ExtendedData>
           <Data name="string">
             <displayName>site</displayName>
-            <value>XXXX</value>
+            <value>Cataroux</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
@@ -205,7 +205,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée</name>
+        <name>Entrée Clos de Four</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -215,7 +215,7 @@
         <ExtendedData>
           <Data name="string">
             <displayName>site</displayName>
-            <value>XXXX</value>
+            <value>Cataroux</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
@@ -230,7 +230,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée</name>
+        <name>Entrée de St Sauves</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -240,7 +240,7 @@
         <ExtendedData>
           <Data name="string">
             <displayName>site</displayName>
-            <value>XXXX</value>
+            <value>Cataroux</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
