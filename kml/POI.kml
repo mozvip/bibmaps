@@ -6,7 +6,7 @@
       <name>POI</name>
       <Placemark>
         <styleUrl>#icon-accueil</styleUrl>
-        <name>Accueil Visiteur</name>
+        <name>Accueil Visiteurs</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -25,7 +25,7 @@
             <value>POI</value>
           </Data>
         </ExtendedData>
-        <description><![CDATA[accueil visiteurs
+        <description><![CDATA[Accueil visiteurs
 
 site: Carmes
 Type: POI]]></description>
