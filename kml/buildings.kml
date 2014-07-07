@@ -5626,7 +5626,7 @@ type: Batiment]]></description>
           <outerBoundaryIs>
             <LinearRing>
               <tessellate>0</tessellate>
-              <coordinates>3.0898135900497437,45.78215999707879,0.0 3.0899155139923096,45.78215999707879,0.0 3.0899369716644287,45.7823545330202,0.0 3.0909132957458496,45.782320863386595,0.0 3.09090793132782,45.78213755058033,0.0 3.091025948524475,45.78213380949637,0.0 3.0910366773605347,45.78221237220669,0.0 3.0913585424423218,45.782216113285386,0.0 3.0914926528930664,45.782320863386595,0.0 3.0915194749832153,45.782414390096385,0.0 3.0898109078407288,45.78244431861036,0.0 3.0898135900497437,45.78215999707879,0.0</coordinates>
+              <coordinates>3.091025948524475,45.78213380949637,0.0 3.0910366773605347,45.782320863386595,0.0 3.0909132957458496,45.782320863386595,0.0 3.09090793132782,45.78213755058033,0.0 3.091025948524475,45.78213380949637,0.0</coordinates>
 			</LinearRing>
           </outerBoundaryIs>
         </Polygon>
@@ -5763,6 +5763,108 @@ type: Batiment]]></description>
             <LinearRing>
               <tessellate>0</tessellate>
               <coordinates>3.0948400497436523,45.78410532594719,0.0 3.0954891443252563,45.78422503627579,0.0 3.0955132842063904,45.784180144932705,0.0 3.0956366658210754,45.78419323824483,0.0 3.0954810976982117,45.78453740420405,0.0 3.0954140424728394,45.784666465890986,0.0 3.0952075123786926,45.78458042479956,0.0 3.0947354435920715,45.78452244051089,0.0 3.0947810411453247,45.78436906242426,0.0 3.094673752784729,45.78437093289127,0.0 3.094722032546997,45.784133383078505,0.0 3.0948320031166077,45.78414460592709,0.0 3.0948400497436523,45.78410532594719,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>S21</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10180</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Carmes</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[S21
+
+Site: Carmes
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.0899155139923096,45.78215999707879,0.0 3.0899369716644287,45.7823545330202,0.0 3.0899959802627563,45.7823545330202,0.0 3.0899852514266968,45.78243683648338,0.0 3.0898109078407288,45.78244431861036,0.0 3.0898135900497437,45.78215999707879,0.0 3.0899155139923096,45.78215999707879,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>S8</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10181</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Carmes</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[S8
+
+Site: Carmes
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.0917930603027344,45.782287193732685,0.0 3.0915194749832153,45.782287193732685,0.0 3.091481924057007,45.782163738160975,0.0 3.091776967048645,45.78214129166403,0.0 3.0917930603027344,45.782287193732685,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>S18</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10182</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Carmes</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[S18
+
+Site: Carmes
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.0914926528930664,45.782320863386595,0.0 3.0915194749832153,45.782414390096385,0.0 3.0899852514266968,45.78243683648338,0.0 3.0899959802627563,45.7823545330202,0.0 3.0914926528930664,45.782320863386595,0.0</coordinates>
 			</LinearRing>
           </outerBoundaryIs>
         </Polygon>

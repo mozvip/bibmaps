@@ -7,7 +7,7 @@
       <name>parkings</name>
       <Placemark>
         <styleUrl>#poly-4186F0-4-76</styleUrl>
-        <name>Parking 1</name>
+        <name>Parking O9</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -40,7 +40,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#poly-4186F0-4-76</styleUrl>
-        <name>Parking 2</name>
+        <name>Thevenot-Thiabaud</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -73,7 +73,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#poly-4186F0-4-76</styleUrl>
-        <name>Parking 3</name>
+        <name>Parking de Montaigut</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -106,7 +106,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#poly-4186F0-4-76</styleUrl>
-        <name>Parking Belle Ombre</name>
+        <name>Parking Belle-Ombre</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -139,7 +139,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#poly-4186F0-4-76</styleUrl>
-        <name>Parking 5</name>
+        <name>Parking des 3 ponts</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -172,7 +172,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#poly-4186F0-4-76</styleUrl>
-        <name>Parking 6</name>
+        <name>Parking sud</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -794,7 +794,7 @@
       </Placemark>
 	  <Placemark>
         <styleUrl>#poly-4186F0-4-76</styleUrl>
-        <name>Omersson 1</name>
+        <name>Ormesson ouest</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -827,7 +827,7 @@
       </Placemark>
 	  <Placemark>
         <styleUrl>#poly-4186F0-4-76</styleUrl>
-        <name>Omersson 2</name>
+        <name>Ormesson est</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -886,6 +886,38 @@
             <LinearRing>
               <tessellate>0</tessellate>
               <coordinates>3.1232446432113647,45.78250791664926,0.0 3.123185634613037,45.78202905904372,0.0 3.123314380645752,45.781935531687544,0.0 3.124408721923828,45.78238446156631,0.0 3.1232446432113647,45.78250791664926,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-4186F0-4-76</styleUrl>
+        <name>Parking de la Mission (restricted acces)</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20028</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Brezet</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <value>parking</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[<br/>
+					<button onclick="window.location='https://maps.google.fr/maps?q=45.783973,3.094309&num=1&t=h&z=18';">Navigate to this point</button>
+				<br/>]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.094469904899597,45.78360029516851,0.0 3.095172643661499,45.78370504266902,0.0 3.094995617866516,45.78413525355345,0.0 3.0948400497436523,45.78410532594719,0.0 3.0947166681289673,45.784101584995256,0.0 3.094673752784729,45.78437093289127,0.0 3.0944913625717163,45.784374673825106,0.0 3.094228506088257,45.78434100541154,0.0 3.094325065612793,45.78409036213802,0.0 3.094169497489929,45.78404172973054,0.0 3.094469904899597,45.78360029516851,0.0</coordinates>
 			</LinearRing>
           </outerBoundaryIs>
         </Polygon>

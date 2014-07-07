@@ -5,7 +5,7 @@
     <Folder>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée</name>
+        <name>Entrée A17</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -15,7 +15,7 @@
         <ExtendedData>
           <Data name="string">
             <displayName>site</displayName>
-            <value>XXXX</value>
+            <value>Carmes</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
@@ -30,7 +30,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée</name>
+        <name>Entrée Thevenot</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -40,7 +40,7 @@
         <ExtendedData>
           <Data name="string">
             <displayName>site</displayName>
-            <value>XXXX</value>
+            <value>Carmes</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
@@ -55,7 +55,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée</name>
+        <name>Entrée Montaigut</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -65,7 +65,7 @@
         <ExtendedData>
           <Data name="string">
             <displayName>site</displayName>
-            <value>XXXX</value>
+            <value>Carmes</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
@@ -80,7 +80,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée</name>
+        <name>Entrée Ormesson</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -90,7 +90,7 @@
         <ExtendedData>
           <Data name="string">
             <displayName>site</displayName>
-            <value>XXXX</value>
+            <value>Carmes</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
@@ -105,7 +105,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Entrée</name>
+        <name>Entrée Billom</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -115,7 +115,7 @@
         <ExtendedData>
           <Data name="string">
             <displayName>site</displayName>
-            <value>XXXX</value>
+            <value>Carmes</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
@@ -526,6 +526,31 @@
         </ExtendedData>
         <Point>
           <coordinates>3.122326,45.801461,0.0</coordinates>
+        </Point>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#icon-site-entrance</styleUrl>
+        <name>Entrée Forum</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>50021</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Carmes</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>siteEntrance</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>3.09087,45.782481,0.0</coordinates>
         </Point>
       </Placemark>
     </Folder>
