@@ -6141,6 +6141,74 @@ type: Batiment]]></description>
           </outerBoundaryIs>
         </Polygon>
       </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>E23 acceuil visiteurs</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10191</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Ladoux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[E23 acceuil visiteurs
+
+Site: Ladoux
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.1253528594970703,45.84493738639694,0.0 3.1253474950790405,45.84509807147208,0.0 3.1250739097595215,45.845094334615155,0.0 3.1250739097595215,45.84500838683621,0.0 3.125181198120117,45.84501586056139,0.0 3.125181198120117,45.84492991266121,0.0 3.1253528594970703,45.84493738639694,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>E28 acceuil entreprises</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10191</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Ladoux</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[E28 acceuil entreprises
+
+Site: Ladoux
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.1284964084625244,45.84117610200214,0.0 3.128654658794403,45.841177970562235,0.0 3.128635883331299,45.841475070819605,0.0 3.1284669041633606,45.841469465169055,0.0 3.1284964084625244,45.84117610200214,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
     </Folder>
     <Folder>
       <name>parkings</name>

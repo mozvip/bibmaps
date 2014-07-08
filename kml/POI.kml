@@ -470,7 +470,7 @@ Type: POI]]></description>
       </Placemark>
       <Placemark>
         <styleUrl>#icon-accueil</styleUrl>
-        <name>Accueil Troyes</name>
+        <name>Accueil entreprises Troyes</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -489,7 +489,7 @@ Type: POI]]></description>
             <value>POI</value>
           </Data>
         </ExtendedData>
-        <description><![CDATA[Accueil Troyes
+        <description><![CDATA[Accueil entreprises Troyes
 
 site: Ladoux
 Type: POI]]></description>
@@ -671,7 +671,7 @@ Type: POI]]></description>
           <coordinates>3.130175,45.845118,0.0</coordinates>
         </Point>
       </Placemark>
-	  <Placemark>
+	  <!-- <Placemark>
         <styleUrl>#icon-accueil</styleUrl>
         <name>Accueil visiteurs Turin</name>
         <ExtendedData>
@@ -699,10 +699,10 @@ Type: POI]]></description>
         <Point>
           <coordinates>3.124612,45.841034,0.0</coordinates>
         </Point>
-      </Placemark>
+      </Placemark> -->
 	  <Placemark>
         <styleUrl>#icon-accueil</styleUrl>
-        <name>Accueil visiteurs Dijon</name>
+        <name>Accueil V24</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -721,7 +721,7 @@ Type: POI]]></description>
             <value>POI</value>
           </Data>
         </ExtendedData>
-        <description><![CDATA[Accueil visiteurs Dijon
+        <description><![CDATA[Accueil V24
 
 site: Ladoux
 Type: POI]]></description>
