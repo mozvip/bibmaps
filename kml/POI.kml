@@ -787,6 +787,64 @@ Type: POI]]></description>
           <coordinates>3.124171,45.783103,0.0</coordinates>
         </Point>
       </Placemark>
+	  <Placemark>
+        <styleUrl>#icon-infirmerie</styleUrl>
+        <name>Infirmerie des Gravanches</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30028</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Gravanches</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Infirmerie des Gravanches
+
+site: Gravanches
+Type: POI]]></description>
+        <Point>
+          <coordinates>3.135174,45.803423,0.0</coordinates>
+        </Point>
+      </Placemark>
+	   <Placemark>
+        <styleUrl>#icon-accueil</styleUrl>
+        <name>Accueil visiteurs</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30029</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Gravanches</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Accueil visiteurs
+
+site: Gravanches
+Type: POI]]></description>
+        <Point>
+          <coordinates>3.134471,45.803595,0.0</coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Style id="poly-DB4436-4-76">
       <LineStyle>

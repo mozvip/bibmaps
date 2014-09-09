@@ -6209,6 +6209,278 @@ type: Batiment]]></description>
           </outerBoundaryIs>
         </Polygon>
       </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>Bat B001</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10192</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Gravanches</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Bat B001
+
+Site: Gravanches
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.1349471,45.7999348,0.0 3.1360629,45.799859999999995,0.0 3.1361246,45.8002695,0.0 3.1357867000000006,45.8002919,0.0 3.1358564,45.8008305,0.0 3.1350812000000006,45.8008828,0.0 3.1349471,45.7999348,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>Bat B111</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10193</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Gravanches</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Bat B111
+
+Site: Gravanches
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.1337643,45.8009745,0.0 3.1337214,45.80070520000001,0.0 3.1340647,45.8006809,0.0 3.1341103,45.80095020000001,0.0 3.1337643,45.8009745,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>Bat 520</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10194</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Gravanches</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Bat 520
+
+Site: Gravanches
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.1355721,45.800866000000006,0.0 3.1358188000000005,45.8008511,0.0 3.1359369,45.8017336,0.0 3.1358296000000005,45.8017336,0.0 3.1358778,45.80219360000001,0.0 3.136269500000001,45.8021637,0.0 3.1363177,45.8025564,0.0 3.135792,45.80259,0.0 3.1355721,45.800866000000006,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>Bat 640</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10195</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Gravanches</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Bat 640
+
+Site: Gravanches
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.1358509999999997,45.8046095,0.0 3.1358215000000005,45.80434579999999,0.0 3.136425,45.80430650000001,0.0 3.1364492,45.8045739,0.0 3.1358509999999997,45.8046095,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>Bat 190</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10196</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Gravanches</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Bat 190
+
+Site: Gravanches
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.1357008,45.8046188,0.0 3.1364492,45.8045739,0.0 3.1365779,45.8053873,0.0 3.1358108000000002,45.8054303,0.0 3.1357008,45.8046188,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>Bat 200</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10197</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Gravanches</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Bat 200
+
+Site: Gravanches
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.1351778,45.803887700000004,0.0 3.1350973000000004,45.80333420000001,0.0 3.1352502,45.8033268,0.0 3.1353146000000005,45.80387280000001,0.0 3.1351778,45.803887700000004,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>Bat 212</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10198</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Gravanches</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Bat 212
+
+Site: Gravanches
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.1344992000000005,45.80345200000001,0.0 3.1345984,45.8034446,0.0 3.1346333,45.80370070000001,0.0 3.1345287,45.8037063,0.0 3.1344992000000005,45.80345200000001,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>Bat 560</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10199</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Gravanches</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Bat 560
+
+Site: Gravanches
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.135556,45.80437390000001,0.0 3.1353199000000003,45.80262,0.0 3.1363177,45.8025564,0.0 3.136484,45.8036334,0.0 3.1363177000000007,45.8036521,0.0 3.136425,45.80430650000001,0.0 3.135556,45.80437390000001,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
     </Folder>
     <Folder>
       <name>parkings</name>

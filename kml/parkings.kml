@@ -954,6 +954,70 @@
           </outerBoundaryIs>
         </Polygon>
       </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-4186F0-4-76</styleUrl>
+        <name>Parking principal</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20030</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Gravanches</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <value>parking</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[<br/>
+					<button onclick="window.location='https://maps.google.fr/maps?q=45.803332,3.13363&num=1&t=h&z=18';">Navigate to this point</button>
+				<br/>]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.1344402000000002,45.8033754,0.0 3.1345636,45.8041794,0.0 3.1334156000000006,45.80425790000001,0.0 3.1333244,45.803442700000005,0.0 3.1344402000000002,45.8033754,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-4186F0-4-76</styleUrl>
+        <name>Parking secondaire</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20032</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Gravanches</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <value>parking</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[<br/>
+					<button onclick="window.location='https://maps.google.fr/maps?q=45.801777,3.13416&num=1&t=h&z=18';">Navigate to this point</button>
+				<br/>]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>3.1333028999999994,45.8013933,0.0 3.1344348,45.80134100000001,0.0 3.1344777,45.8016439,0.0 3.1333511999999994,45.8017299,0.0 3.1333028999999994,45.8013933,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
     </Folder>
     <Folder>
       <name>POI</name>
