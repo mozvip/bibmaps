@@ -845,6 +845,156 @@ Type: POI]]></description>
           <coordinates>3.134471,45.803595,0.0</coordinates>
         </Point>
       </Placemark>
+	  
+	  <Placemark>
+        <styleUrl>#icon-accueil</styleUrl>
+        <name>Accueil visiteurs</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30030</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Accueil visiteurs
+
+site: Coni
+Type: POI]]></description>
+        <Point>
+          <coordinates>7.568727,44.441232,0.0</coordinates>
+        </Point>
+      </Placemark>
+	  
+	  <Placemark>
+        <styleUrl>#icon-infirmerie</styleUrl>
+        <name>Infirmerie Coni</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30031</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Infirmerie Coni
+
+site: Coni
+Type: POI]]></description>
+        <Point>
+          <coordinates>7.56543,44.439433,0.0</coordinates>
+        </Point>
+      </Placemark>
+	  
+	  <Placemark>
+        <styleUrl>#icon-cantine</styleUrl>
+        <name>Restaurant vert</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30032</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Restaurant vert
+
+site: Coni
+Type: POI]]></description>
+        <Point>
+          <coordinates>7.567984,44.438836,0.0</coordinates>
+        </Point>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#icon-cantine</styleUrl>
+        <name>Restaurant jaune</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30033</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Restaurant jaune
+
+site: Coni
+Type: POI]]></description>
+        <Point>
+          <coordinates>7.568544,44.439811,0.0</coordinates>
+        </Point>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#icon-cantine</styleUrl>
+        <name>Restaurant rouge</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30034</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Restaurant rouge
+
+site: Coni
+Type: POI]]></description>
+        <Point>
+          <coordinates>7.573029,44.438148,0.0</coordinates>
+        </Point>
+      </Placemark>
+	  
+	  
     </Folder>
     <Style id="poly-DB4436-4-76">
       <LineStyle>

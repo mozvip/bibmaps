@@ -1018,6 +1018,136 @@
           </outerBoundaryIs>
         </Polygon>
       </Placemark>
+	  
+	  <Placemark>
+        <styleUrl>#poly-4186F0-4-76</styleUrl>
+        <name>CNO parking</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20033</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <value>parking</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[<br/>
+					<button onclick="window.location='https://maps.google.fr/maps?q=44.440406,7.563946&num=1&t=h&z=18';">Navigate to this point</button>
+				<br/>]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.568778100000002,44.4414556,0.0 7.5687325,44.4412412,0.0 7.570599300000002,44.441063099999994,0.0 7.570634199999998,44.441281399999994,0.0 7.568778100000002,44.4414556,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-4186F0-4-76</styleUrl>
+        <name>CNO parking</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20034</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <value>parking</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[<br/>
+					<button onclick="window.location='https://maps.google.fr/maps?q=44.440406,7.563946&num=1&t=h&z=18';">Navigate to this point</button>
+				<br/>]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.5635988,44.4402071,0.0 7.563185699999998,44.4394143,0.0 7.564033299999999,44.4391921,0.0 7.5643873,44.4400386,0.0 7.5637436,44.4402186,0.0 7.5635988,44.4402071,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-4186F0-4-76</styleUrl>
+        <name>CNO parking</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20035</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <value>parking</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[<br/>
+					<button onclick="window.location='https://maps.google.fr/maps?q=44.440406,7.563946&num=1&t=h&z=18';">Navigate to this point</button>
+				<br/>]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.5641942,44.4414059,0.0 7.563861599999998,44.4406322,0.0 7.5639420999999984,44.4405403,0.0 7.5641352,44.440502,0.0 7.564263900000001,44.4405671,0.0 7.5643498,44.4408237,0.0 7.564446300000001,44.4408812,0.0 7.564607299999999,44.4413331,0.0 7.5641942,44.4414059,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-4186F0-4-76</styleUrl>
+        <name>CNO parking</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20036</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <value>parking</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[<br/>
+					<button onclick="window.location='https://maps.google.fr/maps?q=44.440406,7.563946&num=1&t=h&z=18';">Navigate to this point</button>
+				<br/>]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.564451699999999,44.4404178,0.0 7.564542900000002,44.440299,0.0 7.564328300000001,44.4396862,0.0 7.564478500000001,44.4396671,0.0 7.5652564,44.4418042,0.0 7.565090100000001,44.4418157,0.0 7.564929100000002,44.441723800000005,0.0 7.564451699999999,44.4404178,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  
     </Folder>
     <Folder>
       <name>POI</name>

@@ -6719,6 +6719,1644 @@ type: Batiment]]></description>
           </outerBoundaryIs>
         </Polygon>
       </Placemark>
+	  
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 38a</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10204</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 38a
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.565610400000001,44.43502860000001,0.0 7.566168300000002,44.434975,0.0 7.566275599999998,44.43554949999999,0.0 7.5657258,44.4355935,0.0 7.565610400000001,44.43502860000001,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 38</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10205</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 38
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.5657526,44.4357774,0.0 7.5663185,44.43571810000001,0.0 7.5665465,44.4368308,0.0 7.565964500000001,44.4368787,0.0 7.5657526,44.4357774,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 50</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10206</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 50
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.566565300000001,44.4373957,0.0 7.566498200000002,44.436966700000006,0.0 7.566677899999999,44.4369476,0.0 7.566745,44.4373766,0.0 7.566565300000001,44.4373957,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 45</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10207</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 45
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.565210800000001,44.437227199999995,0.0 7.565358300000001,44.43721190000001,0.0 7.5654119,44.4375126,0.0 7.565267099999998,44.4375279,0.0 7.565210800000001,44.437227199999995,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 10</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10208</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 10
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.566179000000001,44.43698969999999,0.0 7.5661951,44.4370951,0.0 7.5658384000000005,44.4371429,0.0 7.5658169,44.4370319,0.0 7.566179000000001,44.43698969999999,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 48</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10209</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 48
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.5653207,44.4377788,0.0 7.566286300000001,44.437690700000005,0.0 7.566415099999999,44.4384184,0.0 7.565433400000002,44.4385065,0.0 7.5653207,44.4377788,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 7</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10210</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 7
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.5668442,44.4375987,0.0 7.567756200000002,44.43750300000001,0.0 7.5679171000000025,44.4383035,0.0 7.5670052,44.438403099999995,0.0 7.5668442,44.4375987,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 23</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10211</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 23
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.5670052,44.4385563,0.0 7.567359200000001,44.4403105,0.0 7.5671446,44.4403488,0.0 7.567176800000001,44.4404675,0.0 7.565825,44.44058629999999,0.0 7.565460200000002,44.438717200000006,0.0 7.5670052,44.4385563,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 6</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10212</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 6
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.567434300000001,44.44017650000001,0.0 7.567278700000001,44.4392151,0.0 7.5680566,44.4391423,0.0 7.5681639,44.4397322,0.0 7.5678259,44.4397743,0.0 7.567836600000001,44.43983560000001,0.0 7.5675094,44.4398662,0.0 7.567560400000001,44.440165,0.0 7.567434300000001,44.44017650000001,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 28</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10213</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 28
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.567225099999998,44.4388282,0.0 7.5674531,44.4388091,0.0 7.567479900000001,44.4389317,0.0 7.567241200000001,44.4389546,0.0 7.567225099999998,44.4388282,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 25</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10214</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 25
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.5672171,44.438812899999995,0.0 7.567182200000001,44.4385965,0.0 7.567453099999998,44.4385755,0.0 7.567485300000001,44.4387842,0.0 7.5672171,44.438812899999995,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 40</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10215</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 40
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.5679439,44.4385295,0.0 7.5680137,44.4388953,0.0 7.5675148,44.4389317,0.0 7.567453099999998,44.4385755,0.0 7.5679439,44.4385295,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 17</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10216</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 17
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.5653207,44.43884740000001,0.0 7.565369,44.4391155,0.0 7.565237600000001,44.4391289,0.0 7.5652269,44.4390619,0.0 7.5649801,44.4390868,0.0 7.5649559,44.4389087,0.0 7.5651088,44.43889339999999,0.0 7.565127600000001,44.4389987,0.0 7.5652269,44.4389872,0.0 7.565205399999999,44.43885509999999,0.0 7.5653207,44.43884740000001,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 18</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10217</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 18
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.5652215,44.4392457,0.0 7.5653797,44.43922469999999,0.0 7.5654736,44.43970730000001,0.0 7.565302,44.4397245,0.0 7.5652215,44.4392457,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 36</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10217</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 36
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.564888899999998,44.4393223,0.0 7.565055199999999,44.43930889999999,0.0 7.5651088,44.4396268,0.0 7.564937199999999,44.4396422,0.0 7.564888899999998,44.4393223,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 15</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10218</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 15
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.569464699999998,44.4409272,0.0 7.569480800000002,44.4410402,0.0 7.5687217,44.4411109,0.0 7.5687057,44.44099990000001,0.0 7.569464699999998,44.4409272,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 5F</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10219</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 5F
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.5739573999999985,44.44067439999999,0.0 7.573925299999998,44.4404254,0.0 7.5740969,44.4404101,0.0 7.5739574,44.4396939,0.0 7.573775099999999,44.4397092,0.0 7.573753600000002,44.4395636,0.0 7.574724600000001,44.43946410000001,0.0 7.574912299999999,44.44063990000001,0.0 7.574322200000002,44.440705,0.0 7.574311500000001,44.440636100000006,0.0 7.5739573999999985,44.44067439999999,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 5E</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10220</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 5E
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.5706583,44.4403258,0.0 7.572122800000002,44.440199400000004,0.0 7.572197900000001,44.4406628,0.0 7.570712,44.4407816,0.0 7.5706583,44.4403258,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 5B</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10221</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 5B
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.5722301000000005,44.44080840000001,0.0 7.572122800000002,44.440199400000004,0.0 7.5713933,44.4402492,0.0 7.571318100000001,44.439793400000006,0.0 7.573753600000002,44.4395636,0.0 7.573930600000001,44.4406438,0.0 7.5722301000000005,44.44080840000001,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 5</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10222</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 5
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.5685072,44.440065399999995,0.0 7.571318100000001,44.439793400000006,0.0 7.5713933,44.4402492,0.0 7.5685715999999985,44.4404944,0.0 7.5685072,44.440065399999995,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 4</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10223</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 4
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.5684696,44.4398203,0.0 7.568442799999999,44.4396671,0.0 7.568925600000002,44.4396096,0.0 7.568898800000002,44.4395445,0.0 7.571243000000001,44.43932999999999,0.0 7.571302100000001,44.4396594,0.0 7.568941700000001,44.4398854,0.0 7.568931,44.4397666,0.0 7.5684696,44.4398203,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 3</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10224</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 3
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.571243000000001,44.43932999999999,0.0 7.5683516,44.43960580000001,0.0 7.568196100000001,44.4387823,0.0 7.571108899999998,44.4385065,0.0 7.571243000000001,44.43932999999999,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 35</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10225</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 35
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.5711948,44.4385027,0.0 7.571473699999999,44.438472,0.0 7.571591700000001,44.4390734,0.0 7.571318100000003,44.439100200000006,0.0 7.5711948,44.4385027,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 39</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10226</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 39
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.5714201,44.43964410000001,0.0 7.571318100000003,44.439100200000006,0.0 7.571591700000001,44.4390734,0.0 7.571473699999999,44.438472,0.0 7.573324400000001,44.438292,0.0 7.5735712,44.43944110000001,0.0 7.5714201,44.43964410000001,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 33</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10227</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 33
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.5736839,44.4393875,0.0 7.573362,44.43750300000001,0.0 7.5748909,44.43734980000001,0.0 7.5750142,44.43816559999999,0.0 7.5746334,44.43820389999999,0.0 7.5748533,44.4392802,0.0 7.5736839,44.4393875,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+<Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 37</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10228</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 37
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.573185000000001,44.4365224,0.0 7.574037899999999,44.43643819999999,0.0 7.5742148999999985,44.4374149,0.0 7.573362,44.43750300000001,0.0 7.573185000000001,44.4365224,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 37c</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10229</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 37c
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.573539,44.4359211,0.0 7.573930599999999,44.4358713,0.0 7.5740111000000025,44.4362428,0.0 7.573603400000001,44.436285,0.0 7.573539,44.4359211,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 43</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10230</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 43
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.571361099999999,44.4354729,0.0 7.571511299999999,44.4363769,0.0 7.570379399999999,44.4364994,0.0 7.5702131,44.4355725,0.0 7.571361099999999,44.4354729,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 44</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10231</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 44
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.569553300000001,44.4352316,0.0 7.570154100000001,44.435170299999996,0.0 7.5703204,44.4361241,0.0 7.569741,44.43618150000001,0.0 7.569553300000001,44.4352316,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 47</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10232</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 47
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.572557300000001,44.4361854,0.0 7.5724447,44.435568700000005,0.0 7.5729704,44.4355304,0.0 7.573024000000001,44.43581,0.0 7.572873800000001,44.435821499999996,0.0 7.572884600000001,44.4359172,0.0 7.572707499999998,44.43592869999999,0.0 7.572755799999999,44.4361777,0.0 7.572557300000001,44.4361854,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 49</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10233</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 49
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.570553699999999,44.4367312,0.0 7.5707575999999985,44.436712,0.0 7.570803200000001,44.4369936,0.0 7.5706181,44.4370165,0.0 7.570553699999999,44.4367312,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 14</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10234</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 14
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.5728710999999995,44.4367925,0.0 7.5722703,44.43684609999999,0.0 7.572278400000001,44.436905499999995,0.0 7.571653399999999,44.436974400000004,0.0 7.571648099999998,44.4369227,0.0 7.5709641,44.43698400000001,0.0 7.5709292,44.4367005,0.0 7.5708327,44.436713899999994,0.0 7.5708085,44.4365722,0.0 7.5724098,44.4364152,0.0 7.5724366,44.436555,0.0 7.572847000000001,44.436509,0.0 7.5728710999999995,44.4367925,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 41</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10235</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 41
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.571956500000001,44.438357100000005,0.0 7.5717983,44.437539400000006,0.0 7.572380300000001,44.4374915,0.0 7.5725225,44.4382997,0.0 7.571956500000001,44.438357100000005,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 42</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10236</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 42
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.571720500000001,44.4371219,0.0 7.572002100000001,44.4370893,0.0 7.572031599999998,44.4372655,0.0 7.571749999999999,44.4372904,0.0 7.571720500000001,44.4371219,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 51</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10237</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 51
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.572833599999999,44.4377979,0.0 7.572908700000001,44.4377903,0.0 7.572892600000002,44.43774620000001,0.0 7.5729999,44.4377328,0.0 7.5730053,44.4377788,0.0 7.573093799999999,44.4377673,0.0 7.5731662,44.4381407,0.0 7.573069600000001,44.4381484,0.0 7.573075000000001,44.4381867,0.0 7.5729945,44.438192400000005,0.0 7.5729838,44.438154100000006,0.0 7.572903299999999,44.4381637,0.0 7.572833599999999,44.4377979,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 2E</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10238</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 2E
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.568287299999998,44.4379205,0.0 7.5682122,44.4374723,0.0 7.5685018,44.4374494,0.0 7.5684588999999995,44.437345900000004,0.0 7.571221600000001,44.43708170000001,0.0 7.571264500000002,44.4373996,0.0 7.571597100000001,44.4373728,0.0 7.571640000000001,44.43770980000001,0.0 7.5710124,44.43775200000001,0.0 7.570990899999999,44.43766389999999,0.0 7.568287299999998,44.4379205,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 2</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10239</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 2
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.571763400000002,44.43837250000001,0.0 7.568416000000001,44.438698,0.0 7.5682873,44.4380048,0.0 7.571640000000001,44.43770980000001,0.0 7.571763400000002,44.43837250000001,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 8</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10240</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 8
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.568078,44.4379626,0.0 7.5682497,44.4379435,0.0 7.568416000000001,44.438698,0.0 7.568201400000001,44.438709499999995,0.0 7.568078,44.4379626,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 32</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10241</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 32
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.568078,44.4379626,0.0 7.5680512,44.4377634,0.0 7.5682229,44.43774809999999,0.0 7.5682497,44.4379435,0.0 7.568078,44.4379626,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 9</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10242</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 9
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.567992199999999,44.4374685,0.0 7.568147799999998,44.437457,0.0 7.568190700000001,44.4377405,0.0 7.5680512,44.4377634,0.0 7.567992199999999,44.4374685,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 1</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10243</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 1
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.5688425,44.436761800000006,0.0 7.5692797,44.4367235,0.0 7.569285,44.43677910000001,0.0 7.5694433,44.4367618,0.0 7.5694245,44.43670819999999,0.0 7.5698510000000025,44.4366642,0.0 7.569909999999998,44.4370817,0.0 7.5689122,44.437181200000005,0.0 7.5688425,44.436761800000006,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 24</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10244</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 24
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.5679332,44.437181200000005,0.0 7.568485700000001,44.4371353,0.0 7.568485699999999,44.43721190000001,0.0 7.5679439,44.4372655,0.0 7.5679332,44.437181200000005,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 11</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10245</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 11
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.567970800000003,44.4368633,0.0 7.568442800000001,44.4368097,0.0 7.568464300000001,44.4369246,0.0 7.567992199999999,44.4369859,0.0 7.567970800000003,44.4368633,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 12</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10246</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 12
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.567729399999998,44.437265499999995,0.0 7.5675631,44.4372808,0.0 7.567493299999999,44.436993599999994,0.0 7.5676972000000005,44.4369706,0.0 7.567729399999998,44.437265499999995,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 55</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10247</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 55
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.567793699999998,44.436361600000005,0.0 7.567895700000001,44.4363462,0.0 7.5679386,44.436532,0.0 7.567839300000001,44.4365397,0.0 7.567793699999998,44.436361600000005,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 19</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10248</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 19
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.5642746999999995,44.439682399999995,0.0 7.564108399999999,44.4392496,0.0 7.564328300000002,44.439207399999994,0.0 7.5644892,44.4396441,0.0 7.5642746999999995,44.439682399999995,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 30</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10249</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 30
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.563352000000003,44.439307,0.0 7.5632662,44.4391232,0.0 7.563378800000001,44.4390849,0.0 7.563357400000001,44.4390389,0.0 7.563239300000001,44.4390504,0.0 7.563180300000002,44.4389393,0.0 7.5634646,44.4388666,0.0 7.5635129,44.43894699999999,0.0 7.563421700000001,44.438981500000004,0.0 7.563496799999999,44.4391423,0.0 7.5635772999999995,44.439127,0.0 7.5635397,44.4390619,0.0 7.563738200000001,44.4390159,0.0 7.5637811,44.4390925,0.0 7.5638938,44.43905420000001,0.0 7.5639421,44.43914620000001,0.0 7.563352000000003,44.439307,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>CNO 31</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10250</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CNO 31
+
+Site: Coni
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.563427099999999,44.438767,0.0 7.563309100000002,44.43850650000001,0.0 7.563421699999999,44.43849120000001,0.0 7.5635505,44.4387287,0.0 7.563427099999999,44.438767,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  
+	  
     </Folder>
     <Folder>
       <name>parkings</name>

@@ -603,6 +603,57 @@
           <coordinates>3.111689,45.796346,0.0</coordinates>
         </Point>
       </Placemark>
+	  
+	  <Placemark>
+        <styleUrl>#icon-site-entrance</styleUrl>
+        <name>Porte principale</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>50024</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>siteEntrance</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>7.568506,44.440644,0.0</coordinates>
+        </Point>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#icon-site-entrance</styleUrl>
+        <name>Porte secondaire</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>50025</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>siteEntrance</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>7.564103,44.439196,0.0</coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Style id="icon-site-entrance">
       <IconStyle>
