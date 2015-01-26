@@ -1147,6 +1147,38 @@
           </outerBoundaryIs>
         </Polygon>
       </Placemark>
+	  <Placemark>
+        <styleUrl>#poly-4186F0-4-76</styleUrl>
+        <name>CNO parking</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20037</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Coni</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <value>parking</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[<br/>
+					<button onclick="window.location='https://maps.google.fr/maps?q=44.440406,7.563946&num=1&t=h&z=18';">Navigate to this point</button>
+				<br/>]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>7.567825900000002,44.4413408,0.0 7.568389200000001,44.441291,0.0 7.568442800000001,44.4414825,0.0 7.5678635,44.44154760000001,0.0 7.567825900000002,44.4413408,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
 	  
     </Folder>
     <Folder>
