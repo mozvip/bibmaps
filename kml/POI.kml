@@ -858,7 +858,7 @@ Type: POI]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>site</displayName>
-            <value>Coni</value>
+            <value>Cuneo</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
@@ -869,7 +869,7 @@ Type: POI]]></description>
         </ExtendedData>
         <description><![CDATA[Accueil visiteurs
 
-site: Coni
+site: Cuneo
 Type: POI]]></description>
         <Point>
           <coordinates>7.568727,44.441232,0.0</coordinates>
@@ -878,7 +878,7 @@ Type: POI]]></description>
 	  
 	  <Placemark>
         <styleUrl>#icon-infirmerie</styleUrl>
-        <name>Infirmerie Coni</name>
+        <name>Infirmerie Cuneo</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -888,7 +888,7 @@ Type: POI]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>site</displayName>
-            <value>Coni</value>
+            <value>Cuneo</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
@@ -897,9 +897,9 @@ Type: POI]]></description>
             <value>POI</value>
           </Data>
         </ExtendedData>
-        <description><![CDATA[Infirmerie Coni
+        <description><![CDATA[Infirmerie Cuneo
 
-site: Coni
+site: Cuneo
 Type: POI]]></description>
         <Point>
           <coordinates>7.56543,44.439433,0.0</coordinates>
@@ -918,7 +918,7 @@ Type: POI]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>site</displayName>
-            <value>Coni</value>
+            <value>Cuneo</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
@@ -929,7 +929,7 @@ Type: POI]]></description>
         </ExtendedData>
         <description><![CDATA[Restaurant vert
 
-site: Coni
+site: Cuneo
 Type: POI]]></description>
         <Point>
           <coordinates>7.567984,44.438836,0.0</coordinates>
@@ -947,7 +947,7 @@ Type: POI]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>site</displayName>
-            <value>Coni</value>
+            <value>Cuneo</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
@@ -958,7 +958,7 @@ Type: POI]]></description>
         </ExtendedData>
         <description><![CDATA[Restaurant jaune
 
-site: Coni
+site: Cuneo
 Type: POI]]></description>
         <Point>
           <coordinates>7.568544,44.439811,0.0</coordinates>
@@ -976,7 +976,7 @@ Type: POI]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>site</displayName>
-            <value>Coni</value>
+            <value>Cuneo</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
@@ -987,7 +987,7 @@ Type: POI]]></description>
         </ExtendedData>
         <description><![CDATA[Restaurant rouge
 
-site: Coni
+site: Cuneo
 Type: POI]]></description>
         <Point>
           <coordinates>7.573029,44.438148,0.0</coordinates>
