@@ -848,7 +848,7 @@ Type: POI]]></description>
 	  
 	  <Placemark>
         <styleUrl>#icon-accueil</styleUrl>
-        <name>Accueil visiteurs</name>
+        <name>Reception CUNEO CNO</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -867,7 +867,7 @@ Type: POI]]></description>
             <value>POI</value>
           </Data>
         </ExtendedData>
-        <description><![CDATA[Accueil visiteurs
+        <description><![CDATA[Reception CUNEO CNO
 
 site: Cuneo
 Type: POI]]></description>
@@ -878,7 +878,7 @@ Type: POI]]></description>
 	  
 	  <Placemark>
         <styleUrl>#icon-infirmerie</styleUrl>
-        <name>Infirmerie Cuneo</name>
+        <name>Infermeria CNO</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -897,7 +897,7 @@ Type: POI]]></description>
             <value>POI</value>
           </Data>
         </ExtendedData>
-        <description><![CDATA[Infirmerie Cuneo
+        <description><![CDATA[Infermeria CNO
 
 site: Cuneo
 Type: POI]]></description>
@@ -908,7 +908,7 @@ Type: POI]]></description>
 	  
 	  <Placemark>
         <styleUrl>#icon-cantine</styleUrl>
-        <name>Restaurant vert</name>
+        <name>Ristorante Verde CNO</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -927,7 +927,7 @@ Type: POI]]></description>
             <value>POI</value>
           </Data>
         </ExtendedData>
-        <description><![CDATA[Restaurant vert
+        <description><![CDATA[Ristorante Verde CNO
 
 site: Cuneo
 Type: POI]]></description>
@@ -937,7 +937,7 @@ Type: POI]]></description>
       </Placemark>
 	  <Placemark>
         <styleUrl>#icon-cantine</styleUrl>
-        <name>Restaurant jaune</name>
+        <name>Ristorante Giallo CNO</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -956,7 +956,7 @@ Type: POI]]></description>
             <value>POI</value>
           </Data>
         </ExtendedData>
-        <description><![CDATA[Restaurant jaune
+        <description><![CDATA[Ristorante Giallo CNO
 
 site: Cuneo
 Type: POI]]></description>
@@ -966,7 +966,7 @@ Type: POI]]></description>
       </Placemark>
 	  <Placemark>
         <styleUrl>#icon-cantine</styleUrl>
-        <name>Restaurant rouge</name>
+        <name>Ristorante Rosso CNO</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -985,7 +985,7 @@ Type: POI]]></description>
             <value>POI</value>
           </Data>
         </ExtendedData>
-        <description><![CDATA[Restaurant rouge
+        <description><![CDATA[Ristorante Rosso CNO
 
 site: Cuneo
 Type: POI]]></description>

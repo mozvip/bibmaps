@@ -606,7 +606,7 @@
 	  
 	  <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Porte principale</name>
+        <name>Ingresso NORD</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -616,7 +616,7 @@
         <ExtendedData>
           <Data name="string">
             <displayName>site</displayName>
-            <value>Coni</value>
+            <value>Cuneo</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
@@ -631,7 +631,7 @@
       </Placemark>
 	  <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Porte secondaire</name>
+        <name>Ingresso OVEST</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -641,7 +641,7 @@
         <ExtendedData>
           <Data name="string">
             <displayName>site</displayName>
-            <value>Coni</value>
+            <value>Cuneo</value>
           </Data>
         </ExtendedData>
         <ExtendedData>

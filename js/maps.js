@@ -201,7 +201,7 @@ function initializeSearchBar(){
 			center = bounds.getCenter();
 		}
 		google.maps.event.trigger(datum.polygon, 'click', {
-			latLng: center
+			latLng: center			
 		});
 		map.setZoom(17);
 		map.panTo(center);
