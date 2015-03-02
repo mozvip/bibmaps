@@ -1040,7 +1040,7 @@
           </Data>
         </ExtendedData>
         <description><![CDATA[<br/>
-					<button onclick="window.location='https://maps.google.fr/maps?q=44.440406,7.563946&num=1&t=h&z=18';">Navigate to this point</button>
+					<button onclick="window.location='https://maps.google.fr/maps?q=44.441302,7.568871&num=1&t=h&z=18';">Navigate to this point</button>
 				<br/>]]></description>
         <Polygon>
           <outerBoundaryIs>
