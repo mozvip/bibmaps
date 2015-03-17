@@ -11,7 +11,7 @@ var loadDelay = 20;
 
 $(window).load(function(){
 	window.setTimeout(hideSplashScreen, loadDelay * 100);
-	
+	// handle event for showing or not elements
 	$("#checkbox-v-2a").click(function(){
 		if(finishedLoaded){
 			if(!$("#checkbox-v-2a").is(":checked"))
@@ -57,6 +57,15 @@ $(window).load(function(){
 		}
 	});
 	
+	$("#checkbox-v-2f").click(function(){
+		if(finishedLoaded){
+			if(!$("#checkbox-v-2f").is(":checked"))
+				geoXml.hideDocument(geoXml.docs[5]);
+			else
+				geoXml.showDocument(geoXml.docs[5]);
+		}
+	});
+	
 	var tabImages = ['images/batiment/Carmes-A17.JPG', 'images/batiment/Carmes-Forum.JPG', 'images/batiment/Carmes-O10.JPG', 'images/batiment/Carmes-O12.JPG', 'images/batiment/Carmes-T15.JPG'];
 	for(img in tabImages){
 		$('<img>')[0].src = img;
@@ -91,7 +100,8 @@ function initializeMap(){
 		processStyles: true,
 		zoom: false
 	});
-	geoXml.parse(['kml/buildings.kml', 'kml/parkings.kml', 'kml/POI.kml', 'kml/buildingEntrance.kml', 'kml/siteEntrance.kml']);
+	//loading files
+	geoXml.parse(['kml/buildings.kml', 'kml/parkings.kml', 'kml/POI.kml', 'kml/buildingEntrance.kml', 'kml/siteEntrance.kml', 'kml/deliveryPoints.kml']);
 	google.maps.event.addListener(geoXml, 'parsed', fetchPolygons);
 	google.maps.event.addListener(map, "zoom_changed", function() {
 		var hide = (map.getZoom() < 16);
@@ -117,16 +127,19 @@ function initializeMap(){
 }
 
 function fetchPolygons(){
+	// adding placemarks from files 0 1 2 and 5 from the geoXml loaded files
 	var placemarks = geoXml.docs[0].placemarks;
 	placemarks = placemarks.concat(geoXml.docs[1].placemarks);
 	placemarks = placemarks.concat(geoXml.docs[2].placemarks);
+	placemarks = placemarks.concat(geoXml.docs[5].placemarks);
 	buildingMap = {};
 	for(var i = 0; i < placemarks.length;i++)
 		buildingMap[placemarks[i].id] = placemarks[i];
 		
-		
+	// creating names on the map
 	placemarks = geoXml.docs[0].placemarks;
 	placemarks = placemarks.concat(geoXml.docs[1].placemarks);
+	
 	for(var i = 0; i < placemarks.length;i++){
 		var pl = placemarks[i];
 		var infoBox = new InfoBox({
@@ -146,9 +159,10 @@ function fetchPolygons(){
 		labels.push(infoBox);
 		infoBox.open(map);
 	}
-		
+	// position: pl.polygon != null ? pl.polygon.bounds.getCenter() : pl.point,	
 	geoXml.hideDocument(geoXml.docs[3]);
 	geoXml.hideDocument(geoXml.docs[4]);
+	geoXml.hideDocument(geoXml.docs[5]);
 	
 		
 	initializeSearchBar();
