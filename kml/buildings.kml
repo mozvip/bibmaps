@@ -8356,6 +8356,2492 @@ type: Batiment]]></description>
         </Polygon>
       </Placemark>
 	  
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>US1 123</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10251</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[US1 123
+
+Site: Greenville
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>-82.3715562,34.7295907,0.0 -82.3716366,34.7294937,0.0 -82.371465,34.7294144,0.0 -82.3713899,34.7295114,0.0 -82.3715562,34.7295907,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  
+	  <Placemark>
+        <styleUrl>#poly-DB4436-4-76</styleUrl>
+        <name>US1 127</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10252</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[US1 127
+
+Site: Greenville
+type: Batiment]]></description>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>0</tessellate>
+              <coordinates>-82.3722214,34.72862080000001,0.0 -82.3723018,34.7284929,0.0 -82.3720497,34.7283651,0.0 -82.3719639,34.728488500000005,0.0 -82.3722214,34.72862080000001,0.0</coordinates>
+			</LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+	  
+	  <Placemark>
+			<name>US1 124
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10253</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[US1 124
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-82.3713094,34.7287398,0.0 -82.3707998,34.7284841,0.0 -82.3703492,34.7290132,0.0 -82.3708856,34.7292821,0.0 -82.3713094,34.7287398,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>US1 125
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10254</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[US1 125
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-82.3696947,34.7296833,0.0 -82.3695794,34.729619400000004,0.0 -82.3686165,34.7309067,0.0 -82.368713,34.7309486,0.0 -82.3696947,34.7296833,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>US1 100
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10255</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[US1 100
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-82.3695794,34.729619400000004,0.0 -82.3704618,34.730058,0.0 -82.37073000000001,34.7296745,0.0 -82.3700702,34.7293526,0.0 -82.3701078,34.7292997,0.0 -82.3699039,34.7291962,0.0 -82.3695794,34.729619400000004,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>US6 111</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10256</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[US6 111
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-82.371406,34.7300228,0.0 -82.3718297,34.73023440000001,0.0 -82.3719156,34.7301242,0.0 -82.3714864,34.72991029999999,0.0 -82.371406,34.7300228,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>US6 112</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10257</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[US6 112
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-82.3719156,34.7301242,0.0 -82.3715669,34.7306135,0.0 -82.3716983,34.7306929,0.0 -82.37206580000002,34.7301903,0.0 -82.3719156,34.7301242,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>US6 109</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10258</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[US6 109
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-82.3716259,34.7307987,0.0 -82.3716849,34.73067970000001,0.0 -82.3704618,34.730058,0.0 -82.3703921,34.730185899999995,0.0 -82.3704511,34.730212400000006,0.0 -82.3705477,34.730185899999995,0.0 -82.37095,34.7303843,0.0 -82.3709553,34.7304636,0.0 -82.3710304,34.7305033,0.0 -82.3710841,34.7304504,0.0 -82.3713952,34.73061349999999,0.0 -82.3714006,34.7306929,0.0 -82.3716259,34.7307987,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>US6 110</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10259</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[US6 110
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-82.3715669,34.7306135,0.0 -82.3718297,34.73023440000001,0.0 -82.3711699,34.7299104,0.0 -82.3712182,34.7298641,0.0 -82.3709366,34.72972300000001,0.0 -82.3709044,34.72976709999999,0.0 -82.37073000000001,34.7296745,0.0 -82.3704618,34.730058,0.0 -82.3715669,34.7306135,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>US6 101
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10260</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[US6 101
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-82.37219720000002,34.7298288,0.0 -82.3723179,34.7296767,0.0 -82.3719263,34.7294761,0.0 -82.3718083,34.7296502,0.0 -82.37219720000002,34.7298288,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>US6 102
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10261</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[US6 102
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-82.3723179,34.7296767,0.0 -82.3724708,34.7294541,0.0 -82.3721033,34.7292689,0.0 -82.3719263,34.7294761,0.0 -82.3723179,34.7296767,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>US1 126
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10262</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[US1 126
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-82.37157230000001,34.72808950000001,0.0 -82.3717654,34.7281777,0.0 -82.371929,34.7279264,0.0 -82.3717546,34.727847000000004,0.0 -82.37157230000001,34.72808950000001,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>US1 241
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10263</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[US1 241
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-82.3700568,34.7313939,0.0 -82.3700139,34.7312947,0.0 -82.369853,34.731336600000006,0.0 -82.3698825,34.7314027,0.0 -82.3699388,34.7313895,0.0 -82.3699522,34.7314203,0.0 -82.3700568,34.7313939,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	    		
+		<Placemark>
+			<name>US0 200
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10264</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[US0 200
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3695391,34.7310368,0.0 -82.3693809,34.7305452,0.0 -82.3693165,34.7305276,0.0 -82.3688471,34.7311624,0.0 -82.3688713,34.7311558,0.0 -82.36889,34.731233,0.0 -82.3693889,34.7311316,0.0 -82.3693796,34.73106760000001,0.0 -82.3695391,34.7310368,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>US0 201
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10265</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[US0 201
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3700541,34.7307568,0.0 -82.3701212,34.730953,0.0 -82.3707327,34.7308274,0.0 -82.3709473,34.7309266,0.0 -82.3710787,34.7307436,0.0 -82.3707998,34.7306069,0.0 -82.3700541,34.7307568,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>US1 262 CAFE
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10266</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[US1 262 CAFE
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.37014,34.7304526,0.0 -82.3700327,34.7300889,0.0 -82.3695794,34.7301793,0.0 -82.3696867,34.7305386,0.0 -82.37014,34.7304526,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>US1 642
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10267</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[US1 642
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3676375,34.73058929999999,0.0 -82.3682731,34.7309177,0.0 -82.3683831,34.73076559999999,0.0 -82.3686165,34.7309067,0.0 -82.3696706,34.7294849,0.0 -82.3687801,34.729044,0.0 -82.3676375,34.73058929999999,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>US1 563
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10268</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[US1 563
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3676375,34.73058929999999,0.0 -82.3687801,34.729044,0.0 -82.3683,34.7287927,0.0 -82.3671761,34.730360000000005,0.0 -82.3676375,34.73058929999999,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>US1 564
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10269</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[US1 564
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3672056,34.7303115,0.0 -82.3683,34.7287927,0.0 -82.3679781,34.72862520000001,0.0 -82.366873,34.730133,0.0 -82.3672056,34.7303115,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>US1 643
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10270</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[US1 643
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3687801,34.729044,0.0 -82.3696706,34.7294849,0.0 -82.3701319,34.728903,0.0 -82.36923070000002,34.7284356,0.0 -82.3687801,34.729044,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>US1 644
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10271</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[US1 644
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3687801,34.729044,0.0 -82.36923070000002,34.7284356,0.0 -82.3687318,34.7281821,0.0 -82.3683,34.7287927,0.0 -82.3687801,34.729044,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>US1 645
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10272</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[US1 645
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3683,34.7287927,0.0 -82.3687318,34.7281821,0.0 -82.3684636,34.7280543,0.0 -82.3680076,34.728645,0.0 -82.3683,34.7287927,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>US1 190
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10273</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[US1 190
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3702741,34.7286032,0.0 -82.3706388,34.72811380000001,0.0 -82.3693299,34.727452500000005,0.0 -82.369234,34.727571,0.0 -82.3691757,34.7275484,0.0 -82.3687452,34.7281226,0.0 -82.3688954,34.7281975,0.0 -82.3690617,34.7279903,0.0 -82.3695016,34.728224,0.0 -82.3693514,34.7284312,0.0 -82.3696464,34.7285635,0.0 -82.3697698,34.7283651,0.0 -82.3702741,34.7286032,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>US1 239
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10274</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[US1 239
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.369464,34.7273114,0.0 -82.3692977,34.7272188,0.0 -82.3692495,34.7272893,0.0 -82.3691422,34.72723640000001,0.0 -82.3690671,34.72732460000001,0.0 -82.3693728,34.7274657,0.0 -82.369464,34.7273114,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>US1 191
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10275</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[US1 191
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3688927,34.7279132,0.0 -82.3691757,34.7275484,0.0 -82.3688632,34.7273665,0.0 -82.3685575,34.7277412,0.0 -82.3688927,34.7279132,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>US1 238
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10276</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[US1 238
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3707676,34.7279551,0.0 -82.3710626,34.727549399999994,0.0 -82.3693407,34.72668530000001,0.0 -82.3690456,34.7270953,0.0 -82.3707676,34.7279551,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>US1 235
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10277</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[US1 235
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3712048,34.727401699999994,0.0 -82.3714972,34.7270005,0.0 -82.3697537,34.726121,0.0 -82.369456,34.7265244,0.0 -82.3695177,34.726553,0.0 -82.3694721,34.7266082,0.0 -82.3698798,34.7268154,0.0 -82.3699147,34.7267625,0.0 -82.3712048,34.727401699999994,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>US1 230
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10278</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[US1 230
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3716205,34.7262003,0.0 -82.3700434,34.7254244,0.0 -82.3697323,34.7258344,0.0 -82.371642,34.7268043,0.0 -82.3718566,34.726513399999995,0.0 -82.3714918,34.7263546,0.0 -82.3716205,34.7262003,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>US1 230
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10279</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[US1 230
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3711002,34.7259358,0.0 -82.371304,34.7256713,0.0 -82.3709393,34.725486100000005,0.0 -82.3710358,34.7253582,0.0 -82.37035990000001,34.7249967,0.0 -82.3700434,34.7254244,0.0 -82.3711002,34.7259358,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>US1 128
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10280</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[US1 128
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3701869,34.7250584,0.0 -82.3702124,34.7250187,0.0 -82.370097,34.7249614,0.0 -82.3700688,34.7250121,0.0 -82.3701869,34.7250584,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>US1 242
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10281</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[US1 242
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3665002,34.7307017,0.0 -82.3665485,34.7306224,0.0 -82.3662373,34.7304747,0.0 -82.3661864,34.7305474,0.0 -82.3663339,34.73061130000001,0.0 -82.3663151,34.730651,0.0 -82.36637150000001,34.730677500000006,0.0 -82.3663902,34.7306532,0.0 -82.3665002,34.7307017,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>US1 402
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10282</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[US1 402
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3682356,34.73140709999999,0.0 -82.3683536,34.7312484,0.0 -82.3681068,34.7311426,0.0 -82.3679835,34.7312969,0.0 -82.3682356,34.73140709999999,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Family Health Center US1
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10283</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[Family Health Center
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3672539,34.73227120000001,0.0 -82.3669589,34.7322359,0.0 -82.3669159,34.7325842,0.0 -82.3670125,34.7325798,0.0 -82.36698030000001,34.7327385,0.0 -82.3672324,34.7327605,0.0 -82.3672539,34.73227120000001,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	  
+	  <Placemark>
+			<name>MSTC
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10284</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[MSTC
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3647434,34.7252855,0.0 -82.3642015,34.7249173,0.0 -82.3636758,34.7254684,0.0 -82.3642096,34.725819,0.0 -82.3647434,34.7252855,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>MC2
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10285</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[MC2
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3663634,34.7297406,0.0 -82.3665726,34.729447400000005,0.0 -82.3658699,34.7291256,0.0 -82.3657358,34.7293703,0.0 -82.3657438,34.7295114,0.0 -82.365945,34.7296017,0.0 -82.3659852,34.729559900000005,0.0 -82.3663634,34.7297406,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>MARC 16</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10286</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[MARC 16
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3666906,34.7293328,0.0 -82.3669294,34.728993300000006,0.0 -82.3667362,34.7289096,0.0 -82.3664761,34.7292424,0.0 -82.3666906,34.7293328,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	  
+	  <Placemark>
+			<name>MARC 15
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>102587</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[MARC 15
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3669294,34.728993300000006,0.0 -82.3671815,34.7286384,0.0 -82.36699640000002,34.7285525,0.0 -82.3667362,34.7289096,0.0 -82.3669294,34.728993300000006,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>MARC 33
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10288</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[MARC 33
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3666048,34.7287178,0.0 -82.3667148,34.7285657,0.0 -82.3666155,34.7285238,0.0 -82.366586,34.7285745,0.0 -82.365835,34.7281953,0.0 -82.3659557,34.7280234,0.0 -82.365717,34.72789770000001,0.0 -82.3655614,34.7280741,0.0 -82.3656312,34.7281182,0.0 -82.3654944,34.7282901,0.0 -82.3664439,34.72878829999999,0.0 -82.3665109,34.7286759,0.0 -82.3666048,34.7287178,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>MARC 63
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10289</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[MARC 63
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3672941,34.7286428,0.0 -82.3673907,34.7285084,0.0 -82.367152,34.7283915,0.0 -82.3670474,34.7285304,0.0 -82.3672941,34.7286428,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>MARC 60
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10290</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[MARC 60
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3661757,34.72775,0.0 -82.3662534,34.7276354,0.0 -82.3658162,34.727415,0.0 -82.365725,34.7275296,0.0 -82.3661757,34.72775,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>MARC 99
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10291</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[MARC 99
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3655427,34.727545,0.0 -82.3657465,34.7272452,0.0 -82.3655266,34.727135000000004,0.0 -82.3652959,34.727448,0.0 -82.3655427,34.727545,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>MARC 64
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10292</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[MARC 64
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.366401,34.7272937,0.0 -82.3664761,34.7271659,0.0 -82.366181,34.7270138,0.0 -82.3660818,34.72714380000001,0.0 -82.366401,34.7272937,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>MARC 12
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10293</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[MARC 12
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3668033,34.7275362,0.0 -82.3669508,34.727307,0.0 -82.366578,34.7271284,0.0 -82.3663929,34.7273577,0.0 -82.3668033,34.7275362,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>MARC 11
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10294</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[MARC 11
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3671895,34.7269421,0.0 -82.3664868,34.7265883,0.0 -82.3662186,34.726941,0.0 -82.3669508,34.727307,0.0 -82.3671895,34.7269421,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>MARC 10
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10295</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[MARC 10
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3671614,34.7271328,0.0 -82.3673572,34.7268539,0.0 -82.3663393,34.726339200000005,0.0 -82.3661676,34.7265773,0.0 -82.3664036,34.7266952,0.0 -82.3664868,34.7265883,0.0 -82.3671895,34.7269421,0.0 -82.3670863,34.7271008,0.0 -82.3671614,34.7271328,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>MARC 95
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10296</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[MARC 95
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.365705,34.7265541,0.0 -82.3658189,34.7266159,0.0 -82.3658806,34.7265332,0.0 -82.3659289,34.72655519999999,0.0 -82.3659973,34.72647150000001,0.0 -82.3658592,34.726391,0.0 -82.3658457,34.7264086,0.0 -82.3658243,34.726391,0.0 -82.3658122,34.72641200000001,0.0 -82.3657961,34.72640199999999,0.0 -82.3657545,34.7264516,0.0 -82.3657706,34.7264582,0.0 -82.365705,34.7265541,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>MARC 504
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10297</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[MARC 504
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3677313,34.7278096,0.0 -82.367793,34.727717000000005,0.0 -82.3672163,34.7274348,0.0 -82.367152,34.7275362,0.0 -82.3677313,34.7278096,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>MARC 503
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10298</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[MARC 503
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3674443,34.7282989,0.0 -82.3677689,34.727831599999995,0.0 -82.3671198,34.727534,0.0 -82.3667765,34.7279837,0.0 -82.3670903,34.728149,0.0 -82.3670581,34.72819750000001,0.0 -82.367219,34.7282747,0.0 -82.3672512,34.72822180000001,0.0 -82.3674443,34.7282989,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>MARC 98
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10299</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[MARC 98
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3678842,34.7275825,0.0 -82.3679781,34.7274348,0.0 -82.3675221,34.72721,0.0 -82.3674014,34.7273533,0.0 -82.3678842,34.7275825,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>MARC 94
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10300</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[MARC 94
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3674121,34.7271504,0.0 -82.3675221,34.72721,0.0 -82.3675784,34.7271064,0.0 -82.36775550000002,34.7271879,0.0 -82.3678118,34.7270953,0.0 -82.3675489,34.72695650000001,0.0 -82.3674121,34.7271504,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>MARC 55
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10301</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[MARC 55
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3675302,34.7266897,0.0 -82.3676348,34.726513399999995,0.0 -82.3672378,34.726317200000004,0.0 -82.36711170000001,34.7264869,0.0 -82.3675302,34.7266897,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>MARC 90
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10302</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[MARC 90
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3668462,34.7263238,0.0 -82.3669615,34.7261717,0.0 -82.3666155,34.7259931,0.0 -82.3664975,34.7261474,0.0 -82.3668462,34.7263238,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>MARC 56
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10303</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[MARC 56
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3658243,34.72605599999999,0.0 -82.3658565,34.7259931,0.0 -82.3659316,34.72596889999999,0.0 -82.3659933,34.7258873,0.0 -82.3659879,34.7258123,0.0 -82.3660389,34.7257528,0.0 -82.3656982,34.7255787,0.0 -82.3654783,34.7258763,0.0 -82.3658243,34.72605599999999,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>MARC 50
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10304</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[MARC 50
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3681739,34.7270072,0.0 -82.3682114,34.726952,0.0 -82.3677903,34.7267316,0.0 -82.3677528,34.7267933,0.0 -82.3681739,34.7270072,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>MARC 30
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10305</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[MARC 30
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3682946,34.7269851,0.0 -82.3692334,34.7257175,0.0 -82.3686647,34.7254266,0.0 -82.3677179,34.72669410000001,0.0 -82.3682946,34.7269851,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>MARC 32
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10306</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[MARC 32
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3676401,34.726046,0.0 -82.3680693,34.7254464,0.0 -82.3676696,34.72525240000001,0.0 -82.3672244,34.72583660000001,0.0 -82.3676401,34.726046,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>MARC 31
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10307</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[MARC 15
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3661917,34.724763,0.0 -82.3661381,34.7248159,0.0 -82.3662829,34.7248887,0.0 -82.3659128,34.7253538,0.0 -82.3667926,34.7258079,0.0 -82.367321,34.7250716,0.0 -82.3670688,34.724946,0.0 -82.3668784,34.7251951,0.0 -82.3663741,34.724946,0.0 -82.3664251,34.724890900000005,0.0 -82.3661917,34.724763,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>MARC 51
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10308</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[MARC 15
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3669857,34.72579030000001,0.0 -82.3673692,34.7252458,0.0 -82.3672512,34.7251797,0.0 -82.3668596,34.725733,0.0 -82.3669857,34.72579030000001,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>MARC 52
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10252</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[MARC 15
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.367219,34.72602620000001,0.0 -82.3677582,34.7262973,0.0 -82.3682812,34.7255897,0.0 -82.3680532,34.72548390000001,0.0 -82.3676401,34.726046,0.0 -82.367321,34.7258873,0.0 -82.367219,34.72602620000001,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>MARC 35
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10309</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[MARC 15
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3682222,34.724531500000005,0.0 -82.3686594,34.724762999999996,0.0 -82.3689249,34.724386,0.0 -82.3697805,34.7248137,0.0 -82.3700193,34.7244874,0.0 -82.3687211,34.7238305,0.0 -82.3682222,34.724531500000005,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>MARC 61
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10310</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[MARC 15
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3684233,34.7253935,0.0 -82.3685816,34.72515760000001,0.0 -82.3684368,34.7250915,0.0 -82.3682758,34.7253251,0.0 -82.3684233,34.7253935,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>MARC 96
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10311</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[MARC 15
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3674282,34.7237467,0.0 -82.3675141,34.7236122,0.0 -82.3674282,34.7235704,0.0 -82.367329,34.72370260000001,0.0 -82.3674282,34.7237467,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>MARC 34
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10312</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[MARC 15
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3666933,34.7243662,0.0 -82.3675516,34.7247983,0.0 -82.3677689,34.72449629999999,0.0 -82.36751680000002,34.72435519999999,0.0 -82.3674363,34.7244544,0.0 -82.3668516,34.724159,0.0 -82.3666933,34.7243662,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	  
+	  <Placemark>
+			<name>HNA - D
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10313</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[HNA - D
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.2600675,34.86117060000001,0.0 -82.2599709,34.86106500000001,0.0 -82.2598583,34.8610254,0.0 -82.259708,34.8610254,0.0 -82.2592279,34.86119260000001,0.0 -82.2593621,34.861419299999994,0.0 -82.2600675,34.86117060000001,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>HNA - B</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10314</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[HNA - B
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.2585467,34.861300500000006,0.0 -82.2586378,34.8612454,0.0 -82.2586941,34.8611706,0.0 -82.2587129,34.861003399999994,0.0 -82.2584984,34.8605654,0.0 -82.2582141,34.8606644,0.0 -82.2585467,34.861300500000006,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>HNA - E
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10315</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[HNA - E
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.2607595,34.8606996,0.0 -82.2608346,34.8604619,0.0 -82.2606844,34.8604355,0.0 -82.2607005,34.8603695,0.0 -82.2603786,34.8603167,0.0 -82.2603464,34.8603651,0.0 -82.2603196,34.86052140000001,0.0 -82.2604376,34.8605368,0.0 -82.2604162,34.8606292,0.0 -82.2607595,34.8606996,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>HNA - A
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10316</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[HNA - A
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.2575864,34.86040469999999,0.0 -82.257746,34.8606974,0.0 -82.2578948,34.8609857,0.0 -82.258104,34.8609175,0.0 -82.2581363,34.8609769,0.0 -82.2582382,34.8609351,0.0 -82.2581189,34.8607227,0.0 -82.2579781,34.8604905,0.0 -82.2578936,34.8604498,0.0 -82.2578332,34.86042009999999,0.0 -82.2577662,34.8603981,0.0 -82.2576401,34.86039370000001,0.0 -82.2575864,34.86040469999999,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>HNA - F (1st Floor)
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10317</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[HNA - F (1st Floor)
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.2609097,34.8649802,0.0 -82.2606441,34.86492520000001,0.0 -82.2605047,34.8648812,0.0 -82.2603571,34.8648812,0.0 -82.2601238,34.8648438,0.0 -82.2600567,34.8651057,0.0 -82.2605985,34.86520910000001,0.0 -82.2608346,34.865246500000005,0.0 -82.2609097,34.8649802,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>HNA - C
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10318</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[HNA - C
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.2579485,34.8610386,0.0 -82.2581201,34.86139070000001,0.0 -82.2581685,34.8614325,0.0 -82.2582221,34.861480900000004,0.0 -82.258308,34.8615073,0.0 -82.2583776,34.861511699999994,0.0 -82.2584621,34.86149960000001,0.0 -82.2585225,34.8614677,0.0 -82.2582382,34.8609351,0.0 -82.2579485,34.8610386,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		
+		<Placemark>
+			<name>GDC
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10319</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[GDC
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3569757,34.7502123,0.0 -82.3568362,34.7502431,0.0 -82.3569059,34.75040619999999,0.0 -82.3565197,34.75049440000001,0.0 -82.3567182,34.750988,0.0 -82.3572546,34.7508337,0.0 -82.3569757,34.7502123,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		
+		<Placemark>
+			<name>PRM - PRIME
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10320</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[PRM - PRIME
+
+Site: Greenville
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-82.3769152,34.7374952,0.0 -82.3764217,34.738932299999995,0.0 -82.3777413,34.7391968,0.0 -82.3782027,34.73770679999999,0.0 -82.3769152,34.7374952,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	  
 	  
     </Folder>
     <Folder>

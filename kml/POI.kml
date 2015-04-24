@@ -993,8 +993,397 @@ Type: POI]]></description>
           <coordinates>7.573029,44.438148,0.0</coordinates>
         </Point>
       </Placemark>
-	  
-	  
+	  <Placemark>
+        <styleUrl>#icon-accueil</styleUrl>
+        <name>Visitor Entrance US1</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30035</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Visitor Entrance US1
+
+site: Greenville
+Type: POI]]></description>
+        <Point>
+          <coordinates>-82.3699388,34.7313895,0.0</coordinates>
+        </Point>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#icon-accueil</styleUrl>
+        <name>Visitor Entrance MARC</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30036</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Visitor Entrance MARC
+
+site: Greenville
+Type: POI]]></description>
+        <Point>
+          <coordinates>-82.36580400000003,34.726553,0.0</coordinates>
+        </Point>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#icon-accueil</styleUrl>
+        <name>Transport acces to US1</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30037</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Transport acces to US1
+
+site: Greenville
+Type: POI]]></description>
+        <Point>
+          <coordinates>-82.3663151,34.7305584,0.0</coordinates>
+        </Point>
+      </Placemark>
+	  <Placemark>
+        <styleUrl>#icon-accueil</styleUrl>
+        <name>Transport acces to MARC</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30038</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Transport acces to MARC
+
+site: Greenville
+Type: POI]]></description>
+        <Point>
+          <coordinates>-82.3674497,34.7236365,0.0</coordinates>
+        </Point>
+      </Placemark>
+	  <Placemark>
+			<name>Cafeteria US1
+</name>
+			<styleUrl>#icon-cantine</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30039</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[Cafeteria US1
+
+site: Greenville
+Type: POI]]></description>
+			<Point>
+				<coordinates>-82.36990700000001,34.730334,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cafeteria MARC</name>
+			<styleUrl>#icon-cantine</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30040</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[Cafeteria MARC
+
+site: Greenville
+Type: POI]]></description>
+			<Point>
+				<coordinates>-82.36671799999999,34.726156,0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		
+		<Placemark>
+			<name>Cafeteria HNA (bottom floor)</name>
+			<styleUrl>#icon-cantine</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30041</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[Cafeteria HNA (bottom floor)
+
+site: Greenville
+Type: POI]]></description>
+			<Point>
+				<coordinates>-82.2583508,34.8607392,0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		
+		
+		
+		
+		<Placemark>
+			<name>MARC Charging station/parking for electric car</name>
+			<styleUrl>#icon-relais-voiture</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30042</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[MARC Charging station/parking for electric car
+
+site: Greenville
+Type: POI]]></description>
+			<Point>
+				<coordinates>-82.36563100000001,34.726645,0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Medical MARC US1
+</name>
+			<styleUrl>#icon-infirmerie</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30043</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[Medical MARC US1
+
+site: Greenville
+Type: POI]]></description>
+			<Point>
+				<coordinates>-82.36692800000003,34.728753,0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Medical HNA</name>
+			<styleUrl>#icon-infirmerie</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30044</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[Medical HNA
+
+site: Greenville
+Type: POI]]></description>
+			<Point>
+				<coordinates>-82.2605181,34.8603871,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MTC Credit Union</name>
+			<styleUrl>#icon-info</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30045</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[MTC Credit Union
+
+site: Greenville
+Type: POI]]></description>
+			<Point>
+				<coordinates>-82.3667148,34.7291234,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wellness Center
+</name>
+			<styleUrl>#icon-info</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30046</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[Wellness Center
+
+site: Greenville
+Type: POI]]></description>
+			<Point>
+				<coordinates>-82.367142,34.732455,0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		
+		<Placemark>
+			<name>Tech Zone (IS support) MARC</name>
+			<styleUrl>#icon-info</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30047</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[Tech Zone (IS support) MARC
+
+site: Greenville
+Type: POI]]></description>
+			<Point>
+				<coordinates>-82.36740299999997,34.726614,0.0</coordinates>
+			</Point>
+		</Placemark>
 	  
     </Folder>
     <Style id="poly-DB4436-4-76">
@@ -1095,6 +1484,15 @@ Type: POI]]></description>
         <scale>1.1</scale>
         <Icon>
           <href>images/plane-area.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+	<Style id="icon-info">
+      <IconStyle>
+        <color>ff7782FF</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>images/info.png</href>
         </Icon>
       </IconStyle>
     </Style>

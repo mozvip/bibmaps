@@ -654,6 +654,208 @@
           <coordinates>7.564103,44.439196,0.0</coordinates>
         </Point>
       </Placemark>
+	  <Placemark>
+			<name>Employee west turnstile to US1</name>
+			<styleUrl>#icon-site-entrance</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>50026</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>SiteEntrance</value>
+          </Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-82.371711,34.730949,0.0</coordinates>
+			</Point>
+		</Placemark>		
+		<Placemark>
+			<name>Employee east turnstile to US1</name>
+			<styleUrl>#icon-site-entrance</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>50027</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>SiteEntrance</value>
+          </Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-82.36815000000001,34.73167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Employee turnstile to US1 (main gate)</name>
+			<styleUrl>#icon-site-entrance</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>50028</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>SiteEntrance</value>
+          </Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-82.3697618,34.731374,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Employee turnstile to MARC</name>
+			<styleUrl>#icon-site-entrance</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>50029</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>SiteEntrance</value>
+          </Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-82.3657692,34.7263784,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Employee turnstile to MARC</name>
+			<styleUrl>#icon-site-entrance</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>50030</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>SiteEntrance</value>
+          </Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-82.366435,34.724579,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Connection gates US1 MARC</name>
+			<styleUrl>#icon-site-entrance</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>50031</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>SiteEntrance</value>
+          </Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-82.36685699999998,34.729231,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Connecting gates US1 MARC</name>
+			<styleUrl>#icon-site-entrance</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>50032</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>SiteEntrance</value>
+          </Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-82.3678251,34.7279081,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Employee turnstile to US1</name>
+			<styleUrl>#icon-site-entrance</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>50033</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>SiteEntrance</value>
+          </Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-82.3665163,34.7306962,0.0</coordinates>
+			</Point>
+		</Placemark>
+	  
+	  
     </Folder>
     <Style id="icon-site-entrance">
       <IconStyle>
