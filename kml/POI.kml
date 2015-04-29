@@ -1384,6 +1384,35 @@ Type: POI]]></description>
 				<coordinates>-82.36740299999997,34.726614,0.0</coordinates>
 			</Point>
 		</Placemark>
+		<Placemark>
+        <styleUrl>#icon-plane</styleUrl>
+        <name>Stevens aviation</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30048</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Greenville</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Stevens aviation (Hangar Four)
+
+site: Greenville
+Type: POI]]></description>
+        <Point>
+          <coordinates>34.897894,-82.212055,0.0</coordinates>
+        </Point>
+      </Placemark>
 	  
     </Folder>
     <Style id="poly-DB4436-4-76">
