@@ -1410,7 +1410,7 @@ Type: POI]]></description>
 site: Greenville
 Type: POI]]></description>
         <Point>
-          <coordinates>34.897894,-82.212055,0.0</coordinates>
+          <coordinates>-82.212055,34.897894,0.0</coordinates>
         </Point>
       </Placemark>
 	  
