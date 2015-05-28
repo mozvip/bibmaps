@@ -1474,6 +1474,93 @@
 				</outerBoundaryIs>
 			</Polygon>
 		</Placemark>
+	  <Placemark>
+			<name>CGR Parking
+</name>
+			<styleUrl>#poly-4186F0-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20047</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <value>parking</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[<br/>
+<button onclick="window.location='https://maps.google.fr/maps?q=-22.950164,-43.569802&num=1&t=h&z=18';">Navigate to this point</button>
+<br/>]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5696396,-22.9505294,0.0 -43.5701278,-22.9498107,0.0 -43.57105580000001,-22.9503713,0.0 -43.5705757,-22.9510777,0.0 -43.5696396,-22.9505294,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR Parking 2
+</name>
+			<styleUrl>#poly-4186F0-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20048</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <value>parking</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[<br/>
+<button onclick="window.location='https://maps.google.fr/maps?q=-22.950164,-43.569802&num=1&t=h&z=18';">Navigate to this point</button>
+<br/>]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5697898,-22.9500206,0.0 -43.5695484,-22.950373799999998,0.0 -43.5691702,-22.950168800000004,0.0 -43.5691085,-22.9502503,0.0 -43.5678881,-22.949539,0.0 -43.567861300000004,-22.9494649,0.0 -43.5676816,-22.9493266,0.0 -43.5676065,-22.9491389,0.0 -43.5676065,-22.948931400000006,0.0 -43.5676441,-22.9488523,0.0 -43.5678855,-22.948990700000003,0.0 -43.56792299999999,-22.9489487,0.0 -43.5697898,-22.9500206,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	  
 	  
 	  
     </Folder>

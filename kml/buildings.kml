@@ -10841,7 +10841,2296 @@ type: Batiment]]></description>
 				</outerBoundaryIs>
 			</Polygon>
 		</Placemark>
+	  		<Placemark>
+			<name>MAS - Bloco A
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10321</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>MAS</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[MAS - bloco A
+
+Site: MAS
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.3184615,-23.001794599999997,0.0 -43.31840520000001,-23.002042700000004,0.0 -43.3183542,-23.0020736,0.0 -43.3180833,-23.0020144,0.0 -43.3180524,-23.001974899999997,0.0 -43.3181155,-23.001725500000003,0.0 -43.318157,-23.0016946,0.0 -43.31842929999999,-23.001747700000003,0.0 -43.3184615,-23.001794599999997,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>MAS - Bloco B
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10322</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>MAS</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[MAS - bloco B
+
+Site: MAS
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.3180699,-23.0016181,0.0 -43.3180082,-23.001874900000004,0.0 -43.3179586,-23.0019033,0.0 -43.31769440000001,-23.0018502,0.0 -43.3176622,-23.0018008,0.0 -43.3177198,-23.001551400000004,0.0 -43.3177695,-23.001522999999995,0.0 -43.31804710000001,-23.001578599999995,0.0 -43.3180699,-23.0016181,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		
+		<Placemark>
+			<name>CGR PL 231</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10323</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL 231
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5746205,-22.948583100000004,0.0 -43.573966,-22.9495909,0.0 -43.5733223,-22.9492352,0.0 -43.573976800000004,-22.9482275,0.0 -43.5746205,-22.948583100000004,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR PL 663</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10324</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL 663
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5737568,-22.948197800000003,0.0 -43.57321770000001,-22.9489882,0.0 -43.5727054,-22.9487017,0.0 -43.5728744,-22.948459600000003,0.0 -43.5728395,-22.9484399,0.0 -43.57320959999999,-22.9478915,0.0 -43.5737568,-22.948197800000003,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR PL 190</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10325</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL 190
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5727617,-22.948736300000004,0.0 -43.57321770000001,-22.9489882,0.0 -43.5729897,-22.949334,0.0 -43.572488099999994,-22.9490351,0.0 -43.5726464,-22.9488079,0.0 -43.5726973,-22.9488351,0.0 -43.5727617,-22.948736300000004,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR PL 124</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10328</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL 124
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.572882400000005,-22.9495093,0.0 -43.5727805,-22.9496575,0.0 -43.572632999999996,-22.949573499999996,0.0 -43.5724506,-22.9498279,0.0 -43.5720939,-22.949618,0.0 -43.572378199999996,-22.949205499999998,0.0 -43.57274569999999,-22.949405600000002,0.0 -43.5727296,-22.9494253,0.0 -43.572882400000005,-22.9495093,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR PL 821</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10329</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL 821
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5738426,-22.9510728,0.0 -43.57356909999999,-22.951472899999995,0.0 -43.57326330000001,-22.9512803,0.0 -43.5735476,-22.9508851,0.0 -43.5738426,-22.9510728,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR PL 662</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10330</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL 662
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5730004,-22.9478817,0.0 -43.5727751,-22.9482126,0.0 -43.5723138,-22.9479558,0.0 -43.57253370000001,-22.9476199,0.0 -43.5730004,-22.9478817,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR PL 660</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10331</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL 660
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5724479,-22.948691799999995,0.0 -43.5719866,-22.948429999999995,0.0 -43.5722333,-22.9480595,0.0 -43.5726893,-22.948345999999997,0.0 -43.5724479,-22.948691799999995,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR PL 610</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10332</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL 610
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.57183100000001,-22.9486869,0.0 -43.5701251,-22.9477187,0.0 -43.5711497,-22.946167499999998,0.0 -43.5718256,-22.946750400000003,0.0 -43.5719007,-22.9467998,0.0 -43.5719329,-22.9467455,0.0 -43.5720778,-22.9468344,0.0 -43.5720563,-22.946878900000005,0.0 -43.5721475,-22.9469332,0.0 -43.5721904,-22.946888700000002,0.0 -43.5722709,-22.946938099999997,0.0 -43.572244,-22.946982600000002,0.0 -43.5727376,-22.947278999999995,0.0 -43.57183100000001,-22.9486869,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR PL 490</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10333</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL 490
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5699749,-22.9472444,0.0 -43.5703182,-22.9467159,0.0 -43.5705972,-22.946869,0.0 -43.5705328,-22.9469777,0.0 -43.5704792,-22.9470641,0.0 -43.57053280000001,-22.947101199999995,0.0 -43.5703021,-22.947449400000004,0.0 -43.5699749,-22.9472444,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR PL 491</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10334</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL 491
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.570720599999994,-22.946827,0.0 -43.570388,-22.946634299999996,0.0 -43.57046309999999,-22.9465232,0.0 -43.570428199999995,-22.946503399999997,0.0 -43.5708064,-22.9459353,0.0 -43.5710049,-22.946043999999997,0.0 -43.5711497,-22.946167499999998,0.0 -43.570720599999994,-22.946827,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR PL 610 ZPK</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10335</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL 610 ZPK
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5708332,-22.9489635,0.0 -43.5697764,-22.9483559,0.0 -43.56999640000001,-22.948010100000005,0.0 -43.5699427,-22.947980500000003,0.0 -43.5701251,-22.9477187,0.0 -43.5712302,-22.9483608,0.0 -43.5708332,-22.9489635,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR PL 127</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10336</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL 127
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5727617,-22.9505146,0.0 -43.5727054,-22.950608499999998,0.0 -43.572464,-22.950467700000004,0.0 -43.57252569999999,-22.950376300000002,0.0 -43.5727617,-22.9505146,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
 	  
+	  <Placemark>
+			<name>CGR PL 492</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10337</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL 492
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.570597199999995,-22.9459403,0.0 -43.570388,-22.9462614,0.0 -43.5698944,-22.9459897,0.0 -43.570109,-22.945668599999998,0.0 -43.570597199999995,-22.9459403,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR PL 110</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10338</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL 110
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.57465799999999,-22.949551300000003,0.0 -43.57443810000001,-22.9498971,0.0 -43.5740277,-22.9496674,0.0 -43.57426110000001,-22.9493216,0.0 -43.57465799999999,-22.949551300000003,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR PL 253</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10339</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL 253
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5723245,-22.950954300000003,0.0 -43.5719866,-22.951443300000005,0.0 -43.5717881,-22.951334599999996,0.0 -43.5721368,-22.9508604,0.0 -43.5723245,-22.950954300000003,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR PL 810</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10340</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL 810
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5717613,-22.950751700000005,0.0 -43.5716003,-22.9509938,0.0 -43.57125700000001,-22.950825800000004,0.0 -43.5714447,-22.950564,0.0 -43.5717613,-22.950751700000005,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR PL 730</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10341</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL 730
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5716996,-22.950154,0.0 -43.571214100000006,-22.950865300000004,0.0 -43.5710585,-22.9507789,0.0 -43.571544,-22.9500675,0.0 -43.5716996,-22.950154,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR PL 240</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10342</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL 240
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5711685,-22.9497563,0.0 -43.5709351,-22.9500898,0.0 -43.5705864,-22.949884799999996,0.0 -43.5708037,-22.9495563,0.0 -43.5711685,-22.9497563,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR PL 200</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10343</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL 200
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5711578,-22.9494081,0.0 -43.57103440000001,-22.9495933,0.0 -43.5704738,-22.9492673,0.0 -43.5705972,-22.949091899999996,0.0 -43.5711578,-22.9494081,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR PL 620</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10344</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL 620
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5723406,-22.9488375,0.0 -43.5719141,-22.9494945,0.0 -43.5715601,-22.9492945,0.0 -43.5716084,-22.949232700000003,0.0 -43.5715574,-22.9492031,0.0 -43.5716647,-22.949047499999995,0.0 -43.5717183,-22.9490821,0.0 -43.5720053,-22.9486473,0.0 -43.5723406,-22.9488375,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR PL Restaurant</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10345</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL Restaurant
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5716164,-22.9486992,0.0 -43.571423300000006,-22.948973400000003,0.0 -43.5710746,-22.948748599999995,0.0 -43.5712731,-22.9484992,0.0 -43.5716164,-22.9486992,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR PL 252</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10346</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL 252
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5695833,-22.9495933,0.0 -43.5694653,-22.949790899999996,0.0 -43.5686043,-22.9493019,0.0 -43.568733,-22.949099299999997,0.0 -43.5695833,-22.9495933,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR PL 220</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10347</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL 220
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.568894,-22.948862200000004,0.0 -43.5691783,-22.9484473,0.0 -43.56959400000001,-22.948684400000005,0.0 -43.5693151,-22.949096899999997,0.0 -43.568894,-22.948862200000004,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	  
+	  		<Placemark>
+			<name>CGR Reception</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10348</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR Reception
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5699427,-22.9495143,0.0 -43.5698006,-22.949450099999996,0.0 -43.5698435,-22.9493859,0.0 -43.569647700000004,-22.949284599999995,0.0 -43.569690599999994,-22.9492228,0.0 -43.570009799999994,-22.949410600000004,0.0 -43.5699427,-22.9495143,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	  <Placemark>
+			<name>CGR PL 100</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10349</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL 100
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5689047,-22.948301600000004,0.0 -43.56851309999999,-22.9488647,0.0 -43.5679659,-22.9485634,0.0 -43.56836560000001,-22.9479879,0.0 -43.5689047,-22.948301600000004,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR PL 405</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10350</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL 405
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.567872,-22.948570799999995,0.0 -43.56759850000001,-22.948412700000002,0.0 -43.5676897,-22.9482917,0.0 -43.56746969999999,-22.948168200000005,0.0 -43.5677031,-22.9478249,0.0 -43.5675019,-22.947708800000004,0.0 -43.56772180000001,-22.947382699999995,0.0 -43.5684004,-22.947775500000002,0.0 -43.567872,-22.948570799999995,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR PL 150</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10351</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL 150
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5699722,-22.9476199,0.0 -43.5696074,-22.9481706,0.0 -43.569417,-22.948066900000004,0.0 -43.5697871,-22.9475309,0.0 -43.5699722,-22.9476199,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR PL 402</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10352</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL 402
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5693258,-22.9477804,0.0 -43.56922120000001,-22.947953299999998,0.0 -43.5688242,-22.947721100000003,0.0 -43.56892080000001,-22.9475655,0.0 -43.5693258,-22.9477804,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR PL 125</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10353</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL 125
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5694063,-22.9476618,0.0 -43.5690898,-22.9474791,0.0 -43.5692078,-22.9472938,0.0 -43.5695162,-22.947464200000002,0.0 -43.5694063,-22.9476618,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR PL Restaurant</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10354</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL Restaurant
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5687867,-22.946953,0.0 -43.568754500000004,-22.9470147,0.0 -43.56871159999999,-22.94699,0.0 -43.5686767,-22.9470542,0.0 -43.5684648,-22.9469332,0.0 -43.5685238,-22.946864,0.0 -43.5684997,-22.946841800000005,0.0 -43.5685319,-22.9468048,0.0 -43.5687867,-22.946953,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR PL 420 (ZM)</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10355</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL 420 (ZM)
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.569301700000004,-22.9460588,0.0 -43.5695082,-22.9461749,0.0 -43.5694358,-22.946281099999997,0.0 -43.5694841,-22.9463108,0.0 -43.5690683,-22.9469406,0.0 -43.5680571,-22.9463676,0.0 -43.56847290000001,-22.945740200000003,0.0 -43.5692346,-22.946160100000004,0.0 -43.569301700000004,-22.9460588,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR PL 430</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10356</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL 430
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.570280700000005,-22.9464762,0.0 -43.5697148,-22.9473111,0.0 -43.5694814,-22.947177700000005,0.0 -43.5694465,-22.947229599999996,0.0 -43.5691327,-22.9470567,0.0 -43.5697255,-22.9461774,0.0 -43.570280700000005,-22.9464762,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR PL 421</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10357</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL 421
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5697201,-22.945967500000002,0.0 -43.5695538,-22.946199599999996,0.0 -43.5685802,-22.945638900000002,0.0 -43.56881889999999,-22.945300599999996,0.0 -43.5691729,-22.9454982,0.0 -43.56909780000001,-22.945601900000003,0.0 -43.5697201,-22.945967500000002,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR PL 422</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10358</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL 422
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.568955700000004,-22.9448881,0.0 -43.5687035,-22.9452437,0.0 -43.56881889999999,-22.945300599999996,0.0 -43.5686284,-22.9455797,0.0 -43.5681939,-22.9453623,0.0 -43.5686445,-22.9447102,0.0 -43.568955700000004,-22.9448881,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	  
+	  		<Placemark>
+			<name>CGR GC 411</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10359</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR GC 411
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5670513,-22.945196800000005,0.0 -43.5672927,-22.945597,0.0 -43.5667536,-22.9458835,0.0 -43.5668421,-22.9460341,0.0 -43.5666516,-22.946128000000005,0.0 -43.56630030000001,-22.9455698,0.0 -43.5670513,-22.945196800000005,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR GC 133</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10360</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR GC 133
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.566394200000005,-22.9451672,0.0 -43.5662198,-22.9452635,0.0 -43.5661769,-22.9451968,0.0 -43.5661206,-22.945224000000003,0.0 -43.5657638,-22.9446386,0.0 -43.5660133,-22.944515100000004,0.0 -43.566394200000005,-22.9451672,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR GC 415</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10361</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR GC 415
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.565608299999994,-22.9447967,0.0 -43.5654151,-22.944893,0.0 -43.5653347,-22.944749700000003,0.0 -43.565511699999995,-22.9446485,0.0 -43.565608299999994,-22.9447967,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR GC 413</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10362</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR GC 413
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.56548490000001,-22.9445768,0.0 -43.56530519999999,-22.9446707,0.0 -43.5652515,-22.9445818,0.0 -43.5654366,-22.9444904,0.0 -43.56548490000001,-22.9445768,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR GC 530</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10363</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR GC 530
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.567027200000005,-22.9448461,0.0 -43.56640759999999,-22.9438507,0.0 -43.5671774,-22.9434653,0.0 -43.5672498,-22.943598700000003,0.0 -43.567172,-22.9436382,0.0 -43.5672659,-22.9437939,0.0 -43.5673571,-22.9437543,0.0 -43.5674992,-22.9439915,0.0 -43.5674188,-22.944035900000003,0.0 -43.5675395,-22.944238500000004,0.0 -43.56760920000001,-22.944198899999996,0.0 -43.5677218,-22.944389100000002,0.0 -43.5676467,-22.9444212,0.0 -43.56779689999999,-22.9446732,0.0 -43.5675743,-22.9447868,0.0 -43.56748040000001,-22.9446164,0.0 -43.5674214,-22.9446411,0.0 -43.5674912,-22.9447522,0.0 -43.5672632,-22.944870800000004,0.0 -43.5672015,-22.944766999999995,0.0 -43.567027200000005,-22.9448461,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR GC Restaurant
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10364</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR GC Restaurant
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.56777280000001,-22.9439149,0.0 -43.567738,-22.9438532,0.0 -43.5678211,-22.9437988,0.0 -43.567746,-22.943690100000005,0.0 -43.5679525,-22.9435888,0.0 -43.5680142,-22.943709900000005,0.0 -43.5681188,-22.943658,0.0 -43.5681564,-22.9437272,0.0 -43.568092,-22.9437593,0.0 -43.5681188,-22.9438037,0.0 -43.56786670000001,-22.9439371,0.0 -43.5678345,-22.943885200000004,0.0 -43.56777280000001,-22.9439149,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR GC 630</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10365</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR GC 630
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5671774,-22.9434653,0.0 -43.5661206,-22.943993900000002,0.0 -43.5652623,-22.9425835,0.0 -43.56624390000001,-22.9420871,0.0 -43.566303,-22.9421859,0.0 -43.56638879999999,-22.942146300000005,0.0 -43.56648800000001,-22.942326699999995,0.0 -43.5664076,-22.9423637,0.0 -43.5665068,-22.942502,0.0 -43.56657390000001,-22.9424699,0.0 -43.5666919,-22.942672500000004,0.0 -43.5666195,-22.942697200000005,0.0 -43.5666516,-22.942756400000004,0.0 -43.5667321,-22.942712,0.0 -43.5670459,-22.9432505,0.0 -43.5669735,-22.9432924,0.0 -43.567054000000006,-22.9434085,0.0 -43.5671237,-22.943371499999998,0.0 -43.5671774,-22.9434653,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR GC 233</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10366</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR GC 233
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.56754480000001,-22.9423934,0.0 -43.5669708,-22.942679899999998,0.0 -43.5658765,-22.9408767,0.0 -43.566836699999996,-22.9403778,0.0 -43.5670888,-22.940807600000003,0.0 -43.56690650000001,-22.9409014,0.0 -43.5669279,-22.940936,0.0 -43.566767,-22.94102,0.0 -43.56754480000001,-22.9423934,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR GC 674</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10367</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR GC 674
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.566152800000005,-22.9419117,0.0 -43.56624390000001,-22.9420871,0.0 -43.5648277,-22.9428083,0.0 -43.56473389999999,-22.9426453,0.0 -43.566152800000005,-22.9419117,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR GC 670</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10368</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR GC 670
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5650289,-22.942183400000005,0.0 -43.5651496,-22.9421266,0.0 -43.5652757,-22.942356299999997,0.0 -43.5647124,-22.9426379,0.0 -43.5647419,-22.9426922,0.0 -43.5641894,-22.942971300000004,0.0 -43.5640258,-22.942707,0.0 -43.5650289,-22.942183400000005,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR GC 671 673</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10369</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR GC 671 673
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5661072,-22.941635000000005,0.0 -43.5662332,-22.9418549,0.0 -43.5652757,-22.942356299999997,0.0 -43.5651496,-22.9421266,0.0 -43.5661072,-22.941635000000005,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR PL Vestiário OPF
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10370</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL Vestiário OPF
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5714662,-22.9495242,0.0 -43.5713321,-22.9497465,0.0 -43.571155,-22.9496452,0.0 -43.57128109999999,-22.9494328,0.0 -43.5714662,-22.9495242,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR GC 690</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10371</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR GC 690
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5661072,-22.941635000000005,0.0 -43.5656244,-22.9418821,0.0 -43.5651496,-22.9421266,0.0 -43.564902800000006,-22.9417116,0.0 -43.565332,-22.9414967,0.0 -43.5654581,-22.9417042,0.0 -43.565973,-22.941439900000002,0.0 -43.5661072,-22.941635000000005,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR PL 252 Extensão
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10372</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL 252 Extensão
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5686553,-22.9492006,0.0 -43.5685962,-22.949329,0.0 -43.567829100000004,-22.948882000000005,0.0 -43.5678104,-22.948899299999997,0.0 -43.567636,-22.948803000000005,0.0 -43.56768160000001,-22.9487511,0.0 -43.5678023,-22.9488178,0.0 -43.567856,-22.948756,0.0 -43.5686553,-22.9492006,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR GC</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10373</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR GC
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5659543,-22.9444138,0.0 -43.56567,-22.9445596,0.0 -43.565608299999994,-22.944475599999997,0.0 -43.5658202,-22.9443595,0.0 -43.565804099999994,-22.9443249,0.0 -43.5655841,-22.9444311,0.0 -43.5655305,-22.9443521,0.0 -43.5658202,-22.9442039,0.0 -43.5659543,-22.9444138,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR GC</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10374</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR GC
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5670567,-22.9466195,0.0 -43.5669681,-22.9466739,0.0 -43.56685280000001,-22.946508400000003,0.0 -43.5669574,-22.9464466,0.0 -43.5670567,-22.9466195,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR PL 155</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10375</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL 155
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5682476,-22.9466245,0.0 -43.568092,-22.946854200000004,0.0 -43.5678318,-22.946710900000003,0.0 -43.5679847,-22.9464713,0.0 -43.5682476,-22.9466245,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR ZP 470
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10376</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR ZP 470
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5665739,-22.9482546,0.0 -43.56659260000001,-22.9483806,0.0 -43.566775,-22.948358300000002,0.0 -43.56682059999999,-22.948388,0.0 -43.56691450000001,-22.949082,0.0 -43.5666892,-22.9491018,0.0 -43.566716,-22.9492846,0.0 -43.5665283,-22.949301899999995,0.0 -43.5665497,-22.9494204,0.0 -43.5662359,-22.949450000000002,0.0 -43.566201,-22.9490549,0.0 -43.5660562,-22.9490573,0.0 -43.565965000000006,-22.9483336,0.0 -43.5665739,-22.9482546,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR GC Restaurant Empreiteras
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10377</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR GC Restaurant Empreiteras
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5673437,-22.9449424,0.0 -43.567518,-22.945256100000005,0.0 -43.5673946,-22.945305500000003,0.0 -43.5672176,-22.9449943,0.0 -43.5673437,-22.9449424,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR PL</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10378</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5728341,-22.9472914,0.0 -43.5732901,-22.9475581,0.0 -43.573148,-22.947760599999995,0.0 -43.57268929999999,-22.9474964,0.0 -43.5728341,-22.9472914,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR GC 417</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10379</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR GC 417
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.566718699999996,-22.9474914,0.0 -43.566836699999996,-22.9476915,0.0 -43.566370000000006,-22.9479286,0.0 -43.5662439,-22.947728499999997,0.0 -43.566718699999996,-22.9474914,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR GC 416</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10380</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR GC 416
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5660025,-22.947335800000005,0.0 -43.5668743,-22.946888700000002,0.0 -43.5670325,-22.9471629,0.0 -43.5670111,-22.947345699999996,0.0 -43.5662439,-22.947728499999997,0.0 -43.5660025,-22.947335800000005,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR GC 446</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10381</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR GC 446
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5657746,-22.9450461,0.0 -43.5659865,-22.9453994,0.0 -43.5658376,-22.9454772,0.0 -43.5662031,-22.946081699999993,0.0 -43.5658654,-22.946253,0.0 -43.56548490000001,-22.945663600000003,0.0 -43.5653427,-22.9454216,0.0 -43.565527800000005,-22.9453277,0.0 -43.56546339999999,-22.945219,0.0 -43.5657746,-22.9450461,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR GC 447</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10382</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR GC 447
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5653427,-22.9454216,0.0 -43.5658654,-22.946253,0.0 -43.56547950000001,-22.9464614,0.0 -43.565096,-22.945819299999997,0.0 -43.5647285,-22.9460169,0.0 -43.5645971,-22.9458044,0.0 -43.5653427,-22.9454216,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR GC 437</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10383</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR GC 437
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5658654,-22.946253,0.0 -43.5660696,-22.946617100000005,0.0 -43.565683400000005,-22.946809700000003,0.0 -43.56547950000001,-22.9464614,0.0 -43.5658654,-22.946253,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR GC 436</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10384</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR GC 436
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5658654,-22.946253,0.0 -43.5662031,-22.946081699999993,0.0 -43.5664344,-22.946439200000004,0.0 -43.5660696,-22.946617100000005,0.0 -43.5658654,-22.946253,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR GC 426</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10385</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR GC 426
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5660696,-22.946617100000005,0.0 -43.5664344,-22.946439200000004,0.0 -43.5667509,-22.946953,0.0 -43.5663861,-22.947138199999998,0.0 -43.5660696,-22.946617100000005,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR GC 427</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10386</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR GC 427
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5660696,-22.946617100000005,0.0 -43.5663861,-22.947138199999998,0.0 -43.5660025,-22.947335800000005,0.0 -43.565683400000005,-22.946809700000003,0.0 -43.5660696,-22.946617100000005,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR GC 401 bis</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10387</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR GC 401 bis
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5659865,-22.9453994,0.0 -43.56621439999999,-22.9457773,0.0 -43.5660589,-22.945844,0.0 -43.5658376,-22.9454772,0.0 -43.5659865,-22.9453994,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR GC 401</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10388</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR GC 401
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.56676970000001,-22.9466986,0.0 -43.5668743,-22.946888700000002,0.0 -43.5667509,-22.946953,0.0 -43.5666355,-22.9467628,0.0 -43.56676970000001,-22.9466986,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		
+		<Placemark>
+			<name>CGR PL 230</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10389</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL 230
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.5747117,-22.950233000000004,0.0 -43.5742664,-22.950894999999996,0.0 -43.57272150000001,-22.949971200000004,0.0 -43.57314530000001,-22.9493488,0.0 -43.5747117,-22.950233000000004,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
 	  
     </Folder>
     <Folder>

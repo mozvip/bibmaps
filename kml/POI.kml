@@ -1201,7 +1201,123 @@ Type: POI]]></description>
 		</Placemark>
 		
 		
-		
+		<Placemark>
+			<name>CGR Restaurant
+</name>
+			<styleUrl>#icon-cantine</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30053</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Compo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR Restaurant
+
+site: Compo Grande
+Type: POI]]></description>
+			<Point>
+				<coordinates>-43.5673892,-22.9451153,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CGR GC Restaurant</name>
+			<styleUrl>#icon-cantine</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30054</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Compo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR GC Restaurant
+
+site: Compo Grande
+Type: POI]]></description>
+			<Point>
+				<coordinates>-43.5679686,-22.9437815,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CGR PL Restaurant</name>
+			<styleUrl>#icon-cantine</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30055</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Compo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL Restaurant
+
+site: Compo Grande
+Type: POI]]></description>
+			<Point>
+				<coordinates>-43.5686445,-22.9469233,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CGR PL Restaurant</name>
+			<styleUrl>#icon-cantine</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30056</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Compo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL Restaurant
+
+site: Compo Grande
+Type: POI]]></description>
+			<Point>
+				<coordinates>-43.5713911,-22.9487412,0.0</coordinates>
+			</Point>
+		</Placemark>
 		
 		
 		<Placemark>
@@ -1413,6 +1529,129 @@ Type: POI]]></description>
           <coordinates>-82.212055,34.897894,0.0</coordinates>
         </Point>
       </Placemark>
+	  
+	  <Placemark>
+        <styleUrl>#icon-accueil</styleUrl>
+        <name>MAS - Entrance</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30049</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>MAS</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[MAS - Entrance
+
+site: MAS
+Type: POI]]></description>
+        <Point>
+          <coordinates>-43.3178848,-23.0018884,0.0</coordinates>
+        </Point>
+      </Placemark>
+	  
+	  <Placemark>
+        <styleUrl>#icon-accueil</styleUrl>
+        <name>CGR Campo Grande Reception</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30050</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CGR Campo Grande Reception
+
+site: Campo Grande
+Type: POI]]></description>
+        <Point>
+          <coordinates>-43.5698113,-22.9493723,0.0</coordinates>
+        </Point>
+      </Placemark>
+	  
+	  <Placemark>
+			<name>CGR PL Enfermaria</name>
+			<styleUrl>#icon-infirmerie</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30051</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR PL Enfermaria
+
+site: Campo Grande
+Type: POI]]></description>
+			<Point>
+				<coordinates>-43.5709834,-22.949887200000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>CGR GC Enfermaria</name>
+			<styleUrl>#icon-infirmerie</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30052</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR GC Enfermaria
+
+site: Campo Grande
+Type: POI]]></description>
+			<Point>
+				<coordinates>-43.5666436,-22.9428676,0.0</coordinates>
+			</Point>
+		</Placemark>
+	  
+	  
+	  
 	  
     </Folder>
     <Style id="poly-DB4436-4-76">
