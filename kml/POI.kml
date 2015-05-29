@@ -6,7 +6,7 @@
       <name>POI</name>
       <Placemark>
         <styleUrl>#icon-accueil</styleUrl>
-        <name>Accueil Visiteurs</name>
+        <name>Accueil Visiteurs Carmes</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -25,7 +25,7 @@
             <value>POI</value>
           </Data>
         </ExtendedData>
-        <description><![CDATA[Accueil visiteurs
+        <description><![CDATA[Accueil visiteurs Carmes
 
 site: Carmes
 Type: POI]]></description>
@@ -122,7 +122,7 @@ Type: POI]]></description>
       </Placemark>
       <Placemark>
         <styleUrl>#icon-accueil</styleUrl>
-        <name>Accueil visiteurs</name>
+        <name>Accueil visiteurs Cataroux</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -141,7 +141,7 @@ Type: POI]]></description>
             <value>POI</value>
           </Data>
         </ExtendedData>
-        <description><![CDATA[Accueil visiteurs
+        <description><![CDATA[Accueil visiteurs Cataroux
 
 site: Cataroux
 Type: POI]]></description>
@@ -238,7 +238,7 @@ Type: POI]]></description>
       </Placemark>
       <Placemark>
         <styleUrl>#icon-accueil</styleUrl>
-        <name>Accueil visiteurs Talloires</name>
+        <name>Accueil visiteurs Talloires Chantemerle</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -257,7 +257,7 @@ Type: POI]]></description>
             <value>POI</value>
           </Data>
         </ExtendedData>
-        <description><![CDATA[Accueil visiteurs Talloires
+        <description><![CDATA[Accueil visiteurs Talloires Chantemerle
 
 site: Chantemerle
 Type: POI]]></description>
@@ -267,7 +267,7 @@ Type: POI]]></description>
       </Placemark>
       <Placemark>
         <styleUrl>#icon-accueil</styleUrl>
-        <name>Accueil visiteurs</name>
+        <name>Accueil visiteurs Combaude</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -286,7 +286,7 @@ Type: POI]]></description>
             <value>POI</value>
           </Data>
         </ExtendedData>
-        <description><![CDATA[Accueil visiteurs
+        <description><![CDATA[Accueil visiteurs Combaude
 
 site: Combaude
 Type: POI]]></description>
@@ -354,7 +354,7 @@ Type: POI]]></description>
       </Placemark>
       <Placemark>
         <styleUrl>#icon-accueil</styleUrl>
-        <name>Accueil visiteurs</name>
+        <name>Accueil visiteurs Brézet</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -373,7 +373,7 @@ Type: POI]]></description>
             <value>POI</value>
           </Data>
         </ExtendedData>
-        <description><![CDATA[Accueil visiteurs
+        <description><![CDATA[Accueil visiteurs Brézet
 
 site: Brézet
 Type: POI]]></description>
@@ -441,7 +441,7 @@ Type: POI]]></description>
       </Placemark>
       <Placemark>
         <styleUrl>#icon-accueil</styleUrl>
-        <name>Accueil visiteurs E23</name>
+        <name>Accueil visiteurs E23 Ladoux</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -460,7 +460,7 @@ Type: POI]]></description>
             <value>POI</value>
           </Data>
         </ExtendedData>
-        <description><![CDATA[Accueil visiteurs E23
+        <description><![CDATA[Accueil visiteurs E23 Ladoux
 
 site: Ladoux
 Type: POI]]></description>
@@ -470,7 +470,7 @@ Type: POI]]></description>
       </Placemark>
       <Placemark>
         <styleUrl>#icon-accueil</styleUrl>
-        <name>Accueil entreprises Troyes</name>
+        <name>Accueil entreprises Troyes Ladoux</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -489,7 +489,7 @@ Type: POI]]></description>
             <value>POI</value>
           </Data>
         </ExtendedData>
-        <description><![CDATA[Accueil entreprises Troyes
+        <description><![CDATA[Accueil entreprises Troyes Ladoux
 
 site: Ladoux
 Type: POI]]></description>
@@ -818,7 +818,7 @@ Type: POI]]></description>
       </Placemark>
 	   <Placemark>
         <styleUrl>#icon-accueil</styleUrl>
-        <name>Accueil visiteurs</name>
+        <name>Accueil visiteurs Gravanches</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -837,7 +837,7 @@ Type: POI]]></description>
             <value>POI</value>
           </Data>
         </ExtendedData>
-        <description><![CDATA[Accueil visiteurs
+        <description><![CDATA[Accueil visiteurs Gravanches
 
 site: Gravanches
 Type: POI]]></description>
