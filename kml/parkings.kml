@@ -1540,6 +1540,39 @@
 				</outerBoundaryIs>
 			</Polygon>
 		</Placemark>
+		<Placemark>
+			<name>Parking l' Entente
+</name>
+			<styleUrl>#poly-4186F0-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20049</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Carmes</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <value>parking</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[<br/>
+<button onclick="window.location='https://maps.google.fr/maps?q=45.7870905,3.0917314&num=1&t=h&z=18';">Navigate to this point</button>
+<br/>]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>3.0916992000000003,45.78749830000001,0.0 3.0908596999999998,45.787459,0.0 3.0905807,45.787288800000006,0.0 3.0916026,45.78707,0.0 3.0916951999999998,45.7869456,0.0 3.0917655999999996,45.78696939999999,0.0 3.0917314,45.7870905,0.0 3.0916992000000003,45.78749830000001,0.0</coordinates>
+						</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
 		
 		
 		
