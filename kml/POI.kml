@@ -1649,6 +1649,96 @@ Type: POI]]></description>
 				<coordinates>-43.5666436,-22.9428676,0.0</coordinates>
 			</Point>
 		</Placemark>
+		
+		<Placemark>
+			<name>RES Enfermaria</name>
+			<styleUrl>#icon-infirmerie</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30053</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES Enfermaria
+
+site: Resende
+Type: POI]]></description>
+			<Point>
+				<coordinates>-44.5461971,-22.4798707,0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>RES Restaurant</name>
+			<styleUrl>#icon-cantine</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30054</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES Restaurant
+
+site: Resende
+Type: POI]]></description>
+			<Point>
+				<coordinates>-44.5480505,-22.4799352,0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>RES Recepção Resende</name>
+			<styleUrl>#icon-accueil</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30055</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES Recepção Resende
+
+site: Resende
+Type: POI]]></description>
+			<Point>
+				<coordinates>-44.5457357,-22.4802809,0.0</coordinates>
+			</Point>
+		</Placemark>
 	  
 	  
 	  

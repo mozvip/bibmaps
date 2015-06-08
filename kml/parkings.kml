@@ -1574,28 +1574,108 @@
 			</Polygon>
 		</Placemark>
 		
+		<Placemark>
+			<name>RES Parking 1
+</name>
+			<styleUrl>#poly-4186F0-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20050</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <value>parking</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[<br/>
+<button onclick="window.location='https://maps.google.fr/maps?q=-22.4810951,-44.5424098&num=1&t=h&z=18';">Navigate to this point</button>
+<br/>]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.5452529,-22.4797815,0.0 -44.5452529,-22.4802822,0.0 -44.5442954,-22.480282200000005,0.0 -44.5442954,-22.4797716,0.0 -44.5452529,-22.4797815,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
 		
+		<Placemark>
+			<name>RES Parking 2
+</name>
+			<styleUrl>#poly-4186F0-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20053</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <value>parking</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[<br/>
+<button onclick="window.location='https://maps.google.fr/maps?q=-22.4810951,-44.5424098&num=1&t=h&z=18';">Navigate to this point</button>
+<br/>]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.545548000000004,-22.480363899999997,0.0 -44.5455533,-22.481000900000005,0.0 -44.5447728,-22.480998400000004,0.0 -44.544783499999994,-22.4803664,0.0 -44.545548000000004,-22.480363899999997,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
 		
+		<Placemark>
+			<name>RES Parking 3
+</name>
+			<styleUrl>#poly-4186F0-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20052</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <value>parking</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[<br/>
+<button onclick="window.location='https://maps.google.fr/maps?q=-22.4810951,-44.5424098&num=1&t=h&z=18';">Navigate to this point</button>
+<br/>]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.5446253,-22.480411,0.0 -44.5446333,-22.480872,0.0 -44.5442873,-22.4808695,0.0 -44.5442873,-22.4804036,0.0 -44.5446253,-22.480411,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-
-		
-
-		
-		
-	  
-	  
-	  
     </Folder>
     <Folder>
       <name>POI</name>

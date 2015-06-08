@@ -13131,6 +13131,1301 @@ type: Batiment]]></description>
 				</outerBoundaryIs>
 			</Polygon>
 		</Placemark>
+  <Placemark>
+			<name>RES Area Social</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10390</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES Area Social
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.5480853,-22.4768917,0.0 -44.5476991,-22.4770751,0.0 -44.54713579999999,-22.4770156,0.0 -44.5468622,-22.476718200000008,0.0 -44.5455587,-22.476505000000007,0.0 -44.54556410000001,-22.4755533,0.0 -44.545928800000006,-22.4751964,0.0 -44.5463794,-22.475201399999992,0.0 -44.5471627,-22.475925099999998,0.0 -44.5475864,-22.475964700000006,0.0 -44.5476133,-22.4763216,0.0 -44.5480853,-22.4768917,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>RES 521</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10391</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES 521
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.55154,-22.482448199999993,0.0 -44.5500326,-22.4824532,0.0 -44.5500433,-22.4819526,0.0 -44.5517761,-22.4819476,0.0 -44.55178140000001,-22.482210299999995,0.0 -44.5515454,-22.4822103,0.0 -44.55154,-22.482448199999993,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>RES 524</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10392</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES 524
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.5511323,-22.480901700000004,0.0 -44.55100360000001,-22.480901700000004,0.0 -44.5509875,-22.481090099999996,0.0 -44.55051,-22.481095100000005,0.0 -44.5505261,-22.480292099999996,0.0 -44.5511162,-22.4802921,0.0 -44.5511323,-22.480901700000004,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>RES 525</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10393</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES 525
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.5505315,-22.479920299999996,0.0 -44.55051,-22.481095100000005,0.0 -44.54978590000001,-22.481105,0.0 -44.54978590000001,-22.4806688,0.0 -44.54941029999999,-22.4806737,0.0 -44.5494264,-22.4799376,0.0 -44.549544499999996,-22.4799302,0.0 -44.5495445,-22.4803317,0.0 -44.550236500000004,-22.4803268,0.0 -44.5502365,-22.4799302,0.0 -44.5505315,-22.479920299999996,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>RES 520</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10394</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES 520
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.5497698,-22.481794,0.0 -44.54978590000001,-22.481105,0.0 -44.5509875,-22.481090099999996,0.0 -44.5509875,-22.481238800000003,0.0 -44.551244999999994,-22.4812438,0.0 -44.5512503,-22.4813231,0.0 -44.5514113,-22.4813181,0.0 -44.5514059,-22.4814569,0.0 -44.5510358,-22.4814569,0.0 -44.5510197,-22.481794,0.0 -44.5497698,-22.481794,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	  <Placemark>
+			<name>RES 638</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10395</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES 638
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.5484984,-22.4808621,0.0 -44.5484769,-22.4812735,0.0 -44.5483589,-22.4812933,0.0 -44.54835889999999,-22.4814817,0.0 -44.5480049,-22.4814817,0.0 -44.54801560000001,-22.4806787,0.0 -44.5481712,-22.4806688,0.0 -44.5481712,-22.4808621,0.0 -44.5484984,-22.4808621,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>RES 640</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10396</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES 640
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.5479673,-22.480663800000002,0.0 -44.54801560000001,-22.4806787,0.0 -44.5479995,-22.4813677,0.0 -44.547227,-22.4813479,0.0 -44.547227,-22.4806688,0.0 -44.54765619999999,-22.4806688,0.0 -44.5476562,-22.4808819,0.0 -44.54796730000001,-22.4808819,0.0 -44.5479673,-22.480663800000002,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>RES 690</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10397</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES 690
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.546991000000006,-22.482076500000005,0.0 -44.5462078,-22.4820815,0.0 -44.5462024,-22.4816007,0.0 -44.5459878,-22.481595700000003,0.0 -44.5459932,-22.4810802,0.0 -44.5469695,-22.481075199999996,0.0 -44.5469695,-22.481189200000003,0.0 -44.546991,-22.4814569,0.0 -44.546991000000006,-22.482076500000005,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>RES 230</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10398</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES 230
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.5458108,-22.4811397,0.0 -44.54580550000001,-22.4822847,0.0 -44.5448238,-22.4822946,0.0 -44.5448238,-22.482131,0.0 -44.54418,-22.4821459,0.0 -44.5441747,-22.4817543,0.0 -44.544577,-22.4817543,0.0 -44.5445716,-22.4811248,0.0 -44.5458108,-22.4811397,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>RES 200</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10399</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES 200
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.5467228,-22.480088799999997,0.0 -44.546717400000006,-22.480247499999997,0.0 -44.5461112,-22.4802425,0.0 -44.5461112,-22.4800789,0.0 -44.5467228,-22.480088799999997,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>RES 200</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10400</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES 200 
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.5465511,-22.479860799999997,0.0 -44.546551099999995,-22.480014500000003,0.0 -44.546122,-22.480014500000003,0.0 -44.546122,-22.4798509,0.0 -44.5465511,-22.479860799999997,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>RES 150</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10401</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES 150
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.5475328,-22.4798559,0.0 -44.5475328,-22.4800888,0.0 -44.5470876,-22.4800938,0.0 -44.54709290000001,-22.479860799999997,0.0 -44.5475328,-22.4798559,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	  <Placemark>
+			<name>RES 821</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10403</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES 821
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.541751299999994,-22.4805734,0.0 -44.54174999999999,-22.4808063,0.0 -44.54124839999999,-22.4808076,0.0 -44.541245700000005,-22.4805709,0.0 -44.541751299999994,-22.4805734,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>RES 820</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10404</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES 820
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.5422998,-22.479942600000005,0.0 -44.54225420000001,-22.480126,0.0 -44.542273,-22.480245,0.0 -44.5415729,-22.4802425,0.0 -44.54157289999999,-22.4799178,0.0 -44.5422971,-22.4799228,0.0 -44.5422998,-22.479942600000005,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>RES RO</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10405</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES RO
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.54787610000001,-22.4781111,0.0 -44.54788150000001,-22.4787703,0.0 -44.5470715,-22.4787703,0.0 -44.5470768,-22.478106100000005,0.0 -44.54787610000001,-22.4781111,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>RES 330</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10406</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES 330
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.5470768,-22.478106100000005,0.0 -44.5470715,-22.4787703,0.0 -44.5466235,-22.4787728,0.0 -44.5466208,-22.478116,0.0 -44.5470768,-22.478106100000005,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>RES RCD2</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10407</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES RCD2
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.5466208,-22.478116,0.0 -44.5466235,-22.4787728,0.0 -44.5459932,-22.4787778,0.0 -44.5460093,-22.478121,0.0 -44.5466208,-22.478116,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>RES RCD3</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10408</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES RCD3
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.54601999999999,-22.4779624,0.0 -44.5460066,-22.4783168,0.0 -44.544627999999996,-22.4783193,0.0 -44.5446172,-22.4781606,0.0 -44.54462259999999,-22.478004500000004,0.0 -44.5446736,-22.4779673,0.0 -44.54601999999999,-22.4779624,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>RES RCD1</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10409</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES RCD1
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.5478627,-22.4790826,0.0 -44.54731550000001,-22.4790851,0.0 -44.5473075,-22.4794321,0.0 -44.5466101,-22.4794345,0.0 -44.5460603,-22.4794122,0.0 -44.5460629,-22.4792635,0.0 -44.5453495,-22.4792635,0.0 -44.5453548,-22.4787703,0.0 -44.54786539999999,-22.4787604,0.0 -44.5478627,-22.4790826,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>RES RT</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10410</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES RT
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.5478627,-22.4790826,0.0 -44.5478439,-22.4794296,0.0 -44.5473075,-22.4794321,0.0 -44.54731550000001,-22.4790851,0.0 -44.5478627,-22.4790826,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>RES 262</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10411</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES 262
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.54851980000001,-22.480130999999997,0.0 -44.5484045,-22.480128499999996,0.0 -44.5484018,-22.480227600000003,0.0 -44.5480853,-22.480230100000004,0.0 -44.548088,-22.4801235,0.0 -44.54802359999999,-22.480128499999996,0.0 -44.5480236,-22.480014500000003,0.0 -44.5480505,-22.480014500000003,0.0 -44.5480505,-22.4799352,0.0 -44.548442099999995,-22.4799476,0.0 -44.5484421,-22.4800343,0.0 -44.5485118,-22.4800368,0.0 -44.54851980000001,-22.480130999999997,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>RES 560</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10412</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES 560
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.54978590000001,-22.4806688,0.0 -44.5497644,-22.481908,0.0 -44.5487505,-22.481898099999995,0.0 -44.5487559,-22.4817543,0.0 -44.5486486,-22.481759299999997,0.0 -44.5486379,-22.481060399999997,0.0 -44.5491099,-22.4810703,0.0 -44.5491207,-22.4806737,0.0 -44.54978590000001,-22.4806688,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>RES 561</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10413</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES 561
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.5491207,-22.4806737,0.0 -44.5491099,-22.4810703,0.0 -44.5486379,-22.481060399999997,0.0 -44.5486593,-22.480678700000002,0.0 -44.5491207,-22.4806737,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>RES 642</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10414</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES 642
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.5484984,-22.4806688,0.0 -44.5484984,-22.4808621,0.0 -44.5481712,-22.4808621,0.0 -44.5481712,-22.4806688,0.0 -44.5484984,-22.4806688,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>RES 140</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10415</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES 140
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.5479673,-22.480663800000002,0.0 -44.54796730000001,-22.4808819,0.0 -44.5476562,-22.4808819,0.0 -44.54765619999999,-22.4806688,0.0 -44.5479673,-22.480663800000002,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>RES SODR</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10416</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES SODR
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.5502365,-22.4799302,0.0 -44.550236500000004,-22.4803268,0.0 -44.5495445,-22.4803317,0.0 -44.549544499999996,-22.4799302,0.0 -44.5502365,-22.4799302,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>RES 522</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10417</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES 522
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.551244999999994,-22.4812438,0.0 -44.5509875,-22.481238800000003,0.0 -44.5509875,-22.481090099999996,0.0 -44.55100360000001,-22.480901700000004,0.0 -44.55122889999999,-22.4808968,0.0 -44.551244999999994,-22.480995900000003,0.0 -44.5514274,-22.480991,0.0 -44.5514274,-22.4812289,0.0 -44.551244999999994,-22.4812438,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>RES 5201</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10418</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES 5201
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.5514059,-22.4814569,0.0 -44.55140049999999,-22.481561,0.0 -44.55135229999999,-22.481566,0.0 -44.5513523,-22.481744400000004,0.0 -44.55122349999999,-22.4817345,0.0 -44.5512235,-22.481793999999997,0.0 -44.5510197,-22.481794,0.0 -44.5510358,-22.4814569,0.0 -44.5514059,-22.4814569,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>RES 230 Expansão</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10419</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES 230 Expansão
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.5445716,-22.4811248,0.0 -44.544577,-22.4817543,0.0 -44.5441747,-22.4817543,0.0 -44.54418,-22.4821459,0.0 -44.5432734,-22.482136000000004,0.0 -44.543252,-22.481109900000003,0.0 -44.5445716,-22.4811248,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>RES 231</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>10420</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES 231
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.5457679,-22.482279699999996,0.0 -44.5457679,-22.4824086,0.0 -44.5456231,-22.4824086,0.0 -44.545633800000004,-22.4824978,0.0 -44.5448828,-22.4825077,0.0 -44.5448828,-22.4822896,0.0 -44.5457679,-22.482279699999996,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	  <Placemark>
+			<name>RES NF 124</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>103421</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES NF 124
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.5487666,-22.4790479,0.0 -44.5487827,-22.479251099999995,0.0 -44.5483106,-22.479251099999995,0.0 -44.548316,-22.479057799999996,0.0 -44.5487666,-22.4790479,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>RES YPÊ</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>103422</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES YPÊ
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.551127,-22.4799203,0.0 -44.5511162,-22.4802921,0.0 -44.5505261,-22.480292099999996,0.0 -44.5505315,-22.479920299999996,0.0 -44.551127,-22.4799203,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>RES RD</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>103423</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES RD
+		
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.5460066,-22.4783168,0.0 -44.5459905,-22.4787604,0.0 -44.545086600000005,-22.4787654,0.0 -44.5450866,-22.4786563,0.0 -44.5446226,-22.478661299999995,0.0 -44.544627999999996,-22.4783193,0.0 -44.5460066,-22.4783168,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		
+		
+		
+		<Placemark>
+			<name>RES 511</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>103424</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES 511
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.5456499,-22.4799253,0.0 -44.5456553,-22.480074,0.0 -44.5452636,-22.480078899999995,0.0 -44.5452636,-22.479915299999995,0.0 -44.5456499,-22.4799253,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>RES SODR Escritório</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>103425</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES SODR Escritório
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.54928699999999,-22.4799054,0.0 -44.54927090000001,-22.4804705,0.0 -44.5486969,-22.4804705,0.0 -44.54870760000001,-22.4797914,0.0 -44.54912070000001,-22.4797865,0.0 -44.54928699999999,-22.4799054,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>RES RJ</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>103426</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES RJ
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.54534950000001,-22.4790677,0.0 -44.5453548,-22.479156999999997,0.0 -44.5452261,-22.479156999999997,0.0 -44.5452261,-22.479067700000005,0.0 -44.54534950000001,-22.4790677,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>RES RLOG</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>103427</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES RLOG
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.5450866,-22.4786563,0.0 -44.545086600000005,-22.4787654,0.0 -44.5446306,-22.4787852,0.0 -44.54464140000001,-22.4786514,0.0 -44.5450866,-22.4786563,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>RES Subestação Elétrica</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>103428</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES Subestação Elétrica
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.5442176,-22.4796378,0.0 -44.5442283,-22.479731900000004,0.0 -44.54398689999999,-22.479727,0.0 -44.5439923,-22.4796229,0.0 -44.5442176,-22.4796378,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
 	  
     </Folder>
     <Folder>
