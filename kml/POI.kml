@@ -4,35 +4,7 @@
     <name>BibMaps</name>
     <Folder>
       <name>POI</name>
-      <Placemark>
-        <styleUrl>#icon-accueil</styleUrl>
-        <name>Accueil Visiteurs Carmes</name>
-        <ExtendedData>
-          <Data name="string">
-            <displayName>id</displayName>
-            <value>30001</value>
-          </Data>
-        </ExtendedData>
-        <ExtendedData>
-          <Data name="string">
-            <displayName>site</displayName>
-            <value>Carmes</value>
-          </Data>
-        </ExtendedData>
-        <ExtendedData>
-          <Data name="string">
-            <displayName>Type</displayName>
-            <value>POI</value>
-          </Data>
-        </ExtendedData>
-        <description><![CDATA[Accueil visiteurs Carmes
-
-site: Carmes
-Type: POI]]></description>
-        <Point>
-          <coordinates>3.0926728248441577,45.78320749022103,0.0</coordinates>
-        </Point>
-      </Placemark>
+      
       <Placemark>
         <styleUrl>#icon-infirmerie</styleUrl>
         <name>Infirmerie Carmes</name>
@@ -822,7 +794,7 @@ Type: POI]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
-            <value>30029</value>
+            <value>30001</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
@@ -845,20 +817,19 @@ Type: POI]]></description>
           <coordinates>3.134471,45.803595,0.0</coordinates>
         </Point>
       </Placemark>
-	  
 	  <Placemark>
         <styleUrl>#icon-accueil</styleUrl>
-        <name>Reception CUNEO CNO</name>
+        <name>Accueil Visiteurs Carmes</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
-            <value>30030</value>
+            <value>30029</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
           <Data name="string">
             <displayName>site</displayName>
-            <value>Cuneo</value>
+            <value>Carmes</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
@@ -867,14 +838,15 @@ Type: POI]]></description>
             <value>POI</value>
           </Data>
         </ExtendedData>
-        <description><![CDATA[Reception CUNEO CNO
+        <description><![CDATA[Accueil visiteurs Carmes
 
-site: Cuneo
+site: Carmes
 Type: POI]]></description>
         <Point>
-          <coordinates>7.568727,44.441232,0.0</coordinates>
+          <coordinates>3.0926728248441577,45.78320749022103,0.0</coordinates>
         </Point>
       </Placemark>
+	  
 	  
 	  <Placemark>
         <styleUrl>#icon-infirmerie</styleUrl>
@@ -970,7 +942,7 @@ Type: POI]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
-            <value>30034</value>
+            <value>30030</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
@@ -993,6 +965,36 @@ Type: POI]]></description>
           <coordinates>7.573029,44.438148,0.0</coordinates>
         </Point>
       </Placemark>
+	  <Placemark>
+        <styleUrl>#icon-accueil</styleUrl>
+        <name>Reception CUNEO CNO</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30034</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Cuneo</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Reception CUNEO CNO
+
+site: Cuneo
+Type: POI]]></description>
+        <Point>
+          <coordinates>7.568727,44.441232,0.0</coordinates>
+        </Point>
+      </Placemark>
+	  
 	  <Placemark>
         <styleUrl>#icon-accueil</styleUrl>
         <name>Visitor Entrance US1</name>

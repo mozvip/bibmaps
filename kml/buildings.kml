@@ -8374,13 +8374,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[US1 123
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -8409,13 +8409,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
         </ExtendedData>
         <description><![CDATA[US1 127
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -8445,13 +8445,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[US1 124
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -8480,13 +8480,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[US1 125
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -8515,13 +8515,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[US1 100
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -8549,13 +8549,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[US6 111
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -8583,13 +8583,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[US6 112
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -8617,13 +8617,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[US6 109
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -8651,13 +8651,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[US6 110
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -8686,13 +8686,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[US6 101
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -8721,13 +8721,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[US6 102
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -8756,13 +8756,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[US1 126
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -8791,13 +8791,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[US1 241
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -8827,13 +8827,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[US0 200
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -8862,13 +8862,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[US0 201
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -8897,13 +8897,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[US1 262 CAFE
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -8932,13 +8932,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[US1 642
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -8967,13 +8967,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[US1 563
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -9002,13 +9002,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[US1 564
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -9037,13 +9037,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[US1 643
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -9072,13 +9072,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[US1 644
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -9107,13 +9107,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[US1 645
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -9142,13 +9142,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[US1 190
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -9177,13 +9177,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[US1 239
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -9212,13 +9212,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[US1 191
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -9247,13 +9247,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[US1 238
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -9282,13 +9282,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[US1 235
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -9317,13 +9317,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[US1 230
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -9352,13 +9352,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[US1 230
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -9387,13 +9387,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[US1 128
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -9422,13 +9422,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[US1 242
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -9457,13 +9457,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[US1 402
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -9492,13 +9492,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[Family Health Center
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -9528,13 +9528,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[MSTC
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -9563,13 +9563,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[MC2
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -9597,13 +9597,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[MARC 16
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -9633,13 +9633,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[MARC 15
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -9668,13 +9668,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[MARC 33
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -9703,13 +9703,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[MARC 63
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -9738,13 +9738,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[MARC 60
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -9773,13 +9773,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[MARC 99
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -9808,13 +9808,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[MARC 64
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -9843,13 +9843,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[MARC 12
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -9878,13 +9878,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[MARC 11
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -9913,13 +9913,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[MARC 10
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -9948,13 +9948,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[MARC 95
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -9983,13 +9983,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[MARC 504
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -10018,13 +10018,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[MARC 503
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -10053,13 +10053,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[MARC 98
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -10088,13 +10088,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[MARC 94
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -10123,13 +10123,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[MARC 55
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -10158,13 +10158,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[MARC 90
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -10193,13 +10193,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[MARC 56
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -10228,13 +10228,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[MARC 50
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -10263,13 +10263,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[MARC 30
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -10298,13 +10298,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[MARC 32
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -10333,13 +10333,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
-        <description><![CDATA[MARC 15
+        <description><![CDATA[MARC 31
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -10368,13 +10368,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
-        <description><![CDATA[MARC 15
+        <description><![CDATA[MARC 51
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -10403,13 +10403,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
-        <description><![CDATA[MARC 15
+        <description><![CDATA[MARC 52
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -10438,13 +10438,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
-        <description><![CDATA[MARC 15
+        <description><![CDATA[MARC 35
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -10473,13 +10473,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
-        <description><![CDATA[MARC 15
+        <description><![CDATA[MARC 61
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -10508,13 +10508,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
-        <description><![CDATA[MARC 15
+        <description><![CDATA[MARC 96
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -10543,13 +10543,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
-        <description><![CDATA[MARC 15
+        <description><![CDATA[MARC 34
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -10579,13 +10579,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[HNA - D
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -10613,13 +10613,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[HNA - B
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -10648,13 +10648,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[HNA - E
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -10683,13 +10683,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[HNA - A
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -10718,13 +10718,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[HNA - F (1st Floor)
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -10753,13 +10753,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[HNA - C
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -10789,13 +10789,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[GDC
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -10825,13 +10825,13 @@ type: Batiment]]></description>
         <ExtendedData>
           <Data name="string">
             <displayName>Type</displayName>
-            <value>Batiment</value>
+            <value>Building</value>
           </Data>
 			</ExtendedData>
         <description><![CDATA[PRM - PRIME
 
 Site: Greenville
-type: Batiment]]></description>
+type: Building]]></description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
