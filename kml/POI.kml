@@ -1352,7 +1352,7 @@ Type: POI]]></description>
 			</Point>
 		</Placemark>
 		
-		<Placemark>
+		<!--<Placemark>
 			<name>Medical MARC US1
 </name>
 			<styleUrl>#icon-infirmerie</styleUrl>
@@ -1381,7 +1381,7 @@ Type: POI]]></description>
 			<Point>
 				<coordinates>-82.36692800000003,34.728753,0.0</coordinates>
 			</Point>
-		</Placemark>
+		</Placemark>-->
 		
 		<Placemark>
 			<name>Medical HNA</name>
@@ -1444,7 +1444,7 @@ Type: POI]]></description>
 		<Placemark>
 			<name>Wellness Center
 </name>
-			<styleUrl>#icon-info</styleUrl>
+			<styleUrl>#icon-infirmerie</styleUrl>
 			<ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
