@@ -1676,6 +1676,40 @@
 			</Polygon>
 		</Placemark>
 		
+		<Placemark>
+			<name>RES Parking Trucks &amp; Bus
+</name>
+			<styleUrl>#poly-4186F0-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20053</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <value>parking</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[<br/>
+<button onclick="window.location='https://maps.google.fr/maps?q=-22.481438,-44.5399&num=1&t=h&z=18';">Navigate to this point</button>
+<br/>]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.539851,-22.4813726,0.0 -44.540365900000005,-22.4815461,0.0 -44.54198060000001,-22.481789,0.0 -44.5420718,-22.4819278,0.0 -44.5420557,-22.4820765,0.0 -44.5418733,-22.4821558,0.0 -44.54008700000001,-22.4818683,0.0 -44.5397866,-22.4815858,0.0 -44.539851,-22.4813726,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		
     </Folder>
     <Folder>
       <name>POI</name>

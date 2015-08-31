@@ -14426,6 +14426,74 @@ type: Batiment]]></description>
 				</outerBoundaryIs>
 			</Polygon>
 		</Placemark>
+				<Placemark>
+			<name>RES 213</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>103429</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Resende</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[RES 213
+
+Site: Resende
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-44.5403364,-22.481345399999995,0.0 -44.5401943,-22.4813429,0.0 -44.5401996,-22.4812785,0.0 -44.540103099999996,-22.4812809,0.0 -44.54010040000001,-22.4811372,0.0 -44.54019699999999,-22.481137200000003,0.0 -44.5401943,-22.4811669,0.0 -44.540290799999994,-22.4811669,0.0 -44.5402908,-22.4812661,0.0 -44.5403364,-22.4812661,0.0 -44.5403364,-22.481345399999995,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CGR CFAM</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>103430</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Campo Grande</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Batiment</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[CGR CFAM
+
+Site: Campo Grande
+type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-43.575253499999995,-22.9539625,0.0 -43.574861899999995,-22.9541725,0.0 -43.5747921,-22.954066300000004,0.0 -43.5750121,-22.953937799999995,0.0 -43.57494239999999,-22.9538119,0.0 -43.5750926,-22.9537304,0.0 -43.57517030000001,-22.953839,0.0 -43.57520519999999,-22.953816799999995,0.0 -43.5756773,-22.9538143,0.0 -43.57568,-22.9539032,0.0 -43.5752133,-22.9539131,0.0 -43.575253499999995,-22.9539625,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
 	  
     </Folder>
     <Folder>
