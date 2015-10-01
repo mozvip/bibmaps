@@ -11390,7 +11390,7 @@ type: Batiment]]></description>
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>CGR PL 253</name>
+			<name>CGR CFAM</name>
 			<styleUrl>#poly-DB4436-4-76</styleUrl>
 			<ExtendedData>
           <Data name="string">
@@ -11410,7 +11410,7 @@ type: Batiment]]></description>
             <value>Batiment</value>
           </Data>
 			</ExtendedData>
-        <description><![CDATA[CGR PL 253
+        <description><![CDATA[CGR CFAM
 
 Site: Campo Grande
 type: Batiment]]></description>
@@ -14461,7 +14461,7 @@ type: Batiment]]></description>
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>CGR CFAM</name>
+			<name>CGR CFH</name>
 			<styleUrl>#poly-DB4436-4-76</styleUrl>
 			<ExtendedData>
           <Data name="string">
@@ -14481,7 +14481,7 @@ type: Batiment]]></description>
             <value>Batiment</value>
           </Data>
 			</ExtendedData>
-        <description><![CDATA[CGR CFAM
+        <description><![CDATA[CGR CFH
 
 Site: Campo Grande
 type: Batiment]]></description>
