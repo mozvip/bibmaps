@@ -305,7 +305,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Porte Combeaude</name>
+        <name>Porte Combaude</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
