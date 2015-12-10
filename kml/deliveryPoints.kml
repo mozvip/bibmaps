@@ -1020,6 +1020,249 @@ Type: Delivery point]]></description>
           <coordinates>3.111994,45.797429,0.0</coordinates>
         </Point>
       </Placemark>
+
+	  <Placemark>
+        <styleUrl>#icon-delivery</styleUrl>
+        <name>CHO Accueil Transporteur 1 Quai 3</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>70036</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Cholet</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Delivery point</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CHO Accueil Transporteur 1 Quai 3
+
+site: Cholet
+Type: Delivery point]]></description>
+        <Point>
+          <coordinates>-0.83937585353,47.064230239,0.0</coordinates>
+        </Point>
+      </Placemark>
+	  
+	  	  <Placemark>
+        <styleUrl>#icon-delivery</styleUrl>
+        <name>CHO Accueil Transporteur 2</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>70037</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Cholet</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Delivery point</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CHO Accueil Transporteur 2
+
+site: Cholet
+Type: Delivery point]]></description>
+        <Point>
+          <coordinates>-0.8326917886,47.064076766,0.0</coordinates>
+        </Point>
+      </Placemark>
+	  
+	  <Placemark>
+        <styleUrl>#icon-delivery</styleUrl>
+        <name>CHO Quai 1</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>70041</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Cholet</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Delivery point</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CHO Quai 1
+
+site: Cholet
+Type: Delivery point]]></description>
+        <Point>
+          <coordinates>-0.83653271198,47.0647271985,0.0</coordinates>
+        </Point>
+      </Placemark>
+	  
+	  
+	  	<Placemark>
+        <styleUrl>#icon-delivery</styleUrl>
+        <name>CHO Quai 9</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>70038</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Cholet</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Delivery point</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CHO Quai 9
+
+site: Cholet
+Type: Delivery point]]></description>
+        <Point>
+          <coordinates>-0.839418768882,47.0623739127,0.0</coordinates>
+        </Point>
+      </Placemark>
+
+	  	<Placemark>
+        <styleUrl>#icon-delivery</styleUrl>
+        <name>CHO Quai 8</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>70039</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Cholet</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Delivery point</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CHO Quai 8
+
+site: Cholet
+Type: Delivery point]]></description>
+        <Point>
+          <coordinates>-0.8424013853,47.0651729956,0.0</coordinates>
+        </Point>
+      </Placemark>
+
+	  	<Placemark>
+        <styleUrl>#icon-delivery</styleUrl>
+        <name>CHO Quai 10</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>70040</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Cholet</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Delivery point</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CHO Quai 10
+
+site: Cholet
+Type: Delivery point]]></description>
+        <Point>
+          <coordinates>-0.842455029487,47.06417908223,0.0</coordinates>
+        </Point>
+      </Placemark>
+
+<Placemark>
+        <styleUrl>#icon-delivery</styleUrl>
+        <name>CHO Quai 2</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>70042</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Cholet</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Delivery point</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CHO Quai 2
+
+site: Cholet
+Type: Delivery point]]></description>
+        <Point>
+          <coordinates>-0.83809912204,47.064566418,0.0</coordinates>
+        </Point>
+      </Placemark>
+	  
+	  <Placemark>
+        <styleUrl>#icon-delivery</styleUrl>
+        <name>CHO Quai 4</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>70043</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Cholet</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>Delivery point</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[CHO Quai 4
+
+site: Cholet
+Type: Delivery point]]></description>
+        <Point>
+          <coordinates>-0.83975136280,47.06463219210,0.0</coordinates>
+        </Point>
+      </Placemark>
+	  
+	  
 	  
     </Folder>
     <Style id="poly-DB4436-4-76">
