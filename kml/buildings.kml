@@ -14494,6 +14494,953 @@ type: Batiment]]></description>
 				</outerBoundaryIs>
 			</Polygon>
 		</Placemark>
+		
+<Placemark>
+			<name>CHO Accueil
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+<Data name="string">
+<displayName>id</displayName>
+<value>103431</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>site</displayName>
+<value>Cholet</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>Type</displayName>
+<value>Batiment</value>
+</Data>
+
+			</ExtendedData> 
+ <description><![CDATA[CHO Accueil
+Site: Cholet 
+ type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-0.8364683,47.0651836,0.0 -0.8364844,47.0651397,0.0 -0.8363932,47.065115999999996,0.0 -0.8363798,47.0651452,0.0 -0.8363423,47.06514339999999,0.0 -0.8363315,47.065158,0.0 -0.8363235000000001,47.0651818,0.0 -0.8363502999999999,47.0651982,0.0 -0.8363879,47.0652,0.0 -0.8364093000000001,47.0651891,0.0 -0.8364119999999999,47.0651708,0.0 -0.8364683,47.0651836,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		
+		<Placemark>
+			<name>CHO 230
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+<Data name="string">
+<displayName>id</displayName>
+<value>103432</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>site</displayName>
+<value>Cholet</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>Type</displayName>
+<value>Batiment</value>
+</Data>
+
+			</ExtendedData> 
+ <description><![CDATA[CHO 230
+Site: Cholet 
+ type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-0.8321875,47.0611768,0.0 -0.8311468,47.0638846,0.0 -0.8326542,47.0641732,0.0 -0.8327347,47.0639723,0.0 -0.832445,47.0639284,0.0 -0.8334320999999999,47.0614106,0.0 -0.8321875,47.0611768,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CHO 5
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+<Data name="string">
+<displayName>id</displayName>
+<value>103433</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>site</displayName>
+<value>Cholet</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>Type</displayName>
+<value>Batiment</value>
+</Data>
+
+			</ExtendedData> 
+ <description><![CDATA[CHO 5
+Site: Cholet 
+ type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-0.8366588000000001,47.0655106,0.0 -0.8367955999999999,47.0651836,0.0 -0.8366534,47.065154400000004,0.0 -0.8365179999999999,47.0654859,0.0 -0.8366588000000001,47.0655106,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CHO 11
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+<Data name="string">
+<displayName>id</displayName>
+<value>103434</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>site</displayName>
+<value>Cholet</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>Type</displayName>
+<value>Batiment</value>
+</Data>
+
+			</ExtendedData> 
+ <description><![CDATA[CHO 11
+Site: Cholet 
+ type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-0.8375198,47.06558009999999,0.0 -0.8375627,47.0654704,0.0 -0.8367901999999999,47.06533339999999,0.0 -0.8367553,47.0654375,0.0 -0.8375198,47.06558009999999,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CHO 33
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+<Data name="string">
+<displayName>id</displayName>
+<value>103435</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>site</displayName>
+<value>Cholet</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>Type</displayName>
+<value>Batiment</value>
+</Data>
+
+			</ExtendedData> 
+ <description><![CDATA[CHO 33
+Site: Cholet 
+ type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-0.8380616,47.0657116,0.0 -0.8381635,47.0654394,0.0 -0.8379892,47.065401,0.0 -0.8378765000000001,47.0656824,0.0 -0.8380616,47.0657116,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CHO 129
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+<Data name="string">
+<displayName>id</displayName>
+<value>103436</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>site</displayName>
+<value>Cholet</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>Type</displayName>
+<value>Batiment</value>
+</Data>
+
+			</ExtendedData> 
+ <description><![CDATA[CHO 129
+Site: Cholet 
+ type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-0.8384666,47.0658833,0.0 -0.8385926000000002,47.0655143,0.0 -0.8384183,47.0654851,0.0 -0.8382842,47.06585230000001,0.0 -0.8384666,47.0658833,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CHO 2
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+<Data name="string">
+<displayName>id</displayName>
+<value>103437</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>site</displayName>
+<value>Cholet</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>Type</displayName>
+<value>Batiment</value>
+</Data>
+
+			</ExtendedData> 
+ <description><![CDATA[CHO 2
+Site: Cholet 
+ type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-0.8376244,47.064968,0.0 -0.837678,47.0648145,0.0 -0.8375573,47.0647926,0.0 -0.8375037000000001,47.06495160000001,0.0 -0.8376244,47.064968,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CHO 25
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+<Data name="string">
+<displayName>id</displayName>
+<value>103438</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>site</displayName>
+<value>Cholet</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>Type</displayName>
+<value>Batiment</value>
+</Data>
+
+			</ExtendedData> 
+ <description><![CDATA[CHO 25
+Site: Cholet 
+ type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-0.8373696,47.0647396,0.0 -0.8365917,47.0645953,0.0 -0.8364603000000002,47.0649333,0.0 -0.8372301000000001,47.0650795,0.0 -0.8373696,47.0647396,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CHO 10
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+<Data name="string">
+<displayName>id</displayName>
+<value>103439</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>site</displayName>
+<value>Cholet</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>Type</displayName>
+<value>Batiment</value>
+</Data>
+
+			</ExtendedData> 
+ <description><![CDATA[CHO 10
+Site: Cholet 
+ type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-0.8379208000000001,47.064884,0.0 -0.8379288,47.0648511,0.0 -0.8378725,47.064841,0.0 -0.8378591,47.0648712,0.0 -0.8379208000000001,47.064884,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CHO 3
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+<Data name="string">
+<displayName>id</displayName>
+<value>103440</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>site</displayName>
+<value>Cholet</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>Type</displayName>
+<value>Batiment</value>
+</Data>
+
+			</ExtendedData> 
+ <description><![CDATA[CHO 3
+Site: Cholet 
+ type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-0.8378926,47.0649634,0.0 -0.8378068,47.0651854,0.0 -0.8392283000000001,47.0654394,0.0 -0.8393168,47.0652192,0.0 -0.8387709999999999,47.06512239999999,0.0 -0.8387992,47.0650539,0.0 -0.8381796000000001,47.0649415,0.0 -0.8381514,47.0650082,0.0 -0.8378926,47.0649634,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CHO 244 CE
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+<Data name="string">
+<displayName>id</displayName>
+<value>103441</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>site</displayName>
+<value>Cholet</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>Type</displayName>
+<value>Batiment</value>
+</Data>
+
+			</ExtendedData> 
+ <description><![CDATA[CHO 244 CE
+Site: Cholet 
+ type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-0.8391397999999999,47.06570249999999,0.0 -0.8391693,47.0656239,0.0 -0.8388528,47.0655746,0.0 -0.8388246999999998,47.065651300000006,0.0 -0.8391397999999999,47.06570249999999,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CHO 133
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+<Data name="string">
+<displayName>id</displayName>
+<value>103442</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>site</displayName>
+<value>Cholet</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>Type</displayName>
+<value>Batiment</value>
+</Data>
+
+			</ExtendedData> 
+ <description><![CDATA[CHO 133
+Site: Cholet 
+ type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-0.8400612000000001,47.0653681,0.0 -0.8401201999999999,47.065196400000005,0.0 -0.8397272000000001,47.0651242,0.0 -0.8396655,47.065295000000006,0.0 -0.839624,47.065288599999995,0.0 -0.8395729999999999,47.0654275,0.0 -0.8399525,47.0654878,0.0 -0.8399927,47.06536080000001,0.0 -0.8400612000000001,47.0653681,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CHO 19
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+<Data name="string">
+<displayName>id</displayName>
+<value>103443</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>site</displayName>
+<value>Cholet</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>Type</displayName>
+<value>Batiment</value>
+</Data>
+
+			</ExtendedData> 
+ <description><![CDATA[CHO 19
+Site: Cholet 
+ type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-0.8423504000000002,47.0656394,0.0 -0.8418045999999999,47.06553989999999,0.0 -0.8416772,47.0658843,0.0 -0.8422177000000001,47.0659765,0.0 -0.8423504000000002,47.0656394,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CHO 127
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+<Data name="string">
+<displayName>id</displayName>
+<value>103444</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>site</displayName>
+<value>Cholet</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>Type</displayName>
+<value>Batiment</value>
+</Data>
+
+			</ExtendedData> 
+ <description><![CDATA[CHO 127
+Site: Cholet 
+ type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-0.8411247,47.0656559,0.0 -0.8411515,47.06558369999999,0.0 -0.8409852,47.0655536,0.0 -0.8409584,47.0656285,0.0 -0.8411247,47.0656559,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CHO 37
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+<Data name="string">
+<displayName>id</displayName>
+<value>103445</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>site</displayName>
+<value>Cholet</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>Type</displayName>
+<value>Batiment</value>
+</Data>
+
+			</ExtendedData> 
+ <description><![CDATA[CHO 37
+Site: Cholet 
+ type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-0.8422699999999997,47.0653736,0.0 -0.8426857,47.0642902,0.0 -0.8422405,47.0642116,0.0 -0.8419695,47.0648931,0.0 -0.840961,47.0647195,0.0 -0.8408377000000001,47.06506300000001,0.0 -0.8414143,47.0651708,0.0 -0.8413929,47.0652201,0.0 -0.8422699999999997,47.0653736,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CHO 18
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+<Data name="string">
+<displayName>id</displayName>
+<value>103446</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>site</displayName>
+<value>Cholet</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>Type</displayName>
+<value>Batiment</value>
+</Data>
+
+			</ExtendedData> 
+ <description><![CDATA[CHO 18
+Site: Cholet 
+ type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-0.8396065,47.06462629999999,0.0 -0.8395261000000002,47.0648383,0.0 -0.8396146000000001,47.064849200000005,0.0 -0.8396065000000001,47.0648949,0.0 -0.8399954000000001,47.06496619999999,0.0 -0.8400089,47.064915,0.0 -0.8406553000000001,47.0650265,0.0 -0.8407277000000001,47.06482,0.0 -0.8396065,47.06462629999999,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CHO 12
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+<Data name="string">
+<displayName>id</displayName>
+<value>103447</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>site</displayName>
+<value>Cholet</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>Type</displayName>
+<value>Batiment</value>
+</Data>
+
+			</ExtendedData> 
+ <description><![CDATA[CHO 12
+Site: Cholet 
+ type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-0.8419078999999999,47.0647908,0.0 -0.8423531000000001,47.0636178,0.0 -0.8412454000000001,47.0634095,0.0 -0.8410710000000001,47.063848,0.0 -0.8394992,47.0635557,0.0 -0.8391961,47.0643011,0.0 -0.8402959,47.064503900000005,0.0 -0.8402610000000001,47.0645788,0.0 -0.8406472,47.064641,0.0 -0.8406766999999999,47.064577,0.0 -0.8419078999999999,47.0647908,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CHO 152
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+<Data name="string">
+<displayName>id</displayName>
+<value>103448</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>site</displayName>
+<value>Cholet</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>Type</displayName>
+<value>Batiment</value>
+</Data>
+
+			</ExtendedData> 
+ <description><![CDATA[CHO 152
+Site: Cholet 
+ type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-0.8392538,47.063854400000004,0.0 -0.8392900000000002,47.063753000000005,0.0 -0.838767,47.063658,0.0 -0.8387267999999999,47.063765800000006,0.0 -0.8392538,47.063854400000004,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CHO 36
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+<Data name="string">
+<displayName>id</displayName>
+<value>103449</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>site</displayName>
+<value>Cholet</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>Type</displayName>
+<value>Batiment</value>
+</Data>
+
+			</ExtendedData> 
+ <description><![CDATA[CHO 36
+Site: Cholet 
+ type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-0.8391157000000001,47.0642481,0.0 -0.8385149,47.0641385,0.0 -0.8385228999999998,47.0641148,0.0 -0.8383030000000001,47.0640801,0.0 -0.8383164000000001,47.0640545,0.0 -0.8380884,47.0640198,0.0 -0.8378630999999999,47.06457879999999,0.0 -0.8389117999999999,47.064765200000004,0.0 -0.8391157000000001,47.0642481,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CHO 23
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+<Data name="string">
+<displayName>id</displayName>
+<value>103450</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>site</displayName>
+<value>Cholet</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>Type</displayName>
+<value>Batiment</value>
+</Data>
+
+			</ExtendedData> 
+ <description><![CDATA[CHO 23
+Site: Cholet 
+ type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-0.8392014999999999,47.0636452,0.0 -0.8395797000000002,47.0626677,0.0 -0.8394483,47.0626494,0.0 -0.8394966,47.0625179,0.0 -0.8387214000000001,47.0623754,0.0 -0.8382761,47.0634954,0.0 -0.8392014999999999,47.0636452,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CHO 15
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+<Data name="string">
+<displayName>id</displayName>
+<value>103451</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>site</displayName>
+<value>Cholet</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>Type</displayName>
+<value>Batiment</value>
+</Data>
+
+			</ExtendedData> 
+ <description><![CDATA[CHO 15
+Site: Cholet 
+ type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-0.8382788,47.063183,0.0 -0.8361304,47.06278830000001,0.0 -0.8360444999999999,47.06299659999999,0.0 -0.836235,47.0630313,0.0 -0.8359668000000001,47.063753,0.0 -0.8358917,47.063926599999995,0.0 -0.8357871000000001,47.06419700000001,0.0 -0.8373776000000003,47.064482,0.0 -0.8373507999999998,47.06455509999999,0.0 -0.8377075,47.0646209,0.0 -0.8377263,47.0645533,0.0 -0.8377826000000002,47.06456240000001,0.0 -0.8382788,47.063183,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CHO 15bis
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+<Data name="string">
+<displayName>id</displayName>
+<value>103452</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>site</displayName>
+<value>Cholet</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>Type</displayName>
+<value>Batiment</value>
+</Data>
+
+			</ExtendedData> 
+ <description><![CDATA[CHO 15bis
+Site: Cholet 
+ type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-0.8356369,47.0641696,0.0 -0.8361304,47.06278830000001,0.0 -0.8356744,47.06271160000001,0.0 -0.8351433000000001,47.0640819,0.0 -0.8356369,47.0641696,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CHO 4
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+<Data name="string">
+<displayName>id</displayName>
+<value>103453</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>site</displayName>
+<value>Cholet</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>Type</displayName>
+<value>Batiment</value>
+</Data>
+
+			</ExtendedData> 
+ <description><![CDATA[CHO 4
+Site: Cholet 
+ type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-0.8354813,47.0642993,0.0 -0.8354022000000001,47.064497499999995,0.0 -0.8353351000000001,47.0644838,0.0 -0.8352639999999999,47.06466749999999,0.0 -0.8349033000000001,47.0646008,0.0 -0.8348805000000001,47.0646574,0.0 -0.8360258,47.06485289999999,0.0 -0.8361773000000001,47.0644263,0.0 -0.8354813,47.0642993,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CHO 17 bis
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+<Data name="string">
+<displayName>id</displayName>
+<value>103454</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>site</displayName>
+<value>Cholet</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>Type</displayName>
+<value>Batiment</value>
+</Data>
+
+			</ExtendedData> 
+ <description><![CDATA[CHO 17 bis
+Site: Cholet 
+ type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-0.8349501999999999,47.064144,0.0 -0.8335313,47.0638846,0.0 -0.8333436000000001,47.0643833,0.0 -0.8347678,47.0646355,0.0 -0.8349501999999999,47.064144,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CHO 17
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+<Data name="string">
+<displayName>id</displayName>
+<value>103455</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>site</displayName>
+<value>Cholet</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>Type</displayName>
+<value>Batiment</value>
+</Data>
+
+			</ExtendedData> 
+ <description><![CDATA[CHO 17
+Site: Cholet 
+ type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-0.8355295999999999,47.0626348,0.0 -0.8340704000000001,47.06237900000001,0.0 -0.8335233000000001,47.0637822,0.0 -0.8349824,47.0640526,0.0 -0.8355295999999999,47.0626348,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CHO 231
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+<Data name="string">
+<displayName>id</displayName>
+<value>103456</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>site</displayName>
+<value>Cholet</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>Type</displayName>
+<value>Batiment</value>
+</Data>
+
+			</ExtendedData> 
+ <description><![CDATA[CHO 231
+Site: Cholet 
+ type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-0.8359158,47.0616847,0.0 -0.8335984,47.0612718,0.0 -0.8332658000000001,47.0621232,0.0 -0.8342903999999999,47.0623206,0.0 -0.8342636000000001,47.06238630000001,0.0 -0.8344888999999999,47.0624302,0.0 -0.8345103000000001,47.06236440000001,0.0 -0.8355831999999999,47.0625471,0.0 -0.8359158,47.0616847,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CHO 128
+</name>
+			<styleUrl>#poly-DB4436-4-76</styleUrl>
+			<ExtendedData>
+<Data name="string">
+<displayName>id</displayName>
+<value>103457</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>site</displayName>
+<value>Cholet</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>Type</displayName>
+<value>Batiment</value>
+</Data>
+
+			</ExtendedData> 
+ <description><![CDATA[CHO 128
+Site: Cholet 
+ type: Batiment]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-0.8311012,47.0640545,0.0 -0.8308893,47.0640161,0.0 -0.8308571999999999,47.0641075,0.0 -0.8310637000000001,47.0641495,0.0 -0.8311012,47.0640545,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
 	  
     </Folder>
     <Folder>
