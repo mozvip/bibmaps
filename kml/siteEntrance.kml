@@ -854,7 +854,82 @@
 				<coordinates>-82.3665163,34.7306962,0.0</coordinates>
 			</Point>
 		</Placemark>
-	  
+<Placemark>
+<name>CHO Porte 1</name>
+<styleUrl>#icon-site-entrance</styleUrl>
+<ExtendedData>
+<Data name="string">
+<displayName>id</displayName>
+<value>50034</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>site</displayName>
+<value>Cholet</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>Type</displayName>
+<value>SiteEntrance</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-0.836049914,47.065004908,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>CHO Porte 2</name>
+<styleUrl>#icon-site-entrance</styleUrl>
+<ExtendedData>
+<Data name="string">
+<displayName>id</displayName>
+<value>50035</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>site</displayName>
+<value>Cholet</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>Type</displayName>
+<value>SiteEntrance</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-0.83480536,47.06469796,0.0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>CHO Porte 3</name>
+<styleUrl>#icon-site-entrance</styleUrl>
+<ExtendedData>
+<Data name="string">
+<displayName>id</displayName>
+<value>50036</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>site</displayName>
+<value>Cholet</value>
+</Data>
+</ExtendedData>
+<ExtendedData>
+<Data name="string">
+<displayName>Type</displayName>
+<value>SiteEntrance</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-0.833002924,47.06444948,0.0</coordinates>
+</Point>
+</Placemark>
 	  
     </Folder>
     <Style id="icon-site-entrance">
