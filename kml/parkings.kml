@@ -1710,6 +1710,40 @@
 			</Polygon>
 		</Placemark>
 		
+		<Placemark>
+			<name>CHO Parking
+</name>
+			<styleUrl>#poly-4186F0-4-76</styleUrl>
+			<ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>20054</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Cholet</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <value>parking</value>
+          </Data>
+			</ExtendedData>
+        <description><![CDATA[<br/>
+<button onclick="window.location='https://maps.google.fr/maps?q=47.0652403,-0.8345652&num=1&t=h&z=18';">Navigate to this point</button>
+<br/>]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-0.8356100000000001,47.0654887,0.0 -0.8358032,47.0649735,0.0 -0.8330351000000001,47.0644583,0.0 -0.8329976,47.0645788,0.0 -0.8328366000000001,47.06454600000001,0.0 -0.8328259000000001,47.0643523,0.0 -0.8315653,47.064133,0.0 -0.8314312,47.064524000000006,0.0 -0.8318013000000001,47.06459709999999,0.0 -0.8317798,47.0646373,0.0 -0.8321821999999999,47.0647104,0.0 -0.8321446000000001,47.0648127,0.0 -0.8356100000000001,47.0654887,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		
     </Folder>
     <Folder>
       <name>POI</name>
