@@ -6177,7 +6177,7 @@ type: Batiment]]></description>
       </Placemark>
 	  <Placemark>
         <styleUrl>#poly-DB4436-4-76</styleUrl>
-        <name>E28 acceuil entreprises</name>
+        <name>E28 accueil entreprises</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -6196,7 +6196,7 @@ type: Batiment]]></description>
             <value>Batiment</value>
           </Data>
         </ExtendedData>
-        <description><![CDATA[E28 acceuil entreprises
+        <description><![CDATA[E28 accueil entreprises
 
 Site: Ladoux
 type: Batiment]]></description>
