@@ -1741,7 +1741,95 @@ Type: POI]]></description>
 				<coordinates>-44.5457357,-22.4802809,0.0</coordinates>
 			</Point>
 		</Placemark>
+<Placemark>
+        <styleUrl>#icon-infirmerie</styleUrl>
+        <name>CHO Infirmerie</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30056</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Cholet</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Infirmerie Cholet
+
+site: Cholet
+Type: POI]]></description>
+        <Point>
+          <coordinates>-0.836811661720,47.065202228,0.0</coordinates>
+        </Point>
+      </Placemark>
 	  
+	  <Placemark>
+        <styleUrl>#icon-relais-voiture</styleUrl>
+        <name>CHO Relais Voiture Electrique</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30057</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Cholet</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Relais Voiture Electrique
+
+site: Cholet
+Type: POI]]></description>
+        <Point>
+          <coordinates>-0.835964083,47.065114530,0.0</coordinates>
+        </Point>
+      </Placemark>
+	  
+	  <Placemark>
+        <styleUrl>#icon-accueil</styleUrl>
+        <name>CHO Accueil visiteurs Cholet</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>30058</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Cholet</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>POI</value>
+          </Data>
+        </ExtendedData>
+        <description><![CDATA[Accueil visiteurs Cholet
+
+site: Cholet
+Type: POI]]></description>
+        <Point>
+          <coordinates>-0.8363395929,47.0651729957,0.0</coordinates>
+        </Point>
+      </Placemark>	  
 	  
 	  
 	  
