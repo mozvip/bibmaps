@@ -5,7 +5,7 @@
     <Folder>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Porte A17</name>
+        <name>Porte Montaigut</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -55,7 +55,7 @@
       </Placemark>
       <Placemark>
         <styleUrl>#icon-site-entrance</styleUrl>
-        <name>Porte Montaigut</name>
+        <name>Porte O14</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
