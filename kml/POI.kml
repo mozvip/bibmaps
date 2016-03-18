@@ -1623,36 +1623,6 @@ Type: POI]]></description>
 		</Placemark>
 		
 		<Placemark>
-			<name>CGR GC Enfermaria</name>
-			<styleUrl>#icon-infirmerie</styleUrl>
-			<ExtendedData>
-          <Data name="string">
-            <displayName>id</displayName>
-            <value>30052</value>
-          </Data>
-        </ExtendedData>
-        <ExtendedData>
-          <Data name="string">
-            <displayName>site</displayName>
-            <value>Campo Grande</value>
-          </Data>
-        </ExtendedData>
-        <ExtendedData>
-          <Data name="string">
-            <displayName>Type</displayName>
-            <value>POI</value>
-          </Data>
-			</ExtendedData>
-        <description><![CDATA[CGR GC Enfermaria
-
-site: Campo Grande
-Type: POI]]></description>
-			<Point>
-				<coordinates>-43.5666436,-22.9428676,0.0</coordinates>
-			</Point>
-		</Placemark>
-		
-		<Placemark>
 			<name>RES Enfermaria</name>
 			<styleUrl>#icon-infirmerie</styleUrl>
 			<ExtendedData>
